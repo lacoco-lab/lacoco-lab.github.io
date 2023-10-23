@@ -30,7 +30,7 @@ We expect all students to read the readings every week. Every student submits on
 | 2023-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2023-10-31    | Introduction to (L)LMs               |   | TBD  |                 | [Michael](https://www.mhahn.info/)  | 
 | 2023-11-07    | no class               |  |  |                |          | 
-| 2023-11-14  ---  2023-12-12 | Unit 1: LMs as cognitive models of language ||||| <!--| 2023-11-14 | Past tense debate: Historical overview | [Seidenberg & Plaut 2014](http://doi.wiley.com/10.1111/cogs.12147) |  | [Rumelhart & McClelland 1986](http://stanford.edu/~jlmcc/papers/PDP/Chapter18.pdf), [Pinker & Prince 1988](http://linkinghub.elsevier.com/retrieve/pii/0010027788900327) |  |-->
+| 2023-11-14  ---  2023-12-12 | Unit 1: LMs as cognitive models of language ||||| 
 | 2023-11-14 | Past tense debate  | [Kirov & Cotterell 2018, TACL](https://aclanthology.org/Q18-1045/), [Corkery et al. 2019, ACL](https://www.aclweb.org/anthology/P19-1376) |  |   [Seidenberg & Plaut 2014](http://doi.wiley.com/10.1111/cogs.12147), [Rumelhart & McClelland 1986](http://stanford.edu/~jlmcc/papers/PDP/Chapter18.pdf), [Pinker & Prince 1988](http://linkinghub.elsevier.com/retrieve/pii/0010027788900327), [McCurdy et al 2020, ACL](https://arxiv.org/abs/2005.08826)  | TBD |
 | 2023-11-21 | Symbolic computation and composition  | [Lake and Baroni 2018, ICML](http://proceedings.mlr.press/v80/lake18a.html), [Santoro and Lampinen et al. 2022](http://arxiv.org/abs/2102.03406) |    |                  | TBD         | 
 | 2023-11-28 | Surprisal and next-word prediction |   [Wilcox et al 2020, CogSci](https://cognitivesciencesociety.org/cogsci20/papers/0375/0375.pdf),   [Oh and Schuler 2023, TACL](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00548/115371/Why-Does-Surprisal-From-Larger-Transformer-Based) |   |  [Hale 2001, NAACL](https://dl.acm.org/doi/10.3115/1073336.1073357), [Levy 2008, Cognition](https://pages.ucsd.edu/~rlevy/papers/levy-2008-cognition.pdf) | TBD | 
@@ -83,15 +83,7 @@ If you present two papers, do not just present them separately. Rather, draw con
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
 
-<!--- Key information covered in sufficient detail
-  - ex.: main evidence for / against research question & claim
 
-- Thematic presentation - big picture findings are clear
-  - ex.: instead of a table of numbers, highlight key result
-  - ex. motivating the research question
-  - ex. giving background on key concepts, why certain research decisions were made
-
-- Critical engagement - student should contribute their own opinion on the key findings-->
 
 
 ### Term Papers
@@ -107,9 +99,7 @@ Option 2: You may draw on a larger existing benchmark. In this case, you will be
 
 The report is expected to contain a brief literature review, motivation of your question, a description of your prompts, and evaluation of the LLM's behavior. The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
 
-<!--independent project: proposal on cognitive question to investigate through LLM prompting + small lit review 
-  develop own question / stimuli - smaller number of data for evaluation required, e.g. 25-50 
-  larger / exisiting benchmark, we expect some statistical evaluation. maybe tweak / build on-->
+
 
 The report should have 8 pages of main report, plus unlimited appendix. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
@@ -124,12 +114,6 @@ Please contact Kate (kmccurdy@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saa
 ## Accommodations
 
 
-<!--TODO copied from Sebastian-->
 
 If you need any accommodations due to a disability or chronic illness, please either contact Michael at mhahn@lst.uni-saarland.de or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/administration/diversity.html) of the university.
 
-<!--# All students are welcome
-
-TODO copied from Sebastian
-
-We are committed to doing what we can to work for equity and to create an inclusive learning environment that actively values the diversity of backgrounds, identities, and experiences of everyone in this seminar. We also know that we will sometimes make missteps. If you notice some way that we could do better, we hope that you will let us know about it.-->
