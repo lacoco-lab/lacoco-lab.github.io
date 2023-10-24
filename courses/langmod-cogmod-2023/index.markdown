@@ -2,9 +2,6 @@
 
 **Course Description:** Today's large language models can show behavior that looks strikingly intelligent. This raises many questions about their relation to, and differences from, human cognition and intelligence. This seminar course dives into this rapidly emerging field at the intersection of NLP, language, and cognition.
 
-Students should have a basic understanding of natural language processing.
-
-
 **Course Management System:** [CMS](https://cms.sic.saarland/langmod_cogmod_ws23/)
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/), [Michael Hahn](https://www.mhahn.info/)
