@@ -6,6 +6,8 @@
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/), [Michael Hahn](https://www.mhahn.info/)
 
+**please contact Michael at mhahn@lst.uni-saarland.de for allocating presentation slots**
+
 **Time:** Tue 16:15–17:45
 
 **Room:** Building C7.3, Seminarraum 1.12
