@@ -6,7 +6,13 @@
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/), [Michael Hahn](https://www.mhahn.info/)
 
-**please contact Michael at mhahn@lst.uni-saarland.de for allocating presentation slots**
+**If you want to participate, please:**
+
+**1. sign up on CMS**
+
+**2. write to Michael at mhahn@lst.uni-saarland.de and let him know which papers you'd be interested in presenting.**
+
+**Most likely, each topic will be presented by a pair of students. You can also let Michael know which other student you'd like to present with.**
 
 **Time:** Tue 16:15–17:45
 
