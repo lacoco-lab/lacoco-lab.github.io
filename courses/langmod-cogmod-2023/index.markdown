@@ -33,7 +33,7 @@ We expect all students to read the readings every week. Every student submits on
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 | 2023-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
-| 2023-10-31    | Introduction to (L)LMs               |   | TBD  |                 | [Michael](https://www.mhahn.info/)  | 
+| 2023-10-31    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 | 2023-11-07    | no class               |  |  |                |          | 
 | 2023-11-14  ---  2023-12-12 | Unit 1: LMs as cognitive models of language ||||| 
 | 2023-11-14 | Past tense debate  | [Kirov & Cotterell 2018, TACL](https://aclanthology.org/Q18-1045/), [Corkery et al. 2019, ACL](https://www.aclweb.org/anthology/P19-1376) |  |   [Seidenberg & Plaut 2014](http://doi.wiley.com/10.1111/cogs.12147), [Rumelhart & McClelland 1986](http://stanford.edu/~jlmcc/papers/PDP/Chapter18.pdf), [Pinker & Prince 1988](http://linkinghub.elsevier.com/retrieve/pii/0010027788900327), [McCurdy et al 2020, ACL](https://arxiv.org/abs/2005.08826)  | TBD |
