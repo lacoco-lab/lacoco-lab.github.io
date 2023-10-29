@@ -22,7 +22,7 @@
 ## Format and requirements
 
 This is a seminar course.
-Starting from the fourth week, one or two students will present in each unit (except for the Dec 12 session). Every student will present exactly once.
+Starting from the fourth week, one or two students will present in each unit (except for the Dec 19 session). Every student will present exactly once.
 We expect all students to read the readings every week. Every student submits one question about the readings by Monday evening.
 
 
@@ -112,7 +112,7 @@ The report should have 8 pages of main report, plus unlimited appendix. The main
 
 The report should be uploaded via CMS. The due date is April 8, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the December 12, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the December 12 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the December 19 session is intended to help improve and finetune project ideas.
 
 ## Office hours
 
