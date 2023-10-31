@@ -33,14 +33,14 @@ We expect all students to read the readings every week. Every student submits on
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 | 2023-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
-| 2023-10-31    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
-| 2023-11-07    | no class               |  |  |                |          | 
+| 2023-10-31    | no class               |  |  |                |          | 
+| 2023-11-07    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 | 2023-11-14  ---  2023-12-12 | Unit 1: LMs as cognitive models of language ||||| 
 | 2023-11-14 | Past tense debate  | [Kirov & Cotterell 2018, TACL](https://aclanthology.org/Q18-1045/), [Corkery et al. 2019, ACL](https://www.aclweb.org/anthology/P19-1376) |  |   [Seidenberg & Plaut 2014](http://doi.wiley.com/10.1111/cogs.12147), [Rumelhart & McClelland 1986](http://stanford.edu/~jlmcc/papers/PDP/Chapter18.pdf), [Pinker & Prince 1988](http://linkinghub.elsevier.com/retrieve/pii/0010027788900327), [McCurdy et al 2020, ACL](https://arxiv.org/abs/2005.08826)  | TBD |
-| 2023-11-21 | Symbolic computation and composition  | [Lake and Baroni 2018, ICML](http://proceedings.mlr.press/v80/lake18a.html), [Santoro and Lampinen et al. 2022](http://arxiv.org/abs/2102.03406) |    |       [Lake and Baroni 2023, Nature](https://www.nature.com/articles/s41586-023-06668-3)           | TBD         | 
+| 2023-11-21 | Symbolic computation and composition  | [Santoro and Lampinen et al. 2022](http://arxiv.org/abs/2102.03406), [Lake and Baroni 2023, Nature](https://www.nature.com/articles/s41586-023-06668-3) |    |         [Lake and Baroni 2018, ICML](http://proceedings.mlr.press/v80/lake18a.html)         | TBD         | 
 | 2023-11-28 | Surprisal and next-word prediction |   [Wilcox et al 2020, CogSci](https://cognitivesciencesociety.org/cogsci20/papers/0375/0375.pdf),   [Oh and Schuler 2023, TACL](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00548/115371/Why-Does-Surprisal-From-Larger-Transformer-Based) |   |  [Hale 2001, NAACL](https://dl.acm.org/doi/10.3115/1073336.1073357), [Levy 2008, Cognition](https://pages.ucsd.edu/~rlevy/papers/levy-2008-cognition.pdf) | TBD | 
 | 2023-12-05 |  LLM's capabilities in formal vs functional language use | [Mahowald and Ivanova et al., 2023, arXiv](http://arxiv.org/abs/2301.06627) |   |  | TBD | 
-| 2023-12-12 | TBD | | | | TBD |
+| 2023-12-12 | Linguistic Capabilities | [Hu et al., 2023, EMNLP](https://arxiv.org/abs/2305.13264), [Hu et al., 2020, ACL](https://arxiv.org/abs/2005.03692) | | | TBD |
 | 2023-12-19 | Discussing project ideas | | | | everyone |
 | 2024-01-02  ---  2024-02-06 | Unit 2: LMs as cognitive models of understanding |  |  |  |  |
 | 2024-01-02   | How do we know how smart AI systems are? The debate over LLM understanding | [Mitchell 2023, Science](https://www.science.org/doi/10.1126/science.adj5957); [Mitchell and Krakauer 2023, PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120)  |    |                  | TBD         | 
