@@ -89,8 +89,10 @@ If you present two papers, do not just present them separately. Rather, draw con
 
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
-
-
+As a general rule of thumb, aim for about 40-60 minutes of presentation, plus 30-40 minutes of discussion.
+Discussion should happen not just after the presentation, but you should also try to engage the audience and create ample opportunity for discussion during your presentation.
+Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. They may also be useful for stimulating discussion.
+Conversely, when attending other students' talks, participate actively in the discussion.
 
 
 ### Term Papers
