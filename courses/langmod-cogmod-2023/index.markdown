@@ -4,15 +4,7 @@
 
 **Course Management System:** [CMS](https://cms.sic.saarland/langmod_cogmod_ws23/)
 
-**Instructors:** [Kate McCurdy](https://kmccurdy.github.io/), [Michael Hahn](https://www.mhahn.info/)
-
-**If you want to participate, please:**
-
-**1. sign up on CMS**
-
-**2. write to Michael at mhahn@lst.uni-saarland.de and let him know which papers you'd be interested in presenting.**
-
-**Most likely, each topic will be presented by a pair of students. You can also let Michael know which other student you'd like to present with.**
+**Instructors:** [Kate McCurdy](https://kmccurdy.github.io/)
 
 **Time:** Tue 16:15–17:45
 
@@ -117,13 +109,11 @@ The report should be uploaded via CMS. The due date is April 8, 2024, 23:59.
 
 Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the December 19 session is intended to help improve and finetune project ideas.
 
-## Office hours
+## Contact
 
-Please contact Kate (kmccurdy@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saarland.de) to schedule a meeting.
+Please contact Kate (kmccurdy@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saarland.de) for any questions.
 
 ## Accommodations
-
-
 
 If you need any accommodations due to a disability or chronic illness, please either contact Michael at mhahn@lst.uni-saarland.de or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/administration/diversity.html) of the university.
 
