@@ -59,6 +59,8 @@ For students taking the seminar for 7 credits:
 
 ### Questions
 
+Please register on the forum on CMS.
+
 Starting from the fourth week (Nov 13), every student submits one question about the readings by Monday evening.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
