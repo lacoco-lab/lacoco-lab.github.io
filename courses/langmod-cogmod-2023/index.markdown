@@ -4,15 +4,7 @@
 
 **Course Management System:** [CMS](https://cms.sic.saarland/langmod_cogmod_ws23/)
 
-**Instructors:** [Kate McCurdy](https://kmccurdy.github.io/), [Michael Hahn](https://www.mhahn.info/)
-
-**If you want to participate, please:**
-
-**1. sign up on CMS**
-
-**2. write to Michael at mhahn@lst.uni-saarland.de and let him know which papers you'd be interested in presenting.**
-
-**Most likely, each topic will be presented by a pair of students. You can also let Michael know which other student you'd like to present with.**
+**Instructors:** [Kate McCurdy](https://kmccurdy.github.io/)
 
 **Time:** Tue 16:15–17:45
 
@@ -61,11 +53,13 @@ For students taking the seminar for 4 credits:
 
 For students taking the seminar for 7 credits:
 
-    Presentation: 40%
+    Presentation: 30%
     Questions about readings: 20%
-    Final paper: 40%
+    Final paper: 50%
 
 ### Questions
+
+Please register on the forum on CMS.
 
 Starting from the fourth week (Nov 13), every student submits one question about the readings by Monday evening.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
@@ -75,7 +69,7 @@ Questions are graded on a 3-point scale (0: no question submitted, 1: superficia
 We expect that presentations will cover the key points from the readings, such as the main evidence for and against the key claims under consideration in the paper.
 
 We do not expect that presentations will cover all details of the papers. Rather, you should focus on big picture findings and conclusions, and are not expected to include every finding from the paper in your presentation.
-For instance, instead of a table of numbers, highlight key result.
+For instance, instead of a table of numbers, highlight key results.
 When there are multiple similar results in the paper, synthesize them.
 If the papers have many studies, you might select a representative subset to explain the paper's conclusions.
 On the other hand, if the assigned papers primarily discuss/review other work (as is the case in some weeks), draw on material from the work cited to provide richer content and even details where useful.
@@ -89,8 +83,11 @@ If you present two papers, do not just present them separately. Rather, draw con
 
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
-
-
+Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
+If you present on your own, your presentation can be somewhat shorter.
+Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
+Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
+Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
 
 
 ### Term Papers
@@ -114,13 +111,11 @@ The report should be uploaded via CMS. The due date is April 8, 2024, 23:59.
 
 Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the December 19 session is intended to help improve and finetune project ideas.
 
-## Office hours
+## Contact
 
-Please contact Kate (kmccurdy@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saarland.de) to schedule a meeting.
+Please contact Kate (kmccurdy@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saarland.de) for any questions.
 
 ## Accommodations
-
-
 
 If you need any accommodations due to a disability or chronic illness, please either contact Michael at mhahn@lst.uni-saarland.de or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/administration/diversity.html) of the university.
 
