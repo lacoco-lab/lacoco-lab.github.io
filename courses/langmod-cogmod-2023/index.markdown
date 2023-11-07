@@ -15,7 +15,7 @@
 
 This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit (except for the Dec 19 session). Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Monday evening.
+We expect all students to read the readings every week. Every student submits one question about the readings by Monday noon.
 
 
 ## Syllabus
@@ -61,7 +61,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the fourth week (Nov 13), every student submits one question about the readings by Monday evening.
+Starting from the fourth week (Nov 13), every student submits one question about the readings by Monday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
 ### Presentations
