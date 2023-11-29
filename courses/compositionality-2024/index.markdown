@@ -27,6 +27,17 @@ Every student will give a XXX-minute presentation.
 
 paper collection
 
+somewhat naively, a few papers that I know (to different degrees) -- there is no need to include any of these in the syllabus
+
+Kim and Linzen, COGS https://arxiv.org/abs/2010.05465
+
+Hupkes et al, Compositionality Decomposed: How do Neural Networks Generalise?  https://www.jair.org/index.php/jair/article/view/11674
+
+Hupkes et al, A taxonomy and review of generalization research in NLP https://www.nature.com/articles/s42256-023-00729-y
+
+Baroni, Linguistic generalization and compositionality in modern artificial neural networks https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307
+
+Lindemann et al, Compositional Generalization without Trees using Multiset Tagging and Latent Permutations https://arxiv.org/abs/2305.16954
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
