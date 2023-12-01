@@ -106,7 +106,7 @@ Everyone is expected to report on their project idea in the December 19, 2023, s
 
 ## Contact
 
-Please contact Xinting or Michael (mhahn@lst.uni-saarland.de) for any questions.
+Please contact Xinting (xhuang@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saarland.de) for any questions.
 
 ## Accommodations
 
