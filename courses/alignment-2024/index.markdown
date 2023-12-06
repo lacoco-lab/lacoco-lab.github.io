@@ -32,15 +32,23 @@ We expect all students to read the readings every week. Every student submits on
 
 - RLHF https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html
 
+- - constitutional AI https://arxiv.org/abs/2212.08073
+
 - DPO
 
-- Limitations https://arxiv.org/pdf/2304.11082.pdf
+- Limitations of Alignment https://arxiv.org/pdf/2304.11082.pdf
 
 - Mechanistic Interpretability
 
 - jailbreaking
+- -- https://arxiv.org/abs/2310.06474
+- -- https://arxiv.org/abs/2311.09827 (0 citations)
+- -- https://arxiv.org/abs/2310.03684 (8 citations)
+- -- https://arxiv.org/abs/2305.14950 (11 citations)
 
 - hallucination
+
+- vulnerabilities of open source LLMs https://arxiv.org/abs/2311.09447
 
 surveys
 
@@ -55,7 +63,8 @@ surveys
 - https://arxiv.org/abs/2308.05374
 - https://arxiv.org/abs/2310.02949
 - https://arxiv.org/abs/2307.15043
-- https://arxiv.org/abs/2308.09662
+- https://arxiv.org/abs/2308.09662 Red Teaming (12 citations)
+- 
 
 
 ## Evaluation
