@@ -34,6 +34,10 @@ We expect all students to read the readings every week. Every student submits on
 
 - - constitutional AI https://arxiv.org/abs/2212.08073
 
+- PPO background
+
+- Tian et al, Fine-tuning Language Models for Factuality
+
 - DPO
 
 - Limitations of Alignment https://arxiv.org/pdf/2304.11082.pdf
