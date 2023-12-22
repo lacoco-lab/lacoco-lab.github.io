@@ -32,6 +32,10 @@ TODO identify an ordering of these topics
 
 also some earlier background reading
 
+transformers as circuits
+
+indirect objects in GPT-2 https://arxiv.org/abs/2211.00593
+
 Othello-GPT https://arxiv.org/abs/2310.07582 https://arxiv.org/abs/2309.00941
 
 Causal attribution https://arxiv.org/abs/2305.08809
@@ -44,11 +48,13 @@ Attribution Patching https://arxiv.org/abs/2310.10348
 
 Activation Patching https://arxiv.org/abs/2309.16042
 
-Grokking Group Multiplication with Cosets https://arxiv.org/pdf/2312.06581.pdf
+Grokking Group Multiplication with Cosets https://arxiv.org/pdf/2312.06581.pdf also: https://arxiv.org/abs/2301.05217
 
 binding entities: https://arxiv.org/abs/2310.17191
 
 Challenges: case study of Dyck languages https://arxiv.org/abs/2312.01429
+
+Challenges: https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
 
 Clock and pizza: https://arxiv.org/abs/2306.17844
 
@@ -56,11 +62,19 @@ Monosemanticity: https://transformer-circuits.pub/2023/monosemantic-features/ind
 
 Codebook features: https://arxiv.org/pdf/2310.17230.pdf
 
+Tracr https://arxiv.org/abs/2301.05062
+
 some other papers:
+
+https://openaccess.thecvf.com/content/ICCV2023W/CLVL/html/Palit_Towards_Vision-Language_Mechanistic_Interpretability_A_Causal_Tracing_Tool_for_BLIP_ICCVW_2023_paper.html
 
 https://arxiv.org/abs/2203.14680
 
 https://arxiv.org/abs/2012.14913
+
+https://arxiv.org/abs/2307.05471
+
+
 
 ## Evaluation
 
