@@ -1,4 +1,4 @@
-# TODO
+# Mechanistic Interpretation of Neural Models
 
 DRAFT 
 
@@ -27,6 +27,40 @@ We expect all students to read the readings every week. Every student submits on
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 TODO
+
+TODO identify an ordering of these topics
+
+also some earlier background reading
+
+Othello-GPT https://arxiv.org/abs/2310.07582 https://arxiv.org/abs/2309.00941
+
+Causal attribution https://arxiv.org/abs/2305.08809
+
+Maze-Solving Transformers https://arxiv.org/abs/2312.02566
+
+Automated Circuit Discovery https://arxiv.org/abs/2304.14997
+
+Attribution Patching https://arxiv.org/abs/2310.10348
+
+Activation Patching https://arxiv.org/abs/2309.16042
+
+Grokking Group Multiplication with Cosets https://arxiv.org/pdf/2312.06581.pdf
+
+binding entities: https://arxiv.org/abs/2310.17191
+
+Challenges: case study of Dyck languages https://arxiv.org/abs/2312.01429
+
+Clock and pizza: https://arxiv.org/abs/2306.17844
+
+Monosemanticity: https://transformer-circuits.pub/2023/monosemantic-features/index.html
+
+Codebook features: https://arxiv.org/pdf/2310.17230.pdf
+
+some other papers:
+
+https://arxiv.org/abs/2203.14680
+
+https://arxiv.org/abs/2012.14913
 
 ## Evaluation
 
