@@ -40,7 +40,7 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-01-16   | Theory of Mind in LLMs             | [Kosinski 2022, arXiv](http://arxiv.org/abs/2302.02083), [Ullman 2023, arXiv](http://arxiv.org/abs/2302.08399)  |    |                  | Sarah, Eva | 
 | 2024-01-23   | Debate over Reference in LLMs     | [Bender and Koller 2020, ACL](https://aclanthology.org/2020.acl-main.463),  [Patel and Pavlick 2023, ICLR](https://openreview.net/forum?id=gJcEM8sxHK)  |    |     [Piantadosi and Hill 2022, arXiv](http://arxiv.org/abs/2208.02957),   [Pavlick 2023](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0041)           | ~Jilixin~ Aleksandra     | 
 | ~2024-01-30~   | ~Comparison to children's cognitive development~  | ~[Frank 2023, PsyArXiv](https://psyarxiv.com/uacjm/), [Yiu et al. 2023, arXiv](http://arxiv.org/abs/2305.07666)~  |    |                  | ~Hanna~     | 
-| 2024-01-30   | How next-word prediction mediates LLM reasoning  | [McCoy et al. 2023, arXiv](https://arxiv.org/pdf/2309.13638.pdf)  |    |                  | Viet Anh, Thi Thu Uyen     | 
+| 2024-01-30   | How next-word prediction mediates LLM reasoning  | [McCoy et al. 2023, arXiv](https://arxiv.org/pdf/2309.13638.pdf)  |    |                  | Viet Anh ~Thi Thu Uyen~     | 
 
 
 ## Evaluation
