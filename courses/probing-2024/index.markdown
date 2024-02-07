@@ -32,6 +32,8 @@ TODO identify an ordering of these topics
 
 also some earlier background reading
 
+ACDC https://arxiv.org/pdf/2304.14997.pdf
+
 transformers as circuits
 
 indirect objects in GPT-2 https://arxiv.org/abs/2211.00593
