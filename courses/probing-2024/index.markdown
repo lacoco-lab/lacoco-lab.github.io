@@ -32,11 +32,49 @@ TODO identify an ordering of these topics
 
 also some earlier background reading
 
-ACDC https://arxiv.org/pdf/2304.14997.pdf
+Monosemanticity: 
+- [Anthropic paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+  - [A very similar one](https://arxiv.org/abs/2309.08600)
+  - Maybe they inspired by the same [paper](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
+- [Codebook Features](https://arxiv.org/abs/2310.17230)
+
+Circuits Discovery:
+- [ACDC](https://arxiv.org/abs/2304.14997)
+- [IOI](https://arxiv.org/abs/2211.00593)
+- [Greater-than](https://arxiv.org/abs/2305.00586)
+- [Doc-string](https://www.alignmentforum.org/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only)
+
+Converting Circuits into Transformer
+- [Tracr](https://arxiv.org/abs/2301.05062)
+- Also RASP
+
+Framework to understand Transformers
+- [RASP](https://arxiv.org/abs/2106.06981)
+- [Anthropic framework](https://transformer-circuits.pub/2021/framework/index.html)
+
+A series of Lens (interpreting the hidden states)
+- Original [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+- [Tuned Lens](https://arxiv.org/abs/2303.08112)
+- [Future Lens](https://arxiv.org/abs/2311.04897)
+- [Patchscopes](https://arxiv.org/abs/2401.06102)  (see its related work for more papers)
+
+Probing
+- [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)
+- [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992) Probing syntactic information
+
+Causal operations (Activation Patching / Causal intervention / Path Patching)
+- IOI (Path Patching)
+- [Interchange intervention](https://arxiv.org/abs/2106.02997) (Activation Patching) Mapping hidden representations to nodes in computational graph.
+
+Some earlier papers
+- [Integrated Gradients](https://arxiv.org/abs/1703.01365)  Attribution methods
+- [Diffmask](https://arxiv.org/abs/2004.14992) Attribution methods
+- [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650) Estimate head importance, prune heads
+- [Some heads do heavy lifting](https://aclanthology.org/P19-1580/) Estimate head importance, prune heads, examine attention
+- [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)  Examine attention pattern
 
 transformers as circuits
 
-indirect objects in GPT-2 https://arxiv.org/abs/2211.00593
 
 Othello-GPT https://arxiv.org/abs/2310.07582 https://arxiv.org/abs/2309.00941
 
@@ -60,11 +98,6 @@ Challenges: https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
 
 Clock and pizza: https://arxiv.org/abs/2306.17844
 
-Monosemanticity: https://transformer-circuits.pub/2023/monosemantic-features/index.html
-
-Codebook features: https://arxiv.org/pdf/2310.17230.pdf
-
-Tracr https://arxiv.org/abs/2301.05062
 
 some other papers:
 
