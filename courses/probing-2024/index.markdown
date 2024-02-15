@@ -63,8 +63,17 @@ Probing
 - [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992) Probing syntactic information
 
 Causal operations (Activation Patching / Causal intervention / Path Patching)
-- IOI (Path Patching)
+- IOI, ACDC (Path Patching)
+- Patchscopes (Activation Patching)
 - [Interchange intervention](https://arxiv.org/abs/2106.02997) (Activation Patching) Mapping hidden representations to nodes in computational graph.
+- [DAS](https://arxiv.org/abs/2303.02536) a follow-up work to the above paper
+- More papers to be added
+
+Other interesting papers:
+- [Grokking](https://arxiv.org/abs/2301.05217)
+- [MLP are key-value memories](https://arxiv.org/abs/2012.14913)
+- A follow-up work to the above [link](https://arxiv.org/abs/2203.14680)  (to read)
+- 
 
 Some earlier papers
 - [Integrated Gradients](https://arxiv.org/abs/1703.01365)  Attribution methods
@@ -72,6 +81,11 @@ Some earlier papers
 - [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650) Estimate head importance, prune heads
 - [Some heads do heavy lifting](https://aclanthology.org/P19-1580/) Estimate head importance, prune heads, examine attention
 - [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)  Examine attention pattern
+
+
+--------
+
+
 
 transformers as circuits
 
@@ -92,7 +106,7 @@ Grokking Group Multiplication with Cosets https://arxiv.org/pdf/2312.06581.pdf a
 
 binding entities: https://arxiv.org/abs/2310.17191
 
-Challenges: case study of Dyck languages https://arxiv.org/abs/2312.01429
+Challenges: case study of Dyck languages https://arxiv.org/abs/2312.01429  (another paper about Dyck https://arxiv.org/abs/2303.02536)
 
 Challenges: https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
 
