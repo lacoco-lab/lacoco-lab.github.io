@@ -4,6 +4,8 @@
 
 **Prerequisites:** Background in machine learning. Basic understanding of probability and other mathematical foundations.
 
+There is no need for background in neuroscience.
+
 **Course Management System:** TODO
 
 **Instructors:** Michael Hahn
@@ -29,9 +31,9 @@ We expect all students to read the readings every week. Every student submits on
 | 2023-10-24    | First Meeting               |  |  |                | |
 | 1   | Basics of Neurons               |  |  |                | https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model |
 | 2    | Brain-DNN Alignment           |  |  |                | |
-| 3    | Population Coding; Fisher information           |  |  |                | |
+| 3    | Population Coding; Fisher information (???)           |  |  |                | |
 | 4    | TODO       |  |  |                | |
-| 5    | Behavioral Implications: Biases           |  |  |                | |
+| 5    | Behavioral Implications: Biases           |  |  |                | https://www.nature.com/articles/s41593-024-01574-x |
 | 6    | Grid Cells           |  |  |                |e.g. https://arxiv.org/abs/1803.07770 |
 | 7    | Reinforcement Learning           |  |  |                | |
 | 8    | Sparse Coding   ??        |  |  |                | |
