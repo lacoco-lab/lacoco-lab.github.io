@@ -59,6 +59,7 @@ A series of Lens (interpreting the hidden states)
 - [Patchscopes](https://arxiv.org/abs/2401.06102)  (see its related work for more papers)
 
 Probing
+- [Probing in a synthetic setting](https://arxiv.org/abs/2210.13382) Probing game state, Gradient-based Intervention
 - [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)
 - [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992) Probing syntactic information
 
