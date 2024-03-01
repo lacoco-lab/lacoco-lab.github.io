@@ -1,5 +1,6 @@
-# Mechanistic Interpretation of Neural Models
+# Probing and Analyzing Neural Language Models
 
+### Warning: this page is currently revising, take the information with a grain of salt
 DRAFT 
 
 **Course Description:** TODO
