@@ -1,6 +1,7 @@
 # Compositionality DRAFT
 
-**Course Description:** TODO REDO Today's large language models can show behavior that looks strikingly intelligent. This raises many questions about their relation to, and differences from, human cognition and intelligence. This seminar course dives into this rapidly emerging field at the intersection of NLP, language, and cognition.
+**Course Description:** Compositionality --- roughly, the ability to correctly process wholes given the ability to correctly process their parts --- is a core property of human cognition and especially natural language, where it enables ``infinite use of finite means'' (von Humboldt 1836, as quoted by Chomsky
+1965). Recent advances in modeling natural language have raised new questions in this domain: are modern artificial neural networks capable of compositional generalization --- and for that matter, how capable are humans? This blockseminar briefly reviews foundational and recent work on the core scientific question of compositionality.
 
 **Course Management System:** [CMS](https://cms.sic.saarland/langmod_cogmod_ws23/) TODO 
 
@@ -38,6 +39,34 @@ Hupkes et al, A taxonomy and review of generalization research in NLP https://ww
 Baroni, Linguistic generalization and compositionality in modern artificial neural networks https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307
 
 Lindemann et al, Compositional Generalization without Trees using Multiset Tagging and Latent Permutations https://arxiv.org/abs/2305.16954
+
+### Preliminary topics
+
+- What is compositionality?
+  - different views in linguistics -[Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)
+  - ? in current philosophy - [Szabo 2020](https://plato.stanford.edu/entries/compositionality/)
+  - a working approach in NLP - [Bender et al 2015](https://aclanthology.org/W15-0128)
+  - ? a recent philosophical treatment w/r/t machine learning - [Nefdt 2020](https://doi.org/10.1007/s11023-020-09519-6)
+- Do ANNs achieve compositional generalization? - evidence of problems
+  - an early overview - [Baroni 2019](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307)
+  - ? COGS, an influential benchmark - [Kim and Linzen 2020](https://aclanthology.org/2020.emnlp-main.731)
+  - ? maybe not a problem after all - [Csordas et al, 2021](https://aclanthology.org/2021.emnlp-main.49)
+  - SLOG, a recent update - [Li et al 2023](https://aclanthology.org/2023.emnlp-main.194/)
+- Foundational issue: abstraction
+  - Rule- vs exemplar-based generalization - [Dasgupta et al 2022](https://proceedings.mlr.press/v162/dasgupta22b.html)
+  - Information compression and model capacity - [Resnick et al 2020](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1125.pdf)
+  - Trade-off with variation - [Conklin and Smith 2023](https://openreview.net/pdf?id=-Yzz6vlX7V-)
+- Some approaches to increasing ANN compositionality
+  - Data augmentation - [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/)
+  - Meta learning - will be discussed in human comparison part
+  - TPRs, distributed representations for explicit composition - [Smolensky et al 2022](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18599)
+  - Neurosymbolic / program synthesis - pick some reference here TBD
+- How compositional are humans anyway?
+  - Humans generalize recursively to compose longer linguistic sequences than seen in training - [McCoy et al 2021](https://escholarship.org/uc/item/67z0195s)
+  - Meta-learning better approximates human symbol mapping than symbolic composition - [Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3)
+  - ? Humans are biased toward abstraction, ANNs toward pattern-matching - [Kumar et al 2023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011316)
+  - ? LMs are more logical than humans but repeat some fallacies - [Eisape et al 2023](https://arxiv.org/abs/2311.00445)
+  - ? LMs show human-like content effects on reasoning tasks - [Dasgupta et al 2023](https://arxiv.org/abs/2207.07051)
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
