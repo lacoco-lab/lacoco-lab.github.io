@@ -1,6 +1,6 @@
 # Compositionality DRAFT
 
-**Course Description:** Compositionality --- roughly, the ability to correctly process wholes given the ability to correctly process their parts --- is a core property of human cognition and especially natural language, where it enables ``infinite use of finite means.'' Recent advances in Natural Language Processing have raised new questions in this domain: are modern artificial neural networks capable of compositional generalization --- and for that matter, how capable are humans? This blockseminar briefly reviews foundational and recent work on the core scientific question of compositionality.
+**Course Description:** Compositionality --- roughly, the ability to correctly process wholes given the ability to correctly process their parts --- is a core property of human cognition and especially natural language, where it enables ``infinite use of finite means'' as familiar components combine to produce novel words and setnences. Recent advances in Natural Language Processing have raised new questions in this domain: are modern artificial neural networks capable of compositional generalization --- and for that matter, how capable are humans? This blockseminar briefly reviews foundational and recent work on the core scientific question of compositionality.
 
 **Course Management System:** [CMS](https://cms.sic.saarland/langmod_cogmod_ws23/) TODO 
 
