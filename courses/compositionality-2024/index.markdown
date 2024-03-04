@@ -58,8 +58,8 @@ Lindemann et al, Compositional Generalization without Trees using Multiset Taggi
 - Some approaches to increasing ANN compositionality
   - Data augmentation - [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/)
   - Meta learning - will be discussed in human comparison part
-  - TPRs, distributed representations for explicit composition - [Smolensky et al 2022](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18599)
-  - Neurosymbolic / program synthesis - pick some reference here TBD
+  - Explicit composition of distributed representations - [Smolensky et al 2022](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18599)
+  - Symbolic methods: Neurosymbolic / program synthesis - pick some reference here TBD
 - How compositional are humans anyway?
   - Humans generalize recursively to compose longer linguistic sequences than seen in training - [McCoy et al 2021](https://escholarship.org/uc/item/67z0195s)
   - Meta-learning better approximates human symbol mapping than symbolic composition - [Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3)
