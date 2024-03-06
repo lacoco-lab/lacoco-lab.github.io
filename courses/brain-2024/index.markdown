@@ -30,6 +30,7 @@ We expect all students to read the readings every week. Every student submits on
 | 2023-10-31    | no class               |  |  |                |          | 
 | 2023-11-07    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 
+https://link.springer.com/article/10.1007/s00422-024-00983-2
 
 ## Evaluation
 
