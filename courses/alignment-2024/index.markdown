@@ -39,48 +39,72 @@ In each session, two students will together present two papers on a common topic
   
 | Date          | Topic               | Readings  | Slides  | Related Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-| (1) 2024-04-16    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
+| (1) 2024-04-16    | no class               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | (2) 2024-04-23    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
-| (3) 2024-04-30    | no class
-| (4) 2024-05-07     | Reinforcement lerning background                     | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347)            |           |    TBD |
+| (3) 2024-04-30    | no class |
+<!--Session-->
+| (4) 2024-05-07   
+| Reinforcement lerning background                     | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347)            |           |    TBD |
 |               |                     | RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
 |               |  | AlpacaFarm: [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html) | | TBD |
-| (5) 2024-05-14    |  Further developments                   | DPO: [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
+<!--Session-->
+| (5) 2024-05-14   
+|  Further developments                   | DPO: [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
 |               |                     | PRO:  [AAAI 2024](https://arxiv.org/abs/2306.17492)           |           |    TBD |
 |      |                     |   Aligning Language Models with Human Preferences via a Bayesian Approach [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99b419554537c66bf27e5eb7a74c7de4-Abstract-Conference.html)           |           |    TBD |
 |               |                     |    RRHF: Rank Responses to Align Language Models with Human Feedback [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/23e6f78bdec844a9f7b6c957de2aae91-Abstract-Conference.html)          |           |    TBD |
-| (6) 2024-05-21    |                   |   Human Preferences Dataset [Ji et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)           |           |    TBD |
+<!--Session-->
+| (6) 2024-05-21  
+|                   |   Human Preferences Dataset [Ji et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)           |           |    TBD |
 |               |                     |     Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8c90b65739ae8417e61eadb521f63d5-Abstract-Conference.html)         |           |    TBD |
-| (7) 2024-05-28    |                  |     constitutional AI [Bai et al 2022, arXiV](https://arxiv.org/abs/2212.08073)         |           |    TBD |
+<!--Session-->
+| (7) 2024-05-28   
+|                  |     constitutional AI [Bai et al 2022, arXiV](https://arxiv.org/abs/2212.08073)         |           |    TBD |
 |               |                     |  self-alignment [Sun et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0764db1151b936aca59249e2c1386101-Abstract-Conference.html)            |           |    TBD |
-| (8) 2024-06-04    |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
+<!--Session-->
+| (8) 2024-06-04   
+|  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
 |               |   Theoretical limitations of Alignment    |   [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
 | (9) 2024-06-11    |   Alignment in Vision and Language Models                  |   InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html)           |           |    TBD |
 |               |                     |    Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)         |           |    TBD |
-| (10) 2024-06-18    |                     |   In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)           |           |    TBD |
+<!--Session-->
+| (10) 2024-06-18 
+|                     |   In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)           |           |    TBD |
 |               |                     |              |           |    TBD |
-| (11) 2024-06-25    |  Safety                   | Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e7938ede51225b490bb69f7b361a9259-Abstract-Conference.html)             |           |    TBD |
-|               |                     |  Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)            |           |    TBD |
-| (12) 2024-07-02     |                     |   TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cf04d01a0e76f8b13095349d9caca033-Abstract-Conference.html)           |           |    TBD |
-|               |                     |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)           |           |    TBD |
+<!--Session-->
+| (11) 2024-06-25  
+|  Safety        |                     |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)           |           |    TBD |
 |               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)     |           |    TBD |
+<!--Session-->
+| (12) 2024-07-02  
+|                     |   TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cf04d01a0e76f8b13095349d9caca033-Abstract-Conference.html)           |           |    TBD |
 |               | Sleeper Agents     | [arXiV 2024](https://arxiv.org/abs/2401.05566)      |           |    TBD |
 |               |  Interpretable Prompt Injection    |  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |           |    TB
-| (14) 2024-07-09     | Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)          |           |    TBD |
+<!--Session-->
+| (13) 2024-07-09 
+| Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)          |           |    TBD |
 |               |                     |    Language Models Meet World Models: Embodied Experiences Enhance Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee6630dcbcff857026e474fc857aa9f0-Abstract-Conference.html)          |           |    TBD |
-| (15) 2024-07-16    |   Hallucination, Unfaithfulness, Truthfulness                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)          |           |    TBD |
+<!--Session-->
+| (14) 2024-07-16 
+|   Hallucination, Unfaithfulness, Truthfulness                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)          |           |    TBD |
 |               |   Truthfulness         |  [TODO](https://arxiv.org/abs/2110.06674)        |           |    TBD |
 |               |   Honesty as best policy         | [arXiV 2023](https://arxiv.org/abs/2312.01350)         |           |    TBD |
 |               |    Lie detection        |  [arXiV 2023](https://arxiv.org/abs/2309.15840)        |           |    TBD |
 |               |   Faithfulness in CoT        |  [arXiV 2023](https://arxiv.org/abs/2307.13702)        |           |    TBD |
 |               |  Sycophancy    | [arXiV 2023](https://arxiv.org/pdf/2310.13548.pdf)      |           |    TBD |
 |               |                     |    Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)          |           |    TBD |
-| (16) 2024-07-23    |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |           |    TBD |
+<!--Session-->
+| (16) 2024-07-23  
+|  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |           |    TBD |
 |               |                     |   ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)           |           |    TBD |
-|               |    Whose opinions do LMs reflect?        |  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
+|               |           | Whose opinions do LMs reflect?  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
 
 
 ### a few other readings we could consider
+
+|  Safety                   | Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e7938ede51225b490bb69f7b361a9259-Abstract-Conference.html)             |           |    TBD |
+|               |                     |  Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)            |           |    TBD |
+
 
 - Scaling Laws[2020, arXiV](https://arxiv.org/abs/2001.08361) 
 - Language Models as Agent Models [TODO](https://arxiv.org/abs/2212.01681) 
