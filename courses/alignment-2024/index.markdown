@@ -40,8 +40,8 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-04-16    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2024-04-23    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 | 2024-04-30    | no class
-| 2024-05-7     |                     |              |           |    TBD |
-| 2024-05-14    |                     |              |           |    TBD |
+| 2024-05-7     | RL background; RLHF                    | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347); RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
+| 2024-05-14    | DPO                    |  [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
 | 2024-05-21    |                     |              |           |    TBD |
 | 2024-05-28    |                     |              |           |    TBD |
 | 2024-06-4     |                     |              |           |    TBD |
@@ -53,13 +53,6 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-07-16    |                     |              |           |    TBD |
 | 2024-07-23    |                     |              |           |    TBD |
 
-RLHF: Finetuning LMs with Reinforcement Learning
-
-- RL background: PPO [Schulman et al 2017](https://arxiv.org/abs/1707.06347)
-
-- RLHF [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
-
-- DPO [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)
 
 Datasets and Benchmarks: Human Preferences
 
