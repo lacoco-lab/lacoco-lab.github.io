@@ -13,6 +13,8 @@ If you are a Comuter Science student, you should initially register via the Comp
 
 If you register for the class, you may either be directly admitted or waitlisted. We will make final decisions by the end of the first week of the Summer semester.
 
+If you want to take the course, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+
 **Course Management System:** https://cms.sic.saarland/alignment_2024/
 
 **Instructors:** Michael Hahn
@@ -31,7 +33,7 @@ We expect all students to read the readings every week. Every student submits on
 
 ## Syllabus
 
-**Note: The syllabus is subject to change. We will discuss this in the first and second meeting.**
+**Note: The syllabus is subject to change. We will discuss this in the first and second meeting. If you want to present on something that **
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
@@ -47,13 +49,89 @@ We expect all students to read the readings every week. Every student submits on
 
 - DPO [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)
 
+- Failures of Safety Training [Wei et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fd6613131889a4b656206c50a8bd7790-Abstract-Conference.html)
+
+- Human Preferences Dataset [Ji et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)
+
+- Theoretical limitations of Alignment [TODO 2023, arXiV](https://arxiv.org/pdf/2304.11082.pdf)
+
+- LLMs leaking sensitive information [e.g. something here](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=LLMs+leaking+sensitive+information&btnG=)
+
+- Red Teaming LLMs [e.g., something here](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=red+teaming+llms&btnG=)
+
+- LLama adapter [TODO](https://arxiv.org/abs/2303.16199)
+
+- self-alignment [Sun et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0764db1151b936aca59249e2c1386101-Abstract-Conference.html)
+
+- Aligning Language Models with Human Preferences via a Bayesian Approach [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99b419554537c66bf27e5eb7a74c7de4-Abstract-Conference.html)
+
+- 
+InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html)
+
+- 
+On Evaluating Adversarial Robustness of Large Vision-Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html)
+
+- 
+Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8c90b65739ae8417e61eadb521f63d5-Abstract-Conference.html)
+
+- 
+TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cf04d01a0e76f8b13095349d9caca033-Abstract-Conference.html)
+
+- 
+In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)
+
+- 
+Language Is Not All You Need: Aligning Perception with Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)
+
+- Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e7938ede51225b490bb69f7b361a9259-Abstract-Conference.html)
+
+- Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)
+
+- 
+Language Models Meet World Models: Embodied Experiences Enhance Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee6630dcbcff857026e474fc857aa9f0-Abstract-Conference.html)
+
+- 
+MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)
+
+- using LLMs to find problems in ML systems: 
+Mass-Producing Failures of Multimodal Systems with Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d570ed1708bbe19cb60f7a7aff60575-Abstract-Conference.html)
+
+- 
+Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)
+
+- 
+Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)
+
+- 
+Large Language Models of Code Fail at Completing Code with Potential Bugs [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/819cebb05f993840e8a52d7564c5c282-Abstract-Conference.html)
+
+- 
+Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)
+
+- 
+RRHF: Rank Responses to Align Language Models with Human Feedback [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/23e6f78bdec844a9f7b6c957de2aae91-Abstract-Conference.html)
+
+- finetuning over the internet [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/28bf1419b9a1f908c15f6195f58cb865-Abstract-Conference.html)
+
+- 
+ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)
+
+- Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/43e9d647ccd3e4b7b5baab53f0368686-Abstract-Conference.html)
+
+
+
+
+
+
+- alignment in vision
+
 Hallucinations
 
 - Tian et al, Fine-tuning Language Models for Factuality
 
 - DPO
 
-- Limitations of Alignment [TODO 2023, arXiV](https://arxiv.org/pdf/2304.11082.pdf)
+
 
 - Mechanistic Interpretability
 
