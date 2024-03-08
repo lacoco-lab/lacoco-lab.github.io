@@ -63,12 +63,32 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-07-16    |   Hallucination, Unfaithfulness, Truthfulness                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)          |           |    TBD |
 |               |                     |    Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)          |           |    TBD |
 | 2024-07-23    |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |           |    TBD |
-|               |                     |              |           |    TBD |
-
-
+|               |                     |   ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)           |           |    TBD |
+| ???    |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
+|               |   Scaling Laws                  | [2020, arXiV](https://arxiv.org/abs/2001.08361)             |           |    TBD |
+|               |   Language Models as Agent Models           | [TODO](https://arxiv.org/abs/2212.01681)             |           |    TBD |
+|               |  LMs helping align humans          | [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)         |           |    TBD |
+|               |    Whose opinions do LMs reflect?        |  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
+|               |   Truthfulness         |  [TODO](https://arxiv.org/abs/2110.06674)        |           |    TBD |
+|               |   Honesty as best policy         | [arXiV 2023](https://arxiv.org/abs/2312.01350)         |           |    TBD |
+|               |    Lie detection        |  [arXiV 2023](https://arxiv.org/abs/2309.15840)        |           |    TBD |
+|               |   Faithfulness in CoT        |  [arXiV 2023](https://arxiv.org/abs/2307.13702)        |           |    TBD |
+|               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)     |           |    TBD |
+|               | Sleeper Agents     | [arXiV 2024](https://arxiv.org/abs/2401.05566)      |           |    TBD |
+|               |   Theoretical limitations of Alignment    |   [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
+|               |  Interpretable Prompt Injection    |  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |           |    TBD |
+|               |  Sycophancy    | [arXiV 2023](https://arxiv.org/pdf/2310.13548.pdf)      |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
 
 ### a few other readings we could consider
 
+- A General Language Assistant as a Laboratory for Alignment https://arxiv.org/abs/2112.00861
+- 
 
 - On Evaluating Adversarial Robustness of Large Vision-Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) 
 
@@ -83,7 +103,7 @@ Mass-Producing Failures of Multimodal Systems with Language Models [2023, NeurIP
 
 - Failures of Safety Training [Wei et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fd6613131889a4b656206c50a8bd7790-Abstract-Conference.html)
 
-- Theoretical limitations of Alignment [TODO 2023, arXiV](https://arxiv.org/pdf/2304.11082.pdf)
+- 
 
 - LLMs leaking sensitive information [e.g. something here](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=LLMs+leaking+sensitive+information&btnG=)
 
