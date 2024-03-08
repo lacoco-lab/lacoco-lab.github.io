@@ -42,8 +42,9 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-04-30    | no class
 | 2024-05-7     | RL background: PPO                     | [Schulman et al 2017](https://arxiv.org/abs/1707.06347)            |           |    TBD |
 |               |  RLHF                   |   [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
+|               | AlpacaFarm | [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html) | | TBD |
 | 2024-05-14    | DPO                    |  [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
-|               |                     |              |           |    TBD |
+|               | PRO                    |   [AAAI 2024](https://arxiv.org/abs/2306.17492)           |           |    TBD |
 | 2024-05-21    | Datasets and Benchmarks: Human Preferences                    |   Human Preferences Dataset [Ji et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)           |           |    TBD |
 |               |                     |     Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8c90b65739ae8417e61eadb521f63d5-Abstract-Conference.html)         |           |    TBD |
 | 2024-05-28    |  Other Approaches to Alignment:                   |     constitutional AI [Bai et al 2022, arXiV](https://arxiv.org/abs/2212.08073)         |           |    TBD |
