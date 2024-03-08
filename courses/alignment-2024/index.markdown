@@ -48,13 +48,11 @@ In each session, two students will together present two papers (in the "Readings
 |               |                     | RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
 |               |  | AlpacaFarm: [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html) | | TBD |
 | (5) 2024-05-14   |  Further developments                   | DPO: [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
-|               |                     | PRO:  [AAAI 2024](https://arxiv.org/abs/2306.17492)           |           |    TBD |
-|      |                     |   Aligning Language Models with Human Preferences via a Bayesian Approach [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99b419554537c66bf27e5eb7a74c7de4-Abstract-Conference.html)           |           |    TBD |
-|               |                     |    RRHF: Rank Responses to Align Language Models with Human Feedback [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/23e6f78bdec844a9f7b6c957de2aae91-Abstract-Conference.html)          |           |    TBD |
-| (6) 2024-05-21  |                   |   Human Preferences Dataset [Ji et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)           |           |    TBD |
 |               |                     |     Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8c90b65739ae8417e61eadb521f63d5-Abstract-Conference.html)         |           |    TBD |
-| (7) 2024-05-28  |                  |     constitutional AI [Bai et al 2022, arXiV](https://arxiv.org/abs/2212.08073)         |           |    TBD |
+| (6) 2024-05-21 | Further developments                  |     constitutional AI [Bai et al 2022, arXiV](https://arxiv.org/abs/2212.08073)         |           |    TBD |
 |               |                     |  self-alignment [Sun et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0764db1151b936aca59249e2c1386101-Abstract-Conference.html)            |           |    TBD |
+| (7) 2024-05-28  |   | |
+| (8) 2024-06-04  |   | |
 | (9) 2024-06-11    |   Alignment in Vision and Language Models                  |   InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html)           |           |    TBD |
 |               |                     |    Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)         |           |    TBD |
 | (13) 2024-07-09 | Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)          |           |    TBD |
@@ -77,6 +75,10 @@ In each session, two students will together present two papers (in the "Readings
 
 ### a few other readings we could consider
 
+|               |      Other approaches to aligning               | PRO:  [AAAI 2024](https://arxiv.org/abs/2306.17492)           |           |    TBD |
+|      |                     |   Aligning Language Models with Human Preferences via a Bayesian Approach [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99b419554537c66bf27e5eb7a74c7de4-Abstract-Conference.html)           |           |    TBD |
+|               |                     |    RRHF: Rank Responses to Align Language Models with Human Feedback [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/23e6f78bdec844a9f7b6c957de2aae91-Abstract-Conference.html)          |           |    TBD |
+|  |                   |   Human Preferences Dataset [Ji et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)           |           |    TBD |
 |  Safety                   | Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e7938ede51225b490bb69f7b361a9259-Abstract-Conference.html)             |           |    TBD |
 |               |                     |  Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)            |           |    TBD |
                    |   TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cf04d01a0e76f8b13095349d9caca033-Abstract-Conference.html)           |           |    TBD |
