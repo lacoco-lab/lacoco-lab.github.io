@@ -4,7 +4,7 @@
 
 We will read a diverse set of recent technical papers from this highly dynamic field.
 
-Many of our readings will be quite technical.
+Many of our readings will be quite technical. You will need a good background in NLP or machine learning in order to thrive in this course.
 
 **Registration:**
 If you are an LST / computational linguistics student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/).
