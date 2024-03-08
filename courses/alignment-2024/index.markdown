@@ -57,7 +57,7 @@ In each session, two students will together present two papers (in the "Readings
 | (7) 2024-06-11  |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)     |         |           |    TBD |
 |               |       | Theoretical limitations of Alignment:  [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |    |           |    TBD |
 | (8) 2024-06-18 |   Truthfulness I                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)     |         |      [arXiV 2023](https://arxiv.org/abs/2307.13702)       |    TBD |
-|               |   Honesty as best policy         | [NeurIPS 2023](https://arxiv.org/abs/2312.01350)      |       |     [TODO](https://arxiv.org/abs/2110.06674)      |    TBD |
+|        |       |   Honesty as best policy         | [NeurIPS 2023](https://arxiv.org/abs/2312.01350)      |       |     [TODO](https://arxiv.org/abs/2110.06674)      |    TBD |
 |   (9)   2024-06-25         |    Truthfulness II  | Sycophancy [arXiV 2023](https://arxiv.org/pdf/2310.13548.pdf)      |    |           |    TBD |
 |               |                     |    Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)       |       |   Lie detection  [arXiV 2023](https://arxiv.org/abs/2309.15840)          |    TBD |
 | (10) 2024-07-02  |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)      |         |    ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)       |    TBD |
@@ -67,7 +67,7 @@ In each session, two students will together present two papers (in the "Readings
 | (12) 2024-07-16  |  Safety  I              |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)     |          |           |    TBD |
 |               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)    |     |           |    TBD |
 | (13) 2024-07-23  | Safety II     | Sleeper Agents: [arXiV 2024](https://arxiv.org/abs/2401.05566)     |     |           |    TBD |
-|                                   |  Interpretable Prompt Injection:  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |    |           |    TB
+|              |                     |  Interpretable Prompt Injection:  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |    |           |    TB
 
 
 ### a few other readings we could consider
