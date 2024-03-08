@@ -57,7 +57,6 @@ In each session, two students will together present two papers on a common topic
 |               |   Theoretical limitations of Alignment    |   [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
 | (9) 2024-06-11    |   Alignment in Vision and Language Models                  |   InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html)           |           |    TBD |
 |               |                     |    Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)         |           |    TBD |
-<!--Session-->
 | (10) 2024-06-18 |                     |   In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)           |           |    TBD |
 |               |                     |              |           |    TBD |
 | (11) 2024-06-25  |  Safety        |                     |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)           |           |    TBD |
