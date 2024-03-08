@@ -61,23 +61,23 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-07-9     | Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)          |           |    TBD |
 |               |                     |    Language Models Meet World Models: Embodied Experiences Enhance Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee6630dcbcff857026e474fc857aa9f0-Abstract-Conference.html)          |           |    TBD |
 | 2024-07-16    |   Hallucination, Unfaithfulness, Truthfulness                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)          |           |    TBD |
-|               |                     |    Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)          |           |    TBD |
-| 2024-07-23    |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |           |    TBD |
-|               |                     |   ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)           |           |    TBD |
-| ???    |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
-|               |   Scaling Laws                  | [2020, arXiV](https://arxiv.org/abs/2001.08361)             |           |    TBD |
-|               |   Language Models as Agent Models           | [TODO](https://arxiv.org/abs/2212.01681)             |           |    TBD |
-|               |  LMs helping align humans          | [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)         |           |    TBD |
-|               |    Whose opinions do LMs reflect?        |  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
 |               |   Truthfulness         |  [TODO](https://arxiv.org/abs/2110.06674)        |           |    TBD |
 |               |   Honesty as best policy         | [arXiV 2023](https://arxiv.org/abs/2312.01350)         |           |    TBD |
 |               |    Lie detection        |  [arXiV 2023](https://arxiv.org/abs/2309.15840)        |           |    TBD |
 |               |   Faithfulness in CoT        |  [arXiV 2023](https://arxiv.org/abs/2307.13702)        |           |    TBD |
+|               |  Sycophancy    | [arXiV 2023](https://arxiv.org/pdf/2310.13548.pdf)      |           |    TBD |
+|               |                     |    Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)          |           |    TBD |
+| 2024-07-23    |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |           |    TBD |
+|               |                     |   ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)           |           |    TBD |
+| ???    |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
+|               |   Theoretical limitations of Alignment    |   [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
+|               |    Whose opinions do LMs reflect?        |  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
+|               |   Scaling Laws                  | [2020, arXiV](https://arxiv.org/abs/2001.08361)             |           |    TBD |
+|               |   Language Models as Agent Models           | [TODO](https://arxiv.org/abs/2212.01681)             |           |    TBD |
+|               |  LMs helping align humans          | [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)         |           |    TBD |
 |               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)     |           |    TBD |
 |               | Sleeper Agents     | [arXiV 2024](https://arxiv.org/abs/2401.05566)      |           |    TBD |
-|               |   Theoretical limitations of Alignment    |   [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
-|               |  Interpretable Prompt Injection    |  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |           |    TBD |
-|               |  Sycophancy    | [arXiV 2023](https://arxiv.org/pdf/2310.13548.pdf)      |           |    TBD |
+|               |  Interpretable Prompt Injection    |  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |           |    TB
 |               |      |       |           |    TBD |
 |               |      |       |           |    TBD |
 |               |      |       |           |    TBD |
