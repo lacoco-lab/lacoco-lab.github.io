@@ -40,18 +40,30 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-04-16    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2024-04-23    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 | 2024-04-30    | no class
-| 2024-05-7     | RL background; RLHF                    | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347); RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
+| 2024-05-7     | RL background: PPO                     | [Schulman et al 2017](https://arxiv.org/abs/1707.06347)            |           |    TBD |
+|               |  RLHF                   |   [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
 | 2024-05-14    | DPO                    |  [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-05-21    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-05-28    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-06-4     |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-06-11    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-06-18    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-06-25    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-07-2     |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-07-9     |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-07-16    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 | 2024-07-23    |                     |              |           |    TBD |
+|               |                     |              |           |    TBD |
 
 
 Datasets and Benchmarks: Human Preferences
