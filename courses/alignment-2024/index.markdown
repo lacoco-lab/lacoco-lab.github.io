@@ -65,7 +65,7 @@ In each session, two students will together present two papers (in the "Readings
 | (11) 2024-07-09 |      LMs modeling humans               |   In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)           |        |       |    TBD |
 |                  |                    | LMs helping align humans : [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)   |   | | TBD |
 | (12) 2024-07-16  |  Safety  I              |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)     |          |           |    TBD |
-|               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)    |     |           |    TBD |
+|  |             | Transferable attacks on aligned LMs   [arXiV 2023](https://arxiv.org/abs/2307.15043)    |     |           |    TBD |
 | (13) 2024-07-23  | Safety II     | Sleeper Agents: [arXiV 2024](https://arxiv.org/abs/2401.05566)     |     |           |    TBD |
 |              |                     |  Interpretable Prompt Injection:  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |    |           |    TB
 
