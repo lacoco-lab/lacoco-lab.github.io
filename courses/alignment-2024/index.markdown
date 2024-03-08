@@ -37,9 +37,21 @@ We expect all students to read the readings every week. Every student submits on
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-| 2023-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
-| 2023-10-31    | no class               |  |  |                |          | 
-| 2023-11-07    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
+| 2024-04-16    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
+| 2024-04-23    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
+| 2024-04-30    | no class
+| 2024-05-7     |                     |              |           |    TBD |
+| 2024-05-14    |                     |              |           |    TBD |
+| 2024-05-21    |                     |              |           |    TBD |
+| 2024-05-28    |                     |              |           |    TBD |
+| 2024-06-4     |                     |              |           |    TBD |
+| 2024-06-11    |                     |              |           |    TBD |
+| 2024-06-18    |                     |              |           |    TBD |
+| 2024-06-25    |                     |              |           |    TBD |
+| 2024-07-2     |                     |              |           |    TBD |
+| 2024-07-9     |                     |              |           |    TBD |
+| 2024-07-16    |                     |              |           |    TBD |
+| 2024-07-23    |                     |              |           |    TBD |
 
 RLHF: Finetuning LMs with Reinforcement Learning
 
