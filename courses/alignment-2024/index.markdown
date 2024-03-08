@@ -55,8 +55,6 @@ In each session, two students will together present two papers (in the "Readings
 |               |                     |    Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)         |           |    TBD |
 | (13) 2024-07-09 | Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)          |           |    TBD |
 |               |                     |    Language Models Meet World Models: Embodied Experiences Enhance Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee6630dcbcff857026e474fc857aa9f0-Abstract-Conference.html)          |           |    TBD |
-| (10) 2024-06-18 |                     |   In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)           |           |    TBD |
-|               |                     | TODO             |           |    TBD |
 | (8) 2024-06-04  |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
 |               |       | Theoretical limitations of Alignment:  [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
 | (14) 2024-07-16 |   Truthfulness I                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)          |      [arXiV 2023](https://arxiv.org/abs/2307.13702)       |    TBD |
@@ -65,6 +63,8 @@ In each session, two students will together present two papers (in the "Readings
 |               |                     |    Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html)          |   Lie detection  [arXiV 2023](https://arxiv.org/abs/2309.15840)          |    TBD |
 | (16) 2024-07-23  |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |    ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)       |    TBD |
 |               |           | Whose opinions do LMs reflect?  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
+| (10) 2024-06-18 |                     |   In-Context Impersonation Reveals Large Language Models' Strengths and Biases [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)           |           |    TBD |
+|                  |                    | LMs helping align humans : [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)  | | TBD |
 | (11) 2024-06-25  |  Safety  I      |                     |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)           |           |    TBD |
 |               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)     |           |    TBD |
 | (12) 2024-07-02  | Safety II     | Sleeper Agents     | [arXiV 2024](https://arxiv.org/abs/2401.05566)      |           |    TBD |
@@ -83,7 +83,7 @@ In each session, two students will together present two papers (in the "Readings
 
 - Scaling Laws[2020, arXiV](https://arxiv.org/abs/2001.08361) 
 - Language Models as Agent Models [TODO](https://arxiv.org/abs/2212.01681) 
-- LMs helping align humans : [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html) 
+- 
 
 - A General Language Assistant as a Laboratory for Alignment https://arxiv.org/abs/2112.00861
 - 
