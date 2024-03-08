@@ -43,8 +43,7 @@ In each session, two students will together present two papers on a common topic
 | (2) 2024-04-23    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 | (3) 2024-04-30    | no class |
 <!--Session-->
-| (4) 2024-05-07   
-| Reinforcement lerning background                     | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347)            |           |    TBD |
+| (4) 2024-05-07   | Reinforcement lerning background                     | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347)            |           |    TBD |
 |               |                     | RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
 |               |  | AlpacaFarm: [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html) | | TBD |
 <!--Session-->
