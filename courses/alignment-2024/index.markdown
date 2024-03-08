@@ -78,20 +78,13 @@ In each session, two students will together present two papers on a common topic
 | 2024-07-23    |  Measuring Alignment                   |   MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f751c6f8bfb52c60f43942896fe65904-Abstract-Conference.html)           |           |    TBD |
 |               |                     |   ETHICS dataset [ICLR 2021](https://arxiv.org/pdf/2008.02275.pdf)           |           |    TBD |
 |               |    Whose opinions do LMs reflect?        |  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
-|               |   Scaling Laws                  | [2020, arXiV](https://arxiv.org/abs/2001.08361)             |           |    TBD |
-|               |   Language Models as Agent Models           | [TODO](https://arxiv.org/abs/2212.01681)             |           |    TBD |
-|               |  LMs helping align humans          | [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)         |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
-|               |      |       |           |    TBD |
+
 
 ### a few other readings we could consider
+
+- Scaling Laws[2020, arXiV](https://arxiv.org/abs/2001.08361) 
+- Language Models as Agent Models [TODO](https://arxiv.org/abs/2212.01681) 
+- LMs helping align humans : [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html) 
 
 - A General Language Assistant as a Laboratory for Alignment https://arxiv.org/abs/2112.00861
 - 
