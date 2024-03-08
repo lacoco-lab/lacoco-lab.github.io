@@ -58,6 +58,9 @@ We expect all students to read the readings every week. Every student submits on
 |               |                     |  Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)            |           |    TBD |
 | 2024-07-2     |                     |   TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cf04d01a0e76f8b13095349d9caca033-Abstract-Conference.html)           |           |    TBD |
 |               |                     |   ProPILE: Probing Privacy Leakage in Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)           |           |    TBD |
+|               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)     |           |    TBD |
+|               | Sleeper Agents     | [arXiV 2024](https://arxiv.org/abs/2401.05566)      |           |    TBD |
+|               |  Interpretable Prompt Injection    |  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |           |    TB
 | 2024-07-9     | Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)          |           |    TBD |
 |               |                     |    Language Models Meet World Models: Embodied Experiences Enhance Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee6630dcbcff857026e474fc857aa9f0-Abstract-Conference.html)          |           |    TBD |
 | 2024-07-16    |   Hallucination, Unfaithfulness, Truthfulness                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)          |           |    TBD |
@@ -72,12 +75,12 @@ We expect all students to read the readings every week. Every student submits on
 | ???    |  Limitations of Alignment                   |  Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)          |           |    TBD |
 |               |   Theoretical limitations of Alignment    |   [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |           |    TBD |
 |               |    Whose opinions do LMs reflect?        |  [TODO](https://arxiv.org/abs/2303.17548)        |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
+|               |      |       |           |    TBD |
 |               |   Scaling Laws                  | [2020, arXiV](https://arxiv.org/abs/2001.08361)             |           |    TBD |
 |               |   Language Models as Agent Models           | [TODO](https://arxiv.org/abs/2212.01681)             |           |    TBD |
 |               |  LMs helping align humans          | [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f978c8f3b5f399cae464e85f72e28503-Abstract-Conference.html)         |           |    TBD |
-|               | Transferable attacks on aligned LMs     |  [arXiV 2023](https://arxiv.org/abs/2307.15043)     |           |    TBD |
-|               | Sleeper Agents     | [arXiV 2024](https://arxiv.org/abs/2401.05566)      |           |    TBD |
-|               |  Interpretable Prompt Injection    |  [arXiV 2023](https://arxiv.org/abs/2311.01011)     |           |    TB
 |               |      |       |           |    TBD |
 |               |      |       |           |    TBD |
 |               |      |       |           |    TBD |
