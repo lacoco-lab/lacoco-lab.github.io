@@ -7,13 +7,12 @@ We will read a diverse set of recent technical papers from this highly dynamic f
 Many of our readings will be quite technical. You will need a good background in NLP or machine learning in order to thrive in this course.
 
 **Registration:**
-If you are an LST / computational linguistics student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/).
+If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
-If you are a Comuter Science student, you should initially register via the Computer Science department seminar registration system.
+If you are a **Comuter Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing mhahn@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/) once you were selected by the assignment system or otherwise admitted by us.
 
-If you register for the class, you may either be directly admitted or waitlisted. We will make final decisions by the end of the first week of the Summer semester.
+**In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
-If you want to take the course, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 **Course Management System:** https://cms.sic.saarland/alignment_2024/
 
