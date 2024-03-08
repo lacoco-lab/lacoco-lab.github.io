@@ -48,8 +48,7 @@ In each session, two students will together present two papers on a common topic
 |               |                     | RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)            |           |    TBD |
 |               |  | AlpacaFarm: [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html) | | TBD |
 <!--Session-->
-| (5) 2024-05-14   
-|  Further developments                   | DPO: [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
+| (5) 2024-05-14   |  Further developments                   | DPO: [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)            |           |    TBD |
 |               |                     | PRO:  [AAAI 2024](https://arxiv.org/abs/2306.17492)           |           |    TBD |
 |      |                     |   Aligning Language Models with Human Preferences via a Bayesian Approach [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99b419554537c66bf27e5eb7a74c7de4-Abstract-Conference.html)           |           |    TBD |
 |               |                     |    RRHF: Rank Responses to Align Language Models with Human Feedback [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/23e6f78bdec844a9f7b6c957de2aae91-Abstract-Conference.html)          |           |    TBD |
