@@ -33,9 +33,9 @@ We expect all students to read the readings every week. Every student submits on
 Each week, we will focus on one topic. Each topic has two readings, to be jointly presented by two people.
 
 
-## Syllabus
+## Preliminary Syllabus
 
-**Note: The syllabus is subject to change. We will discuss this in the first and second meeting.**
+**Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
@@ -60,7 +60,7 @@ Each week, we will focus on one topic. Each topic has two readings, to be jointl
 | 2024-    |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
 | (9) 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
 | 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
-| (11) 2024-    | ConvNets        | [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724)  | TBA  |     [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)            | TBD  | 
+| (11) 2024-    | ConvNets        | [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724)  | TBA  |     [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251), [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)            | TBD  | 
 | 2024-    |                | [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the) | TBA  |                 | TBD  | 
 | (12) 2024-    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |                 | TBD  | 
 | 2024-    |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
