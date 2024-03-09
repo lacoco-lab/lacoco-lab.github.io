@@ -8,11 +8,23 @@ The seminar can also be interesting for students with a background in neuroscien
 
 We will read a range of materials, from both the machine learning and neuroscience literatures.
 
+We will look into questions such as:
+
+
+* how and why do representations of language models align with brain imaging data of people comprehending language?
+
+* how can we use machine learning for mindreading: decoding thoughts and language from people's brain recordings, even when they aren't talking
+
+* how do ConvNets and other computer vision architectures relate to the way the brain processes visual information?
+
+* how do both AI and natural intelligence use reinforcement learning to optimize behavior?
+
+and several more.
+
 **Expectations regarding understanding of the material:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
 
-Given the interdisciplinary nature of the course readings, it is fully expected that not everything in the readings will be understandable to everyone in the class. 
-Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
+Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if some details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
 
 **Course Management System:** https://cms.sic.saarland/brain_2024/
@@ -43,28 +55,30 @@ In each session, two students will together present two papers (in the "Readings
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2024-04-18    | no class               |  |  |                |          | 
-| (1) 2024-04-25    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
+| 2024-04-25    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
 |  2024-05-02    | Basics of Neuroscience               |  |  |                |    [Michael](https://www.mhahn.info/)      | 
-| (2) 2024-05-09    | no class   |    | TBA  |                 | TBD  | 
-|               |                |   | TBA  |                 | TBD  | 
-| (3) 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
+| 2024-05-09    | no class   |    |   |                 |   | 
+|               | Part 1: Computer Vision and the Visual Cortex | | |
+| 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
 |     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) | TBA  |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
-| (4) 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+| 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
 |    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
-| (5) 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
+| 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
 |     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
-| (6) 2024-06-06    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+| 2024-06-06    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
 |  |             | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
-| (7) 2024-06-13    | Aligning Language Models and Brains            | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf),   Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html),  [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)                    | TBD  | 
-|     |                |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
-| (8) 2024-06-20    | Project Ideas           |   | TBA  |         | Everyone | 
-| (9) 2024-06-27    | ALigning Vision Modes and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
+| 2024-06-13    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
 |     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) | TBA  |             | TBD  | 
-| (10) 2024-07-04    | Decoding from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
+| 2024-06-20    | Project Ideas           |   | TBA  |         | Everyone | 
+|               | Part 2: Language Models and the Language Network | | |
+| 2024-06-13    | Aligning Language Models and Brains            | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf),   Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html),  [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)                    | TBD  | 
+|     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
+| 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
 |     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
-| (11) 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
+|               | Part 3: Reinforcement Learning | | |
+| 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
 |     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
-| (12) 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
+| 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
 |     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
 
 <!--| (11) 2024-07-11    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
