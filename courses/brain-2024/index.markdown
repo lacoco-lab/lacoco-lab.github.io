@@ -1,26 +1,35 @@
 # Neural Networks in Brains and Computers
 
-**Course Description:** TODO
+**Course Description:** We will look into the intersection of machine learning and neuroscience.
 
-Intended audience has a background in either machine learning/NLP or neuroscience/neurolinguistics.
+The main target audience is students with a background in machine learning who are interested in learning about the brain and how it processes information, how artificial neural networks relate to real neurons, how machine learning can help understand the brain better, and how machine learning models may end up aligning with representations found in the brain.
 
-Given the interdisciplinary nature of the course readings, it is fully expected that not everything in the readings will be understandable to everyone in the class.
-Michael is happy to meet with you once to talk through any questions about the paper you're assigned.
+The seminar can also be interesting for students with a background in neuroscience.
+
+We will read a range of materials, drawing on textbooks and research papers.
+
+**Expectations regarding your background:**
+It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
+
+Given the interdisciplinary nature of the course readings, it is fully expected that not everything in the readings will be understandable to everyone in the class. 
+Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall points, it is fully acceptable if details that aren't clsoely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're transparent and upfront about points you don't understand in your presentation.
+
 
 **Course Management System:** TODO
 
 **Instructors:** Michael Hahn
 
-**Time:** Tue 16:15–17:45
+**Time:** Thu 12:15–13:45
 
-**Room:** Building C7.3, Seminarraum 1.12
+**Room:** Building C7.3, Seminarraum  -1.05 
 
 
 ## Format and requirements
 
 This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit (except for the Dec 19 session). Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Monday noon.
+We expect all students to read the readings every week. Every student submits one question about the readings by Wednesday noon.
+
 
 
 ## Syllabus
@@ -29,25 +38,37 @@ We expect all students to read the readings every week. Every student submits on
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-| 2023-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
-| 2023-10-31    | no class               |  |  |                |          | 
-| 2023-11-07    | Introduction to Neural Networks               |   | TBA  |                 | [Michael](https://www.mhahn.info/)  | 
-| 2023-10-31    | no class               |  |  |                |          | 
+| 2024-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
+| 2024-10-31    | no class               |  |  |                |          | 
+| 2024-11-07    | Introduction to Neural Networks               |   | TBA  |                 | [Michael](https://www.mhahn.info/)  | 
+| 2024-10-31    | no class               |  |  |                |          | 
 
 
-| 2023-    | Basics: Tuning and Gain             |   | TBA  |                 | TBD  | 
-| 2023-    |                |   | TBA  |                 | TBD  | 
+| 2024-    | Basics: Tuning and Gain             |   | TBA  |                 | TBD  | 
+| 2024-    |                |   | TBA  |                 | TBD  | 
 
 
-| 2023-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
-| 2023-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
+| 2024-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+| 2024-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
 
 
-| 2023-    | Models of Vision             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
-| 2023-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
+| 2024-    | Models of Vision             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+| 2024-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
 
-| 2023-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
-| 2023-    |                |   | TBA  |                 | TBD  | 
+| 2024-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
+| 2024-    |                |   | TBA  |                 | TBD  | 
+
+
+| 2024-    | Decoding from the brain         |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
+| 2024-    |                |   | TBA  |                 | TBD  | 
+
+| 2024-    | Model-brain alignment      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
+| 2024-    |                |  Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html) | TBA  |    [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)             | TBD  | 
+
+
+
+| 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
+| 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
 
 Models of visual working memory
 
