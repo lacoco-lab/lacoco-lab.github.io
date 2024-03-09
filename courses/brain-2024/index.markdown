@@ -50,24 +50,25 @@ Each week, we will focus on one topic. Each topic has two readings, to be jointl
 | 2024-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
 | (4) 2024-    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
 | 2024-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
-| (5) 2024-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
-| 2024-    |                |  TODO | TBA  |                 | TBD  | 
-| (6) 2024-    | LM-Brain Alignment            |  TODO | TBA  |                 | TBD  | 
-| 2024-    |                | TODO  | TBA  |                 | TBD  | 
-| (7) 2024-    | Decoding from the brain         |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
-| 2024-    |                |   | TBA  |                 | TBD  | 
+| (6) 2024-    | LM-Brain Alignment            |  [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  |                 | TBD  | 
+| 2024-    |                | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  | TBA  |                 | TBD  | 
+| (5) 2024-    | LM-Brain Alignment           |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
+| 2024-    |                |  [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | TBA  |                 | TBD  | 
 | (8) 2024-    | Model-brain alignment      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
 | 2024-    |                |  Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html) | TBA  |    [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)             | TBD  | 
+| (7) 2024-    | Decoding from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
+| 2024-    |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
 | (9) 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
 | 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
-| (10) 2024-    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
-| 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
 | (11) 2024-    | ConvNets        | [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724)  | TBA  |     [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)            | TBD  | 
 | 2024-    |                | [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the) | TBA  |                 | TBD  | 
 | (12) 2024-    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |                 | TBD  | 
 | 2024-    |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
 | (13) 2024-    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
 | 2024-    |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
+| (10) 2024-    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
+| 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
+
 
 brain-computer interfaces
 
