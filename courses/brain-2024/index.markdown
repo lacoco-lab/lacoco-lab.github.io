@@ -4,6 +4,9 @@
 
 Intended audience has a background in either machine learning/NLP or neuroscience/neurolinguistics.
 
+Given the interdisciplinary nature of the course readings, it is fully expected that not everything in the readings will be understandable to everyone in the class.
+Michael is happy to meet with you once to talk through any questions about the paper you're assigned.
+
 **Course Management System:** TODO
 
 **Instructors:** Michael Hahn
@@ -28,7 +31,26 @@ We expect all students to read the readings every week. Every student submits on
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 | 2023-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2023-10-31    | no class               |  |  |                |          | 
-| 2023-11-07    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
+| 2023-11-07    | Introduction to Neural Networks               |   | TBA  |                 | [Michael](https://www.mhahn.info/)  | 
+| 2023-10-31    | no class               |  |  |                |          | 
+
+
+| 2023-    | Basics: Tuning and Gain             |   | TBA  |                 | TBD  | 
+| 2023-    |                |   | TBA  |                 | TBD  | 
+
+
+| 2023-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+| 2023-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
+
+
+| 2023-    | Models of Vision             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+| 2023-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
+
+| 2023-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
+| 2023-    |                |   | TBA  |                 | TBD  | 
+
+Models of visual working memory
+
 
 https://link.springer.com/article/10.1007/s00422-024-00983-2
 
