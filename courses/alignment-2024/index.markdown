@@ -14,7 +14,7 @@ If you are a **Computer Science** student, you should initially register via the
 **In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
-**Course Management System:** https://cms.sic.saarland/alignment_2024/
+**Course Management System:** [CMS](https://cms.sic.saarland/alignment_2024/)
 
 **Instructors:** [Michael Hahn](https://www.mhahn.info/)
 
@@ -26,7 +26,7 @@ If you are a **Computer Science** student, you should initially register via the
 ## Format and requirements
 
 This is a seminar course.
-Starting from the fourth week, one or two students will present in each unit (except for one session). Every student will present exactly once.
+Starting from the fourth week, one or two students will present in each unit (except for the TODO session). Every student will present exactly once.
 We expect all students to read the readings every week. Every student submits one question about the readings by Monday noon.
 
 
@@ -42,7 +42,7 @@ In each session, two students will together present two papers (in the "Readings
 |  2024-04-16    | no class               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2024-04-23    | Introduction to (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 |  2024-04-30    | no class |
-| 2024-05-07   | Reinforcement lerning background                     | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347)       |         |           |    TBD |
+| 2024-05-07   | Reinforcement learning background                     | PPO: [Schulman et al 2017](https://arxiv.org/abs/1707.06347)       |         |           |    TBD |
 |               |                     | RLHF:  [Ouyang et al 2022, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)           |     |           |    TBD |
 | 2024-05-14   |  Further developments                   | DPO: [Rafailov et al, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)       |         |    AlpacaFarm: [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html)     |        TBD |
 |    |                     |     Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8c90b65739ae8417e61eadb521f63d5-Abstract-Conference.html)    |         |           |    TBD |
@@ -52,9 +52,9 @@ In each session, two students will together present two papers (in the "Readings
 |     |                     |    Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)       |      |           |    TBD |
 | 2024-06-04 | Alignment beyond language                    |  Language Is Not All You Need: Aligning Perception with Language Models  [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e425b75bac5742a008d643826428787c-Abstract-Conference.html)       |       |           |    TBD |
 |     |                     |    Language Models Meet World Models: Embodied Experiences Enhance Language Models [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee6630dcbcff857026e474fc857aa9f0-Abstract-Conference.html)       |       |           |    TBD |
-| 2024-06-11  |  Limitations of Alignment                   | Failures of Safety Training [Wei et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fd6613131889a4b656206c50a8bd7790-Abstract-Conference.html)    |         |      Sleeper Agents: [arXiV 2024](https://arxiv.org/abs/2401.05566)  ,     Transferable attacks on aligned LMs   [arXiV 2023](https://arxiv.org/abs/2307.15043)     |    TBD |
+| 2024-06-11 | Project Ideas | | | Everyone |
+| 2024-06-18  |  Limitations of Alignment                   | Failures of Safety Training [Wei et al 2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fd6613131889a4b656206c50a8bd7790-Abstract-Conference.html)    |         |      Sleeper Agents: [arXiV 2024](https://arxiv.org/abs/2401.05566)  ,     Transferable attacks on aligned LMs   [arXiV 2023](https://arxiv.org/abs/2307.15043)     |    TBD |
 |     |       | Theoretical limitations of Alignment:  [arXiv 2023](https://arxiv.org/pdf/2304.11082.pdf)    |    |        Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [2023, arXiV](https://arxiv.org/abs/2307.15217)     |    TBD |
-| 2024-06-18 | Project Ideas | | | Everyone |
 | 2024-06-25 |   Truthfulness I                  |    Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [2023, NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html)     |         |      [arXiV 2023](https://arxiv.org/abs/2307.13702)       |    TBD |
 |     |       |   Honesty as best policy: [NeurIPS 2023](https://arxiv.org/abs/2312.01350)      |       |     [TODO](https://arxiv.org/abs/2110.06674)      |    TBD |
 | 2024-07-02         |    Truthfulness II  | Sycophancy [arXiV 2023](https://arxiv.org/pdf/2310.13548.pdf)      |    |           |    TBD |
@@ -212,7 +212,8 @@ Option 1: You may develop your own question and prompts. In this case, you will 
 
 Option 2: You may draw on a larger existing benchmark. In this case, you will be expected to find some new angle on the benchmark, e.g., by tweaking the stimuli or by evaluating the LLM's behavior in a different way.
 
-The report is expected to contain a brief literature review, motivation of your question, a description of your prompts, and evaluation of the LLM's behavior. The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
+The report is expected to contain a brief literature review, motivation of your question, a description of your prompts, and evaluation of the LLM's behavior.
+The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
 
 
 
@@ -220,7 +221,7 @@ The report should have 8 pages of main report, plus unlimited appendix. The main
 
 The report should be uploaded via CMS. The due date is XXXXX, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the TODO, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
 
 ## Contact
 

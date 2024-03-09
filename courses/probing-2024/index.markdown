@@ -3,11 +3,20 @@
 ### Warning: this page is currently revising, take the information with a grain of salt
 DRAFT 
 
-**Course Description:** Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
+**Course Description:**
+Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
 
-**Course Management System:** TODO
+**Registration:**
+If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
-**Instructors:** Xinting Huang
+If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing mhahn@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/) once you were selected by the assignment system or otherwise admitted by us.
+
+**In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+
+
+**Course Management System:** [CMS](https://cms.sic.saarland/probing_2024/)
+
+**Instructors:** [Xinting Huang](https://lacoco-lab.github.io/home/authors/xhuang/)
 
 **Time:** Fr 14:15–15:45
 
@@ -21,39 +30,39 @@ Starting from the fourth week, one or two students will present in each unit (ex
 We expect all students to read the readings every week. Every student submits one question about the readings by Monday noon.
 
 
-## Syllabus
+## Preliminary Syllabus
 
-**Note: The syllabus is subject to change. We will discuss this in the first and second meeting.**
+**Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
+
+In each session, two students will together present two papers (in the "Readings" column) on a common topic.
+
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-|   1            | Monosemanticity     | [Anthropic paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600), [paper](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | TBD |
-|               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
-|  2             |  Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |     [Greater-than](https://arxiv.org/abs/2305.00586),   [Doc-string](https://www.alignmentforum.org/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only)                |             |
-|               |                     | [ACDC](https://arxiv.org/abs/2304.14997)        |         |                       |             |
-|   3            | From Circuits to Transformers     |  RASP       |         |                       |             |
-|               |                     | [Tracr](https://arxiv.org/abs/2301.05062)        |         |                       |             |
-|   4            | Frameworks for Understanding Transformers                    | [RASP](https://arxiv.org/abs/2106.06981)        |         |                       |             |
-|               |                     |    [Anthropic framework](https://transformer-circuits.pub/2021/framework/index.html)     |         |                       |             |
-|   5            |   Interpreting hidden states                  | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)      |       |   [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |
-|               |                     | [Future Lens](https://arxiv.org/abs/2311.04897)  | | |
-|   6            | Patching              |  [Patchscopes](https://arxiv.org/abs/2401.06102)      |       |        |      |
-|               |                       | [Interchange intervention](https://arxiv.org/abs/2106.02997) | | [DAS](https://arxiv.org/abs/2303.02536) | |
-|   7            | Probing               | [Probing in a synthetic setting](https://arxiv.org/abs/2210.13382)       |       |        |      |
-|               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |        |      |
-|               |                     |  [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992)     |       |        |      |
-|   8            |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |      |
-|               |                     |  [link](https://arxiv.org/abs/2203.14680)     |       |        |      |
-|   9            | Learning                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
-|               |                     |  TODO     |       |        |      |
-|  10            |  Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |        |      |
+|  2024-04-19    | no class               |  |  |                |          | 
+| 2024-04-24    | Introduction to Transformers and (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
+|  2024-05-01    | no class |
+| 2024-05-08    |  Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |        |      |
 |               |                     |  [Integrated Gradients](https://arxiv.org/abs/1703.01365)      |       |     [Diffmask](https://arxiv.org/abs/2004.14992)    |      |
-|  11             |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |      |
+| 2024-05-15    |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |      |
 |               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |      |
-|               |                     |       |       |        |      |
-|               |                     |       |       |        |      |
-|               |                     |       |       |        |      |
-|               |                     |       |       |        |      |
+| 2024-05-22    | Probing               | [Probing in a synthetic setting](https://arxiv.org/abs/2210.13382)       |       |        |      |
+|               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |      [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992)  |      |
+| 2024-05-29    | Frameworks for Understanding Transformers                    | [RASP](https://arxiv.org/abs/2106.06981)        |         |                  [Tracr](https://arxiv.org/abs/2301.05062)     |             |
+|               |                |    [Anthropic framework](https://transformer-circuits.pub/2021/framework/index.html)     |         |                       |             |
+| 2024-06-05    |  Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |     [Greater-than](https://arxiv.org/abs/2305.00586),   [Doc-string](https://www.alignmentforum.org/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only)                |             |
+|               |                     | [ACDC](https://arxiv.org/abs/2304.14997)        |         |                       |             |
+| 2024-06-12 | Project Ideas | | | Everyone |
+| 2024-06-19    |   Interpreting hidden states                  | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)      |       |   [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |
+|               |                | [Future Lens](https://arxiv.org/abs/2311.04897)  | | |
+| 2024-06-26    | Patching              |  [Patchscopes](https://arxiv.org/abs/2401.06102)      |       |        |      |
+|               |                       | [Interchange intervention](https://arxiv.org/abs/2106.02997) | | [DAS](https://arxiv.org/abs/2303.02536) | |
+| 2024-07-03    | Monosemanticity     | [Anthropic paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600), [paper](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | TBD |
+|               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
+| 2024-07-10    |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |      |
+|               |                     |  [link](https://arxiv.org/abs/2203.14680)     |       |        |      |
+| 2024-07-17    | Grokking                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
+|               |                     |  [Stander et al](https://arxiv.org/abs/2312.06581)     |       |        |      |
 
 
 
@@ -176,16 +185,12 @@ For students taking the seminar for 7 credits:
 
 ### Questions
 
-TODO
-
 Please register on the forum on CMS.
 
-Starting from the fourth week (Nov 13), every student submits one question about the readings by Monday noon.
+Starting from the TODOth week (XXXXX), every student submits one question about the readings by Monday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
 ### Presentations
-
-TODO
 
 We expect that presentations will cover the key points from the readings, such as the main evidence for and against the key claims under consideration in the paper.
 
@@ -213,28 +218,25 @@ Conversely, when attending other students' talks, reciprocate by participating a
 
 ### Term Papers
 
-TODO
-
-**Note: We will discuss this in the first and second meeting. Requirements may be changed based on popular demand.**
+**Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
 
 Term papers will be about a small independent project.
-You will investigate a question about LLMs' cognitive ability via prompting. For instance, you might test their ability to perform a certain kind of reasoning, or investigate how they respond to certain kinds of stimuli.
 
-Option 1: You may develop your own question and prompts. In this case, you will be expected to design at least 25 (not more than 50) prompts.
+You will investigate some interpretability question about neural networks.
+You could investigate an existing model (e.g., GPT2-Small), or train and interpret a model of your own.
+You could use an existing method or try to come up with some new analysis approach.
+You could also compare different analysis approaches, or investigate interpretability from a theoreticla angle.
 
-Option 2: You may draw on a larger existing benchmark. In this case, you will be expected to find some new angle on the benchmark, e.g., by tweaking the stimuli or by evaluating the LLM's behavior in a different way.
-
-The report is expected to contain a brief literature review, motivation of your question, a description of your prompts, and evaluation of the LLM's behavior. The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
+The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found.
+The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
 
 
 
 The report should have 8 pages of main report, plus unlimited appendix. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-TODO
+The report should be uploaded via CMS. The due date is TODO, 2024, 23:59.
 
-The report should be uploaded via CMS. The due date is April 8, 2024, 23:59.
-
-Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the December 19 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the TODO, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
 
 ## Contact
 
