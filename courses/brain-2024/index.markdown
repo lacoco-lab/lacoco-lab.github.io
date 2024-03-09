@@ -30,6 +30,7 @@ This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit (except for the Dec 19 session). Every student will present exactly once.
 We expect all students to read the readings every week. Every student submits one question about the readings by Wednesday noon.
 
+Each week, we will focus on one topic. Each topic has two readings, to be jointly presented by two people.
 
 
 ## Syllabus
@@ -47,7 +48,7 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-    |                |   | TBA  |                 | TBD  | 
 | (3) 2024-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
 | 2024-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
-| (4) 2024-    | Models of Vision             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+| (4) 2024-    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
 | 2024-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
 | (5) 2024-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
 | 2024-    |                |   | TBA  |                 | TBD  | 
@@ -63,10 +64,10 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
 | (11) 2024-    | ConvNets        | [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724)  | TBA  |     [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)            | TBD  | 
 | 2024-    |                | [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the) | TBA  |                 | TBD  | 
-| (12) 2024-    |  Visual Cortex       | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
-| 2024-    |                | TODO | TBA  |                 | TBD  | 
-| (13) 2024-    | Reinforcement Learning        | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf)  | TBA  |                 | TBD  | 
-| 2024-    |                | TODO | TBA  |                 | TBD  | 
+| (12) 2024-    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |                 | TBD  | 
+| 2024-    |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
+| (13) 2024-    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
+| 2024-    |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
 
 
 hebbian learning
