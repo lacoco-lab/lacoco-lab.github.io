@@ -3,15 +3,15 @@
 ### Warning: this page is currently revising, take the information with a grain of salt
 DRAFT 
 
-**Course Description:** TODO
+**Course Description:** Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
 
 **Course Management System:** TODO
 
 **Instructors:** Xinting Huang
 
-**Time:** TBD
+**Time:** Fr 14:15–15:45
 
-**Room:** TODO
+**Room:** Building C7.3, Room -1.05 
 
 
 ## Format and requirements
@@ -27,7 +27,23 @@ We expect all students to read the readings every week. Every student submits on
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-TODO
+|               | Monosemanticity     | [Anthropic paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600), [paper](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | TBD |
+|               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
+|               |  Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |     [Greater-than](https://arxiv.org/abs/2305.00586),   [Doc-string](https://www.alignmentforum.org/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only)                |             |
+|               |                     | [ACDC](https://arxiv.org/abs/2304.14997)        |         |                       |             |
+|               | From Circuits to Transformers     |  RASP       |         |                       |             |
+|               |                     | [Tracr](https://arxiv.org/abs/2301.05062)        |         |                       |             |
+|               | Frameworks for Understanding Transformers                    | [RASP](https://arxiv.org/abs/2106.06981)        |         |                       |             |
+|               |                     |    [Anthropic framework](https://transformer-circuits.pub/2021/framework/index.html)     |         |                       |             |
+|               |                     |       |       |        |      |
+|               |                     |       |       |        |      |
+|               |                     |       |       |        |      |
+|               |                     |       |       |        |      |
+|               |                     |       |       |        |      |
+|               |                     |       |       |        |      |
+|               |                     |       |       |        |      |
+
+
 
 TODO identify an ordering of these topics
 
