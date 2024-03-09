@@ -6,13 +6,13 @@ The main target audience is students with a background in machine learning who a
 
 The seminar can also be interesting for students with a background in neuroscience.
 
-We will read a range of materials, drawing on textbooks and research papers.
+We will read a range of materials, from both the machine learning and neuroscience literatures.
 
 **Expectations regarding understanding of the material:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
 
 Given the interdisciplinary nature of the course readings, it is fully expected that not everything in the readings will be understandable to everyone in the class. 
-Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In choosing that papers you want to present, consider not only whether you feel you'd understand the paper in full detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
+Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
 
 **Course Management System:** TODO
@@ -35,14 +35,15 @@ We expect all students to read the readings every week. Every student submits on
 ## Syllabus
 
 **Note: The syllabus is subject to change. We will discuss this in the first and second meeting.**
+
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 | 2024-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2024-10-31    | no class               |  |  |                |          | 
-| (1) 2024-11-07    | Introduction to Neural Networks               |   | TBA  |                 | [Michael](https://www.mhahn.info/)  | 
+| (1) 2024-11-07    | Introduction to Neural Networks               |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
 | 2024-10-31    | no class               |  |  |                |          | 
-| (2) 2024-    | Basics             |    | TBA  |                 | TBD  | 
+| (2) 2024-    | Intro            |    | TBA  |                 | TBD  | 
 | 2024-    |                |   | TBA  |                 | TBD  | 
 | (3) 2024-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
 | 2024-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
@@ -60,11 +61,11 @@ We expect all students to read the readings every week. Every student submits on
 | 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
 | (10) 2024-    | Inverse Reinforcement Learning        | TODO  | TBA  |                 | TBD  | 
 | 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
-| (11) 2024-    |         | TODO  | TBA  |                 | TBD  | 
+| (11) 2024-    | ConvNets        | [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724)  | TBA  |     [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)            | TBD  | 
+| 2024-    |                | [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the) | TBA  |                 | TBD  | 
+| (12) 2024-    |  Visual Cortex       | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
 | 2024-    |                | TODO | TBA  |                 | TBD  | 
-| (12) 2024-    |         | TODO  | TBA  |                 | TBD  | 
-| 2024-    |                | TODO | TBA  |                 | TBD  | 
-| (13) 2024-    |         | TODO  | TBA  |                 | TBD  | 
+| (13) 2024-    | Reinforcement Learning        | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf)  | TBA  |                 | TBD  | 
 | 2024-    |                | TODO | TBA  |                 | TBD  | 
 
 
