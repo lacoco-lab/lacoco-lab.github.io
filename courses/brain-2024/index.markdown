@@ -40,44 +40,32 @@ We expect all students to read the readings every week. Every student submits on
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 | 2024-10-24    | First Meeting               |  |  |                | [Michael](https://www.mhahn.info/)   | 
 | 2024-10-31    | no class               |  |  |                |          | 
-| 2024-11-07    | Introduction to Neural Networks               |   | TBA  |                 | [Michael](https://www.mhahn.info/)  | 
+| (1) 2024-11-07    | Introduction to Neural Networks               |   | TBA  |                 | [Michael](https://www.mhahn.info/)  | 
 | 2024-10-31    | no class               |  |  |                |          | 
-
-
-| 2024-    | Basics: Tuning and Gain             |   | TBA  |                 | TBD  | 
+| (2) 2024-    | Basics             |    | TBA  |                 | TBD  | 
 | 2024-    |                |   | TBA  |                 | TBD  | 
-
-
-| 2024-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+| (3) 2024-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
 | 2024-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
-
-
-| 2024-    | Models of Vision             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+| (4) 2024-    | Models of Vision             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
 | 2024-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
-
-| 2024-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
+| (5) 2024-    | LLMs and Brains             |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
 | 2024-    |                |   | TBA  |                 | TBD  | 
-
-
-| 2024-    | Decoding from the brain         |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
+| (6) 2024-    | LM-Brain Alignment            |  TODO | TBA  |                 | TBD  | 
 | 2024-    |                |   | TBA  |                 | TBD  | 
-
-| 2024-    | Model-brain alignment      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
+| (7) 2024-    | Decoding from the brain         |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
+| 2024-    |                |   | TBA  |                 | TBD  | 
+| (8) 2024-    | Model-brain alignment      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
 | 2024-    |                |  Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html) | TBA  |    [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)             | TBD  | 
-
-
-
-| 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
+| (9) 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
 | 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
-
-
-| 2024-    | Inverse Reinforcement Learning        | TODO  | TBA  |                 | TBD  | 
+| (10) 2024-    | Inverse Reinforcement Learning        | TODO  | TBA  |                 | TBD  | 
 | 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
-
-
-| 2024-    | Reinforcement Learning        | TODO  | TBA  |                 | TBD  | 
+| (11) 2024-    |         | TODO  | TBA  |                 | TBD  | 
 | 2024-    |                | TODO | TBA  |                 | TBD  | 
-
+| (12) 2024-    |         | TODO  | TBA  |                 | TBD  | 
+| 2024-    |                | TODO | TBA  |                 | TBD  | 
+| (13) 2024-    |         | TODO  | TBA  |                 | TBD  | 
+| 2024-    |                | TODO | TBA  |                 | TBD  | 
 
 
 hebbian learning
