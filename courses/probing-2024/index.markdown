@@ -27,21 +27,38 @@ We expect all students to read the readings every week. Every student submits on
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-|               | Monosemanticity     | [Anthropic paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600), [paper](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | TBD |
+|   1            | Monosemanticity     | [Anthropic paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600), [paper](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | TBD |
 |               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
-|               |  Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |     [Greater-than](https://arxiv.org/abs/2305.00586),   [Doc-string](https://www.alignmentforum.org/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only)                |             |
+|  2             |  Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |     [Greater-than](https://arxiv.org/abs/2305.00586),   [Doc-string](https://www.alignmentforum.org/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only)                |             |
 |               |                     | [ACDC](https://arxiv.org/abs/2304.14997)        |         |                       |             |
-|               | From Circuits to Transformers     |  RASP       |         |                       |             |
+|   3            | From Circuits to Transformers     |  RASP       |         |                       |             |
 |               |                     | [Tracr](https://arxiv.org/abs/2301.05062)        |         |                       |             |
-|               | Frameworks for Understanding Transformers                    | [RASP](https://arxiv.org/abs/2106.06981)        |         |                       |             |
+|   4            | Frameworks for Understanding Transformers                    | [RASP](https://arxiv.org/abs/2106.06981)        |         |                       |             |
 |               |                     |    [Anthropic framework](https://transformer-circuits.pub/2021/framework/index.html)     |         |                       |             |
+|   5            |   Interpreting hidden states                  | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)      |       |   [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |
+|               |                     | [Future Lens](https://arxiv.org/abs/2311.04897)  | | |
+|   6            | Patching              |  [Patchscopes](https://arxiv.org/abs/2401.06102)      |       |        |      |
+|               |                       | [Interchange intervention](https://arxiv.org/abs/2106.02997) | | [DAS](https://arxiv.org/abs/2303.02536) | |
+|   7            | Probing               | [Probing in a synthetic setting](https://arxiv.org/abs/2210.13382)       |       |        |      |
+|               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |        |      |
+|               |                     |  [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992)     |       |        |      |
+|   8            |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |      |
+|               |                     |  [link](https://arxiv.org/abs/2203.14680)     |       |        |      |
+|   9            | Learning                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
+|               |                     |  TODO     |       |        |      |
+|  10            |  Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |        |      |
+|               |                     |  [Integrated Gradients](https://arxiv.org/abs/1703.01365)      |       |     [Diffmask](https://arxiv.org/abs/2004.14992)    |      |
+|  11             |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |      |
+|               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |      |
 |               |                     |       |       |        |      |
 |               |                     |       |       |        |      |
 |               |                     |       |       |        |      |
 |               |                     |       |       |        |      |
-|               |                     |       |       |        |      |
-|               |                     |       |       |        |      |
-|               |                     |       |       |        |      |
+
+
+
+
+
 
 
 
