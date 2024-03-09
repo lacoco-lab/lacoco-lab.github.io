@@ -8,11 +8,11 @@ The seminar can also be interesting for students with a background in neuroscien
 
 We will read a range of materials, drawing on textbooks and research papers.
 
-**Expectations regarding your background:**
+**Expectations regarding understanding of the material:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
 
 Given the interdisciplinary nature of the course readings, it is fully expected that not everything in the readings will be understandable to everyone in the class. 
-Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall points, it is fully acceptable if details that aren't clsoely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're transparent and upfront about points you don't understand in your presentation.
+Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In choosing that papers you want to present, consider not only whether you feel you'd understand the paper in full detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
 
 **Course Management System:** TODO
@@ -69,6 +69,22 @@ We expect all students to read the readings every week. Every student submits on
 
 | 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
 | 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
+
+
+| 2024-    | Inverse Reinforcement Learning        | TODO  | TBA  |                 | TBD  | 
+| 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
+
+
+| 2024-    | Reinforcement Learning        | TODO  | TBA  |                 | TBD  | 
+| 2024-    |                | TODO | TBA  |                 | TBD  | 
+
+
+
+hebbian learning
+
+reinforcement learning
+
+
 
 Models of visual working memory
 
