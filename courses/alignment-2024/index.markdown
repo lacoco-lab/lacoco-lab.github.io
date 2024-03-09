@@ -16,7 +16,7 @@ If you are a **Comuter Science** student, you should initially register via the 
 
 **Course Management System:** https://cms.sic.saarland/alignment_2024/
 
-**Instructors:** Michael Hahn
+**Instructors:** [Michael Hahn](https://www.mhahn.info/)
 
 **Time:** Tue 12:15–13:45
 

@@ -17,7 +17,7 @@ Michael is happy to meet with you once to talk through any questions about the p
 
 **Course Management System:** https://cms.sic.saarland/brain_2024/
 
-**Instructors:** Michael Hahn
+**Instructors:** [Michael Hahn](https://www.mhahn.info/)
 
 **Time:** Thu 12:15–13:45
 
