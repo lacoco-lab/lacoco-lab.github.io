@@ -47,18 +47,18 @@ In each session, two students will together present two papers (in the "Readings
 |  2024-05-02    | Basics of Neuroscience               |  |  |                |    [Michael](https://www.mhahn.info/)      | 
 | (2) 2024-05-09    | no class   |    | TBA  |                 | TBD  | 
 |               |                |   | TBA  |                 | TBD  | 
-| (3) 2024-05-16    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
-|    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
-| (4) 2024-05-23    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
-|  |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
-| (5) 2024-05-30    | Simple and Complex cells        | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
+| (3) 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
 |     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) | TBA  |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
-| (6) 2024-06-05    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
+| (4) 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+|    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
+| (5) 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
 |     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
-| (7) 2024-06-13    | LM-Brain Alignment            | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf),   Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html),  [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)                    | TBD  | 
+| (6) 2024-06-06    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+|  |             | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
+| (7) 2024-06-13    | Aligning Language Models and Brains            | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf),   Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html),  [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)                    | TBD  | 
 |     |                |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
-| (8) 2024-06-21    | Project Ideas           |   | TBA  |         | Everyone | 
-| (9) 2024-06-28    | Alignment beyond LMs      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
+| (8) 2024-06-20    | Project Ideas           |   | TBA  |         | Everyone | 
+| (9) 2024-06-27    | ALigning Vision Modes and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
 |     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) | TBA  |             | TBD  | 
 | (10) 2024-07-04    | Decoding from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
 |     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
@@ -71,9 +71,9 @@ In each session, two students will together present two papers (in the "Readings
 |     |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
 -->
 
-brain-computer interfaces
 
-<!--hebbian learning
+<!--brain-computer interfaces
+hebbian learning
 reinforcement learning
 Models of visual working memory
 https://link.springer.com/article/10.1007/s00422-024-00983-2-->
