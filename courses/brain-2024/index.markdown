@@ -15,7 +15,7 @@ Given the interdisciplinary nature of the course readings, it is fully expected 
 Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
 
-**Course Management System:** TODO
+**Course Management System:** https://cms.sic.saarland/brain_2024/
 
 **Instructors:** Michael Hahn
 
@@ -37,50 +37,46 @@ Each week, we will focus on one topic. Each topic has two readings, to be jointl
 
 **Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
+In each session, two students will together present two papers (in the "Readings" column) on a common topic.
+
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-| 2024-10-31    | no class               |  |  |                |          | 
-| (1) 2024-11-07    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
-| 2024-10-31    | Basics of neuroscience               |  |  |                |    [Michael](https://www.mhahn.info/)      | 
-| (2) 2024-    | no class   |    | TBA  |                 | TBD  | 
-| 2024-    |                |   | TBA  |                 | TBD  | 
-| (3) 2024-    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
-| 2024-    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
-| (4) 2024-    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
-| 2024-    |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
-| (11) 2024-    | Simple and Complex cells        | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
-| 2024-    |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) | TBA  |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
-| (12) 2024-    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
-| 2024-    |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
-| (6) 2024-    | LM-Brain Alignment            |  [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  |                 | TBD  | 
-| 2024-    |                | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  | TBA  |                 | TBD  | 
-| (5) 2024-    | LM-Brain Alignment           |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
-| 2024-    |                |  [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | TBA  |      Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html),  [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)             | TBD  | 
-| (8) 2024-    | Alignment beyond LMs      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
-| 2024-    |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) | TBA  |             | TBD  | 
-| (7) 2024-    | Decoding from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
-| 2024-    |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
-| (9) 2024-    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
-| 2024-    |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
-| (13) 2024-    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
-| 2024-    |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
-| (10) 2024-    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
-| 2024-    |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
+|  2024-04-18    | no class               |  |  |                |          | 
+| (1) 2024-04-25    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
+|  2024-05-02    | Basics of Neuroscience               |  |  |                |    [Michael](https://www.mhahn.info/)      | 
+| (2) 2024-05-09    | no class   |    | TBA  |                 | TBD  | 
+|               |                |   | TBA  |                 | TBD  | 
+| (3) 2024-05-16    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+|    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
+| (4) 2024-05-23    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
+|  |                | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
+| (5) 2024-05-30    | Simple and Complex cells        | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
+|     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) | TBA  |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
+| (6) 2024-06-05    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
+|     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
+| (7) 2024-06-13    | LM-Brain Alignment            | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf),   Language encoding, scaling laws [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html),  [Antonello et al, NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/464074179972cbbd75a39abc6954cd12-Abstract.html)                    | TBD  | 
+|     |                |  Driving and suppressing [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
+| (8) 2024-06-21    | Project Ideas           |   | TBA  |         | Everyone | 
+| (9) 2024-06-28    | Alignment beyond LMs      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
+|     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) | TBA  |             | TBD  | 
+| (10) 2024-07-04    | Decoding from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
+|     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
+| (11) 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
+|     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
+| (12) 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
+|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
 
+<!--| (11) 2024-07-11    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
+|     |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
+-->
 
 brain-computer interfaces
 
-hebbian learning
-
+<!--hebbian learning
 reinforcement learning
-
-
-
 Models of visual working memory
-
-
-https://link.springer.com/article/10.1007/s00422-024-00983-2
+https://link.springer.com/article/10.1007/s00422-024-00983-2-->
 
 ## Evaluation
 
@@ -100,7 +96,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the fourth week (Nov 13), every student submits one question about the readings by Monday noon.
+Starting from the TODOth week (XXXXX), every student submits one question about the readings by Monday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
 ### Presentations
@@ -131,9 +127,14 @@ Conversely, when attending other students' talks, reciprocate by participating a
 
 ### Term Papers
 
-**Note: We will discuss this in the first and second meeting. Requirements may be changed based on popular demand.**
+**Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
 
 Term papers will be about a small independent project.
+
+Details TBD
+
+
+
 You will investigate a question about LLMs' cognitive ability via prompting. For instance, you might test their ability to perform a certain kind of reasoning, or investigate how they respond to certain kinds of stimuli.
 
 Option 1: You may develop your own question and prompts. In this case, you will be expected to design at least 25 (not more than 50) prompts.
@@ -146,9 +147,9 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have 8 pages of main report, plus unlimited appendix. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is April 8, 2024, 23:59.
+The report should be uploaded via CMS. The due date is XXXXX, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the December 19 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the December 19, 2023, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
 
 ## Contact
 
