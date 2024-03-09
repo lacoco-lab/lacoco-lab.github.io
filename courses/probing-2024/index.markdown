@@ -61,9 +61,12 @@ In each session, two students will together present two papers (in the "Readings
 |               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
 | 2024-07-10    |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |      |
 |               |                     |  [link](https://arxiv.org/abs/2203.14680)     |       |        |      |
-| 2024-07-17    | Grokking                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
-|               |                     |  [Stander et al](https://arxiv.org/abs/2312.06581)     |       |        |      |
+| 2024-07-17    | Causality                    | [Geiger et al, NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html)     |       |     [Geiger et al, arXiV 2023](https://arxiv.org/abs/2301.04709)    |       |        |      |
+|               |                     |   [Wu et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html)   |      | |
 
+<!--| 2024-07-17    | Grokking                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
+|               |                     |  [Stander et al](https://arxiv.org/abs/2312.06581)     |       |        |      |
+-->
 
 
 
