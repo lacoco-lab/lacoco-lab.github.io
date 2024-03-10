@@ -47,7 +47,7 @@ Each week, we will focus on one topic. Each topic has two readings, to be jointl
 
 ## Preliminary Syllabus
 
-**Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
+**Note: The syllabus may still change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
 In each session, two students will together present two papers (in the "Readings" column) on a common topic.
 
