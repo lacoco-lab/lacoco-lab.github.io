@@ -54,9 +54,9 @@ In each session, two students will together present two papers (in the "Readings
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-|  2024-04-18    | no class               |  |  |                |          | 
-| 2024-04-25    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
-|  2024-05-02    | Basics of Neuroscience               |  |  |                |    [Michael](https://www.mhahn.info/)      | 
+|  2024-04-18    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
+| 2024-04-25    | Basics of Neuroscience            |   | TBA  |    [Michael](https://www.mhahn.info/)        | 
+|  2024-05-02    | no class               |  |  |                |      | 
 | 2024-05-09    | no class   |    |   |                 |   | 
 |               |  | Part 1: Computer Vision and the Visual Cortex | |
 | 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
