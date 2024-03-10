@@ -51,6 +51,11 @@ Each week, we will focus on one topic. Each topic has two readings, to be jointl
 
 In each session, two students will together present two papers (in the "Readings" column) on a common topic.
 
+The course roughly has three parts: we will look into
+* Computer Vision and the Visual Cortex (3 sessions)
+* Language Models and the Language Network (3 sessions)
+* Reinforcement Learning and Behavior (2 sessions)
+
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
@@ -75,7 +80,7 @@ In each session, two students will together present two papers (in the "Readings
 |     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
 | 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
 |     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
-|               |  | Part 3: Reinforcement Learning | |
+|               |  | Part 3: Reinforcement Learning and Behavior | |
 | 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
 |     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
 | 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
