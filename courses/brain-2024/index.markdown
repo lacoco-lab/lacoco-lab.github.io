@@ -68,7 +68,7 @@ Each week, we will focus on one topic. Each topic has two readings, to be jointl
 
 **Note: The syllabus may still change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
-In each session, two students will together present two papers (in the "Readings" column) on a common topic.
+In each session, two students will typically  present two papers (in the "Readings" column) on a common topic.
 
 The course roughly has three parts: we will look into
 * Computer Vision and the Visual Cortex (3 sessions)
