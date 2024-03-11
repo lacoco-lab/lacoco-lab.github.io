@@ -1,7 +1,7 @@
 # Neural Networks in Brains and Computers
 
 <!-----DESCRIPTION----->
-**Course Description:** We will look into the intersection of machine learning and neuroscience.
+**__Course Description:__** We will look into the intersection of machine learning and neuroscience.
 
 The main target audience is students with a background in machine learning who are interested in learning about the brain and how it processes information, how artificial neural networks relate to real neurons, how machine learning can help understand the brain better, and how machine learning models may end up aligning with representations found in the brain.
 
