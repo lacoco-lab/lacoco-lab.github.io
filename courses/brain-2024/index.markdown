@@ -14,13 +14,13 @@ We will read a range of materials, from both the machine learning and neuroscien
 We will look into questions such as:
 
 
-* how and why do representations of language models align with brain imaging data of people comprehending language?
+* how and why do representations of language models align with brain imaging data of people comprehending language? (e.g., [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf))
 
-* how can we use machine learning for mindreading: decoding thoughts and language from people's brain recordings, even when they aren't talking
+* how can we use machine learning for mindreading: decoding thoughts and language from people's brain recordings, even when they aren't talking? (e.g., [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9))
 
-* how do ConvNets and other computer vision architectures relate to the way the brain processes visual information?
+* how do ConvNets and other computer vision architectures relate to the way the brain processes visual information? (e.g., [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118))
 
-* how do both AI and natural intelligence use reinforcement learning to optimize behavior?
+* how do both AI and natural intelligence use reinforcement learning to optimize behavior? ([Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236) and [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf))
 
 and several more.
 
