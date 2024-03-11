@@ -78,38 +78,38 @@ The course roughly has three parts: we will look into
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-|  2024-04-18    | Introductory meeting             |   | TBA  |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
-| 2024-04-25    | Basics of Neuroscience            |   | TBA  |    [Michael](https://www.mhahn.info/)        | 
+|  2024-04-18    | Introductory meeting             |   |   |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
+| 2024-04-25    | Basics of Neuroscience            |   |   |    [Michael](https://www.mhahn.info/)        | 
 |  2024-05-02    | no class               |  |  |                |      | 
 | 2024-05-09    | no class   |    |   |                 |   | 
 |               |  | Part 1: Computer Vision and the Visual Cortex | |
-| 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  | TBA  |                | TBD  | 
-|     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) | TBA  |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
-| 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    | TBA  |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
-|    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  | TBA  |                 | TBD  | 
-| 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) | TBA  |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
-|     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  | TBA  |                 | TBD  | 
-| 2024-06-06    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) | TBA  |                 | TBD  | 
-|     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) | TBA  |             | TBD  | 
+| 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  |   |                | TBD  | 
+|     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) |   |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
+| 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    |   |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
+|    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  |   |                 | TBD  | 
+| 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) |   |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
+|     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  |   |                 | TBD  | 
+| 2024-06-06    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | TBD  | 
+|     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | TBD  | 
 |               |  | Part 2: Language Models and the Language Network | |
-| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) | TBA  |                  | TBD  | 
+| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) |   |                  | TBD  | 
 |               |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | |
-| 2024-06-20    | Project Ideas           |   | TBA  |         | Everyone | 
+| 2024-06-20    | Project Ideas           |   |   |         | Everyone | 
 | 2024-06-27    | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             | TBD  | 
-|     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) | TBA  |                 | TBD  | 
-| 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) | TBA  |                 | TBD  | 
-|     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) | TBA  |                 | TBD  | 
+|     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) |   |                 | TBD  | 
+| 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | TBD  | 
+|     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD  | 
 |               |  | Part 3: Reinforcement Learning and Behavior | |
-| 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  | TBA  |                 | TBD  | 
-|     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) | TBA  |                 | TBD  | 
-| 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  | TBA  |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
-|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) | TBA  |                 | TBD  | 
+| 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | TBD  | 
+|     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD  | 
+| 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  |   |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
+|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | TBD  | 
 
-<!--| (11) 2024-07-11    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  | TBA  |                 | TBD  | 
-|     |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) | TBA  |                 | TBD  | 
+<!--| (11) 2024-07-11    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  |   |                 | TBD  | 
+|     |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) |   |                 | TBD  | 
 
-| 2024-06-06    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  | TBA  |                 | TBD  | 
-|  |             | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  | TBA  |                 | TBD  | 
+| 2024-06-06    | Visual Perception             | [Henderson and Serences, jov 2021](https://jov.arvojournals.org/article.aspx?articleid=2776554)  |   |                 | TBD  | 
+|  |             | [Modeling Visual Working Memory with Deep Vision Models](https://www.nature.com/articles/s44271-023-00048-3)  |   |                 | TBD  | 
 
 -->
 
@@ -165,7 +165,7 @@ Critically engage with the reading: contribute your own opinion on the key findi
 
 As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
 Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
-Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to you audience will thus be important.
+Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to your audience will thus be important.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
@@ -192,7 +192,7 @@ The report should have 8 pages of main report, plus unlimited appendix, in the N
 
 The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the XXXXXXX, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the June 20, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the June 20 session is intended to help improve and finetune project ideas.
 
 ## Contact
 

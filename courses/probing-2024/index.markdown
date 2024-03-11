@@ -3,19 +3,23 @@
 <!-----DESCRIPTION----->
 **Course Description:**
 Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
+
 <!----PREREQ------------!>
+
+**Prerequisites:**
+Many of our readings will be quite technical. You will need a good background in NLP or machine learning in order to thrive in this course.
 
 <!-----REGISTRATION----->
 
 **Registration:**
-If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
+* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
-If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing mhahn@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/) once you were selected by the assignment system or otherwise admitted by us.
+* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/) once you were selected by the assignment system or otherwise admitted by us.
 
-**In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+* **In both cases**, please email xhuang@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
-<!----CMS------------!>
+<!----CMS------------>
 
 **Course Management System:** [CMS](https://cms.sic.saarland/probing_2024/)
 
@@ -218,6 +222,7 @@ Critically engage with the reading: contribute your own opinion on the key findi
 
 As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
 Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
+Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to your audience will thus be important.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
@@ -243,7 +248,7 @@ The report should have 8 pages of main report, plus unlimited appendix, in the N
 
 The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the June 6, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the June 6 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the June 11, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the June 11 session is intended to help improve and finetune project ideas.
 
 ## Contact
 
