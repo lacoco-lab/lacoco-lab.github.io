@@ -72,7 +72,7 @@ In each session, two students will together present two papers (in the "Readings
 
 
 
-
+<!--
 
 TODO identify an ordering of these topics
 
@@ -170,7 +170,7 @@ https://arxiv.org/abs/2012.14913
 
 https://arxiv.org/abs/2307.05471
 
-
+-->
 
 ## Evaluation
 
