@@ -6,6 +6,7 @@ Despite their huge success, neural networks are still widely considered “black
 <!----PREREQ------------!>
 
 <!-----REGISTRATION----->
+
 **Registration:**
 If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
@@ -15,6 +16,7 @@ If you are a **Computer Science** student, you should initially register via the
 
 
 <!----CMS------------!>
+
 **Course Management System:** [CMS](https://cms.sic.saarland/probing_2024/)
 
 <!-----INSTRUCTORS----->

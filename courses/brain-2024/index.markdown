@@ -25,12 +25,14 @@ We will look into questions such as:
 and several more.
 
 <!----PREREQ------------!>
+
 **Prerequisites:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
 
 Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if some details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
 <!-----REGISTRATION----->
+
 **Registration:**
 If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
@@ -40,6 +42,7 @@ If you are a **Computer Science** student, you should initially register via the
 
 
 <!----CMS------------!>
+
 **Course Management System:** https://cms.sic.saarland/brain_2024/
 
 <!-----INSTRUCTORS----->
