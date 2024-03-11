@@ -228,7 +228,7 @@ Before the presentation, take a look at the questions that have been posted in t
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
 
 
-### Term Papers
+### Final Papers (for the 7CP version)
 
 **Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
 
