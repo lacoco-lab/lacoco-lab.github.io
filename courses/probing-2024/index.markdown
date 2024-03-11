@@ -1,7 +1,7 @@
 # Probing and Analyzing Neural Language Models
 
-### Warning: this page is currently revising, take the information with a grain of salt
-DRAFT 
+<!--### Warning: this page is currently revising, take the information with a grain of salt
+DRAFT -->
 
 **Course Description:**
 Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
@@ -190,7 +190,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the TODOth week (XXXXX), every student submits one question about the readings by Monday noon.
+Starting from the fourth week, every student submits one question about the readings by Monday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
 ### Presentations
@@ -208,12 +208,10 @@ Give background on key concepts, and convey to the audience your understanding o
 
 Select what you consider the key points; you are not expected to cover every part of the paper exhaustively. Include details only to the extent that you believe them to be important.
 
-If you present two papers, do not just present them separately. Rather, draw connections, and compare and contrast where appropriate.
-
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
+As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
 Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
-If you present on your own, your presentation can be somewhat shorter.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
@@ -237,9 +235,9 @@ The report is expected to include quantitative evaluation of the LLM's behavior 
 
 The report should have 8 pages of main report, plus unlimited appendix. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is TODO, 2024, 23:59.
+The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the TODO, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the June 6, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the June 6 session is intended to help improve and finetune project ideas.
 
 ## Contact
 
