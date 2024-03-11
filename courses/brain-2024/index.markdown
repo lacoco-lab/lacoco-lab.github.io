@@ -24,7 +24,7 @@ We will look into questions such as:
 
 and several more.
 
-<!----PREREQ------------!>
+<!----PREREQ------------>
 
 **Prerequisites:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
@@ -41,7 +41,7 @@ If you are a **Computer Science** student, you should initially register via the
 **In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
-<!----CMS------------!>
+<!----CMS------------>
 
 **Course Management System:** https://cms.sic.saarland/brain_2024/
 
