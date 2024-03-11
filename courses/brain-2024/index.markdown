@@ -4,6 +4,8 @@
 
 The main target audience is students with a background in machine learning who are interested in learning about the brain and how it processes information, how artificial neural networks relate to real neurons, how machine learning can help understand the brain better, and how machine learning models may end up aligning with representations found in the brain.
 
+The focus will mostly be on vision and language. Thus, this seminar may be particularly interesting if you have a background either in NLP/Computational Linguistics or in Computer Vision. Background in one of the two is certainly enough.
+
 The seminar can also be interesting for students with a background in neuroscience.
 
 We will read a range of materials, from both the machine learning and neuroscience literatures.
