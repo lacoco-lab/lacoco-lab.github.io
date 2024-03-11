@@ -1,11 +1,11 @@
 # Probing and Analyzing Neural Language Models
 
-<!--### Warning: this page is currently revising, take the information with a grain of salt
-DRAFT -->
-
+<!-----DESCRIPTION----->
 **Course Description:**
 Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
+<!----PREREQ------------!>
 
+<!-----REGISTRATION----->
 **Registration:**
 If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
@@ -14,12 +14,16 @@ If you are a **Computer Science** student, you should initially register via the
 **In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
+<!----CMS------------!>
 **Course Management System:** [CMS](https://cms.sic.saarland/probing_2024/)
 
+<!-----INSTRUCTORS----->
 **Instructors:** [Xinting Huang](https://lacoco-lab.github.io/home/authors/xhuang/)
 
+<!-----TIME----->
 **Time:** Fr 14:15–15:45
 
+<!-----ROOM----->
 **Room:** Building C7.3, Room -1.05 
 
 
@@ -233,7 +237,7 @@ The report is expected to include quantitative evaluation of the LLM's behavior 
 
 
 
-The report should have 8 pages of main report, plus unlimited appendix. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
+The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
 The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 

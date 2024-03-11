@@ -1,11 +1,15 @@
 # Aligning Language Models with Human Preferences: Methods and Challenges
 
+<!-----DESCRIPTION----->
 **Course Description:** We will look into the rapidly developing field of aligning language models with human preferences, a central ingredient in today's LLMs. In the narrow sense, this refers to the finetuning process by which language models , originally trained to predict the next token, are turned into chatbots and other systems that can meaningfully interact with humans. Here, technical ideas such as Reinforcement Learning from Human Feedback are relevant. In a broader sense, this refers to research on how we can ensure LLMs behave in ways that humans desire, e.g. follow social and ethical norms, and are robust to malevolent adversarial prompting.
 
 We will read a diverse set of recent technical papers from this highly dynamic field.
 
+<!----PREREQ------------!>
+**Prerequisites:**
 Many of our readings will be quite technical. You will need a good background in NLP or machine learning in order to thrive in this course.
 
+<!-----REGISTRATION----->
 **Registration:**
 If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
@@ -14,12 +18,16 @@ If you are a **Computer Science** student, you should initially register via the
 **In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
+<!----CMS------------!>
 **Course Management System:** [CMS](https://cms.sic.saarland/alignment_2024/)
 
+<!-----INSTRUCTORS----->
 **Instructors:** [Michael Hahn](https://www.mhahn.info/)
 
+<!-----TIME----->
 **Time:** Tue 12:15–13:45
 
+<!-----ROOM----->
 **Room:** Building C7.3, Seminarraum 1.12
 
 
@@ -170,7 +178,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the TODOth week (XXXXX), every student submits one question about the readings by Monday noon.
+Starting from the fourth week, every student submits one question about the readings by Monday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
 ### Presentations
@@ -188,12 +196,10 @@ Give background on key concepts, and convey to the audience your understanding o
 
 Select what you consider the key points; you are not expected to cover every part of the paper exhaustively. Include details only to the extent that you believe them to be important.
 
-If you present two papers, do not just present them separately. Rather, draw connections, and compare and contrast where appropriate.
-
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
+As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
 Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
-If you present on your own, your presentation can be somewhat shorter.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
@@ -217,9 +223,9 @@ The report is expected to include quantitative evaluation of the LLM's behavior 
 
 
 
-The report should have 8 pages of main report, plus unlimited appendix. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
+The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is XXXXX, 2024, 23:59.
+The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
 Everyone is expected to report on their project idea in the TODO, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
 

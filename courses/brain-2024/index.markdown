@@ -1,5 +1,6 @@
 # Neural Networks in Brains and Computers
 
+<!-----DESCRIPTION----->
 **Course Description:** We will look into the intersection of machine learning and neuroscience.
 
 The main target audience is students with a background in machine learning who are interested in learning about the brain and how it processes information, how artificial neural networks relate to real neurons, how machine learning can help understand the brain better, and how machine learning models may end up aligning with representations found in the brain.
@@ -23,18 +24,31 @@ We will look into questions such as:
 
 and several more.
 
-**Expectations regarding understanding of the material:**
+<!----PREREQ------------!>
+**Prerequisites:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
 
 Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if some details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
+<!-----REGISTRATION----->
+**Registration:**
+If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/). You may either be directly admitted or waitlisted.
 
+If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing mhahn@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/alignment_2024/) once you were selected by the assignment system or otherwise admitted by us.
+
+**In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+
+
+<!----CMS------------!>
 **Course Management System:** https://cms.sic.saarland/brain_2024/
 
+<!-----INSTRUCTORS----->
 **Instructors:** [Michael Hahn](https://www.mhahn.info/)
 
+<!-----TIME----->
 **Time:** Thu 12:15–13:45
 
+<!-----ROOM----->
 **Room:** Building C7.3, Seminarraum  -1.05 
 
 
@@ -121,7 +135,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the TODOth week (XXXXX), every student submits one question about the readings by Monday noon.
+Starting from the fourth week, every student submits one question about the readings by Monday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
 
 ### Presentations
@@ -146,14 +160,12 @@ Select what you consider the key points; you are not expected to cover every par
 
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
-Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion. Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to you audience will thus be important.
+As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
+Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
+Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to you audience will thus be important.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
-
-As you'll be presenting topics in teams of 2 students, don't just present your assigned readings separately.
-Rather, draw connections, and compare and contrast where appropriate.
-However, make sure that each of you has clearly distinct contributions to the presentation, and takes responsibility for the corresponding set of slides.
 
 
 ### Term Papers
@@ -175,7 +187,7 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is XXXXX, 2024, 23:59.
+The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
 Everyone is expected to report on their project idea in the XXXXXXX, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the XXXXXXXX session is intended to help improve and finetune project ideas.
 
