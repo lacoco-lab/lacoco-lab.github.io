@@ -92,7 +92,7 @@ The course roughly has three parts: we will look into
 | 2024-06-06    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | TBD  | 
 |     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | TBD  | 
 |               |  | **Part 2: Language Models and the Language Network** | |
-| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118) [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4) |   |                  | TBD  | 
+| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | TBD  | 
 |               |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | |
 | 2024-06-20    | Project Ideas           |   |   |         | Everyone | 
 | 2024-06-27    | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             | TBD  | 
