@@ -4,7 +4,7 @@
 **Course Description:**
 Despite their huge success, neural networks are still widely considered “black-boxes”. In this seminar, we will look into interpretability methods that aim to demystify these models. We will focus on post-hoc interpretability for transformer-based language models, and work on relatively young and burgeoning fields such as Mechanistic Interpretability, which focuses on reverse-engineering model components into human-understandable algorithms. We will read recent papers that involve a diverse set of techniques for interpreting the inner-workings of language models.
 
-<!----PREREQ------------!>
+<!----PREREQ------------>
 
 **Prerequisites:**
 Many of our readings will be quite technical. You will need a good background in NLP or machine learning in order to thrive in this course.
