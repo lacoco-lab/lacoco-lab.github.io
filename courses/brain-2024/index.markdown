@@ -61,7 +61,7 @@ This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit (except for the Dec 19 session). Every student will present exactly once.
 We expect all students to read the readings every week. Every student submits one question about the readings by Wednesday noon.
 
-Each week, we will focus on one topic. Each topic has two readings, to be jointly presented by two people.
+Each week, we will focus on one topic, to be jointly presented by two people. For most topics, we have listed two readings.
 
 
 ## Preliminary Syllabus
