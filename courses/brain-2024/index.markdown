@@ -71,8 +71,8 @@ Each week, we will focus on one topic, to be jointly presented by two people. Fo
 In each session, two students will typically  present two papers (in the "Readings" column) on a common topic.
 
 The course roughly has three parts: we will look into
-* Computer Vision and the Visual Cortex (3 sessions)
-* Language Models and the Language Network (3 sessions)
+* Computer Vision and the Visual Cortex (3-4 sessions, depending on interest)
+* Language Models and the Language Network (3-4 sessions, depending on interest)
 * Reinforcement Learning and Behavior (2 sessions)
 
   
