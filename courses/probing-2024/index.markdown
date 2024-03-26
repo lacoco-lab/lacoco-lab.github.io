@@ -44,7 +44,7 @@ We expect all students to read the readings every week. Every student submits on
 
 **Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
-In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. The optional material is for the Topic, rather than for either of the two papers.
+In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. The optional material is for the Topic, rather than being specific to a particular paper.
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
@@ -195,8 +195,8 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the fourth week, every student submits one question about the readings by Monday noon.
-Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
+Starting from the fourth week, every student submits one question about the readings by Thursday noon.
+Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（In case people really want to ask some superficial question)
 
 ### Presentations
 
@@ -206,7 +206,7 @@ We do not expect that presentations will cover all details of the papers. Rather
 For instance, instead of a table of numbers, highlight key results.
 When there are multiple similar results in the paper, synthesize them.
 If the papers have many studies, you might select a representative subset to explain the paper's conclusions.
-On the other hand, if the assigned papers primarily discuss/review other work (as is the case in some weeks), draw on material from the work cited to provide richer content and even details where useful.
+On the other hand, if the assigned papers primarily discuss/review other work (as is the case in some weeks), draw on material from the work cited to provide richer content and even details where useful. Also, sometimes there is just one paper in a seminar session, so you will have more time and may cover more details.
 
 Make sure to motivate the papers' research question(s).
 Give background on key concepts, and convey to the audience your understanding of why certain research decisions were made.
@@ -216,7 +216,7 @@ Select what you consider the key points; you are not expected to cover every par
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
 As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
-Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
+Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion. You will have sufficient time, so avoid speaking too fast for others to keep up, make sure your audience is following. You can do so by giving more examples, or simply repeating again. Making presentation is to convey information, if audience cannot follow, it's waste of time for both sides.
 Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to your audience will thus be important.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
