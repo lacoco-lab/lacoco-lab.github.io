@@ -52,7 +52,7 @@ In each session, two students will together present two papers (in the "Readings
 |  2024-04-19    | no class               |  |  |                |          | 
 | 2024-04-24    | Introduction to Transformers and (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 |  2024-05-01    | no class |
-| 2024-05-08    | Probing               | [Probing in a synthetic setting](https://arxiv.org/abs/2210.13382)       |       |        |      |
+| 2024-05-08    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |        |      |
 |               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |      [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992)  |      |
 | 2024-05-15    | Frameworks for Understanding Transformers I                |  [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html)       |         |        [Induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)               |             |
 |  2024-05-22    |       Frameworks for Understanding Transformers II   |    [RASP](https://arxiv.org/abs/2106.06981)     |         |       [Learning Transformer Programs](https://arxiv.org/abs/2306.01128)        |             |
