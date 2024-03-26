@@ -44,7 +44,7 @@ We expect all students to read the readings every week. Every student submits on
 
 **Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
-In each session, two students will together present two papers (in the "Readings" column) on a common topic.
+In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it.
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
