@@ -36,7 +36,7 @@ Many of our readings will be quite technical. You will need a good background in
 ## Format and requirements
 
 This is a seminar course.
-Starting from the fourth week, one or two students will present in each unit (except for the TODO session). Every student will present exactly once.
+Starting from the fourth week, one or two students will present in each unit. Every student will present exactly once.
 We expect all students to read the readings every week. Every student submits one question about the readings by Thursday noon.
 
 
@@ -44,7 +44,7 @@ We expect all students to read the readings every week. Every student submits on
 
 **Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
-In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it.
+In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. The optional material is for the Topic, rather than for either of the two papers.
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
@@ -52,8 +52,8 @@ In each session, two students will together present two papers (in the "Readings
 |  2024-04-19    | no class               |  |  |                |          | 
 | 2024-04-26    | Introduction to Transformers and (L)LMs               |   | [slides](session2.pdf)  |                 | [Michael](https://www.mhahn.info/)  | 
 |  2024-05-03    | no class |
-| 2024-05-10    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |        |      |
-|               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |      [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992)  |      |
+| 2024-05-10    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/2004.14992)      |      |
+|               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |       |      |
 | 2024-05-17    | Frameworks for Understanding Transformers I                |  [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html)       |         |        [Induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)               |             |
 |  2024-05-24    |       Frameworks for Understanding Transformers II   |    [RASP](https://arxiv.org/abs/2106.06981)     |         |       [Learning Transformer Programs](https://arxiv.org/abs/2306.01128)        |             |
 | 2024-05-31    |  Path Patching, Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)                |             |
