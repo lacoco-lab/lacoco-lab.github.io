@@ -232,10 +232,11 @@ Term papers will be about a small independent project.
 You will investigate some interpretability question about neural networks.
 You could investigate an existing model (e.g., GPT2-Small), or train and interpret a model of your own.
 You could use an existing method or try to come up with some new analysis approach.
-You could also compare different analysis approaches, or investigate interpretability from a theoreticla angle.
+You could also compare different analysis approaches, or investigate interpretability from a theoretical angle.
 
-The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found.
-The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
+The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found. It's recommended to include quantitative validation of what you found, so that you show it's not an illusion.
+
+<!-- The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial. -->
 
 
 
@@ -243,7 +244,7 @@ The report should have 8 pages of main report, plus unlimited appendix, in the N
 
 The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
-Everyone is expected to report on their project idea in the June 11, 2024, session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the June 11 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the June 14, 2024, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the June 14 session is intended to help improve and finetune project ideas.
 
 ## Contact
 
