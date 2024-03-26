@@ -37,7 +37,7 @@ Many of our readings will be quite technical. You will need a good background in
 
 This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit (except for the TODO session). Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Monday noon.
+We expect all students to read the readings every week. Every student submits one question about the readings by Thursday noon.
 
 
 ## Preliminary Syllabus
