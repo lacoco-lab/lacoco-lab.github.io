@@ -1,14 +1,12 @@
 # Compositionality in Language and Computation 
 
-(page under construction)
-
 **Course Description:** Compositionality --- roughly, the ability to correctly process wholes given the ability to correctly process their parts --- is a core property of human cognition and especially natural language, where it enables ``infinite use of finite means'' as known linguistic elements combine to produce novel words and sentences. Recent advances in Natural Language Processing have raised new questions in this domain: are modern artificial neural networks capable of compositional generalization --- and for that matter, how capable are humans? This blockseminar briefly reviews foundational and recent work on the core scientific question of compositionality.
 
 **Course Management System:** [CMS](https://cms.sic.saarland/composition_24/) 
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/)
 
-**Time:** 1-4 pm Monday, Wednesday, and Friday in September 2024, week TBD; possibly Sept. 9, 11, and 13 - or the following week, so Sept. 16, 18, 20. We can adjust the dates based on interest from seminar participants.
+**Time (block seminar):** 1-4 pm Monday, Wednesday, and Friday in September 2024, week TBD; possibly Sept. 9, 11, and 13 - or the following week, so Sept. 16, 18, 20. We can adjust the dates based on interest from seminar participants.
 
 In addition, there will be an introductory lecture + coordination session during the summer semester (June or July), date and time TBD.
 
@@ -58,8 +56,6 @@ Students that do not present on a given day are expected to prepare a two-page h
   - ? LMs show human-like content effects on reasoning tasks - [Dasgupta et al 2023](https://arxiv.org/abs/2207.07051)
 
   
-| Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
-| ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 
 
 ## Evaluation
