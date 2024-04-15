@@ -26,7 +26,7 @@ Students that do not present on a given day are expected to prepare a two-page h
 
 ## Syllabus
 
-**Note: The syllabus is subject to change. We will discuss this in the first meeting.**
+**Note: The syllabus is subject to change, and not all of the listed readings here will be required. We will discuss this in the first meeting.**
 
 ### Preliminary topics
 
