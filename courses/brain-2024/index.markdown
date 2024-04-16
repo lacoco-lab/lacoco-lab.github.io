@@ -78,8 +78,8 @@ The course roughly has three parts: we will look into
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-|  2024-04-18    | Introductory meeting             |   |   |         [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)        | [Michael](https://www.mhahn.info/)  | 
-| 2024-04-25    | Basics of Neuroscience            |   |   |    [Michael](https://www.mhahn.info/)        | 
+|  2024-04-18    | no class            |   |   |            |   | 
+| 2024-04-25    | Basics of Neuroscience       |     |   |  [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)      |    [Michael](https://www.mhahn.info/)        | 
 |  2024-05-02    | no class               |  |  |                |      | 
 | 2024-05-09    | no class   |    |   |                 |   | 
 |               |  | **Part 1: Computer Vision and the Visual Cortex** | |
