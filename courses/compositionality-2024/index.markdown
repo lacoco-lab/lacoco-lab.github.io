@@ -6,7 +6,7 @@ If you want to take this class, please register in [CMS](https://cms.sic.saarlan
 
 **Course Management System:** [CMS](https://cms.sic.saarland/composition_24/) 
 
-**Instructors:** [Kate McCurdy](https://kmccurdy.github.io/)
+**Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
 **Time (block seminar):** 1-4 pm Monday, Wednesday, and Friday in September 2024, week TBD; possibly Sept. 9, 11, and 13 - or the following week, so Sept. 16, 18, 20. We can adjust the dates based on interest from seminar participants.
 
