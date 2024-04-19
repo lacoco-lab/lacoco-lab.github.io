@@ -50,7 +50,7 @@ In each session, two students will together present two papers (in the "Readings
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2024-04-19    | no class               |  |  |                |          | 
-| 2024-04-26    | Introduction to Transformers and (L)LMs               |   | [slides](session2.pdf)  |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified huggingface implementation of GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      | [Michael](https://www.mhahn.info/)  | 
+| 2024-04-26    | Introduction to Transformers and (L)LMs               |   | [slides](session2.pdf)  |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified code for GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      | [Michael](https://www.mhahn.info/)  | 
 |  2024-05-03    | no class |
 | 2024-05-10    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |      |
 |               |                     |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)     |       |       |      |
