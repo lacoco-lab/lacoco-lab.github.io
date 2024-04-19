@@ -206,7 +206,7 @@ We do not expect that presentations will cover all details of the papers. Rather
 For instance, instead of a table of numbers, highlight key results.
 When there are multiple similar results in the paper, synthesize them.
 If the papers have many studies, you might select a representative subset to explain the paper's conclusions.
-On the other hand, if the assigned papers primarily discuss/review other work (as is the case in some weeks), draw on material from the work cited to provide richer content and even details where useful. Also, sometimes there is just one paper in a seminar session, so you will have more time and may cover more details.
+On the other hand, if the assigned papers primarily discuss/review other work, draw on material from the work cited to provide richer content and even details where useful. Also, sometimes there is just one paper in a seminar session, so you will have more time and may cover more details.
 
 Make sure to motivate the papers' research question(s).
 Give background on key concepts, and convey to the audience your understanding of why certain research decisions were made.
