@@ -102,8 +102,8 @@ The course roughly has three parts: we will look into
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
 | 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | Simon Alexander  | 
 |     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD  | 
-| 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  |   |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
-|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | Baraah Adil Mohammed  | 
+| 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  |   |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | Baraah Adil Mohammed  | 
+|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | Asmaa  | 
 
 <!--| (11) 2024-07-11    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  |   |                 | TBD  | 
 |     |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) |   |                 | TBD  | 
