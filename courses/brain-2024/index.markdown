@@ -84,7 +84,7 @@ The course roughly has three parts: we will look into
 | 2024-05-09    | no class   |    |   |                 |   | 
 |               |  | **Part 1: Computer Vision and the Visual Cortex** | |
 | 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  |   |                | Daniyal Ahmed  | 
-|     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) |   |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
+|     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) |   |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | Jona  | 
 | 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    |   |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
 |    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  |   |                 | TBD  | 
 | 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) |   |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
@@ -92,7 +92,7 @@ The course roughly has three parts: we will look into
 | 2024-06-06    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | Lars  | 
 |     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | Nellia  | 
 |               |  | **Part 2: Language Models and the Language Network** | |
-| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | Jona  | 
+| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | TBD  | 
 |               |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | TBD |
 | 2024-06-20    | Project Ideas           |   |   |         | Everyone | 
 | 2024-06-27    | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | Ratnadeep |
