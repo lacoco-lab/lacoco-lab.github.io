@@ -44,7 +44,7 @@ We expect all students to read the readings every week. Every student submits on
 
 **Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
 
-In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. The optional material is for the Topic, rather than being specific to a particular paper.
+In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. **The optional material is for the Topic, rather than being specific to a particular paper**.
 
   
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
@@ -53,7 +53,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-04-26    | Introduction to Transformers and (L)LMs               |   |   |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified code for GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      | [Michael](https://www.mhahn.info/)  | 
 |  2024-05-03    | no class |
 | 2024-05-10    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |  Greg    |
-|               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |   Misha   |
+|               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |   Herald   |
 | 2024-05-17    | Frameworks for Understanding Transformers I                |  [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html)       |         |        [Induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)               |        Asmaa, Mark     |
 |  2024-05-24    |       Frameworks for Understanding Transformers II   |    [RASP](https://arxiv.org/abs/2106.06981)     |         |       [Learning Transformer Programs](https://arxiv.org/abs/2306.01128)        |    TBD, Yash         |
 | 2024-05-31    |  Path Patching, Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)                |    Santanu          |
@@ -61,8 +61,8 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-06-07    |   Interpreting hidden states                  | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)      |       |   [Tuned Lens](https://arxiv.org/abs/2303.08112) [Future Lens](https://arxiv.org/abs/2311.04897) |   Uyen   |
 |               |                | [Patchscopes](https://arxiv.org/abs/2401.06102)   | |  | Nellia |
 | 2024-06-14 | Project Ideas | | |  | Everyone |
-| 2024-06-21    | Monosemanticity     | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600) | TBD |
-|               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | Herald Bao |
+| 2024-06-21    | Monosemanticity     | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600) | Misha |
+|               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
 | 2024-06-28    |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |    TBD  |
 |               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |        |  Nhi    |
 | 2024-07-05    | Activation Patching, Causality                    | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html)     |       |     [Geiger et al, arXiV 2023](https://arxiv.org/abs/2301.04709)   [DAS](https://arxiv.org/abs/2303.02536)  | Michael      |        |      |
