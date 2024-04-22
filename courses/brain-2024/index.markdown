@@ -83,27 +83,27 @@ The course roughly has three parts: we will look into
 |  2024-05-02    | no class               |  |  |                |      | 
 | 2024-05-09    | no class   |    |   |                 |   | 
 |               |  | **Part 1: Computer Vision and the Visual Cortex** | |
-| 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  |   |                | TBD  | 
+| 2024-05-16    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  |   |                | Daniyal Ahmed  | 
 |     |                | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) |   |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD  | 
 | 2024-05-23    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    |   |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD  | 
 |    |                | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  |   |                 | TBD  | 
 | 2024-05-30    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) |   |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD  | 
-|     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  |   |                 | TBD  | 
-| 2024-06-06    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | TBD  | 
-|     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | TBD  | 
+|     |                | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  |   |                 | Qian  | 
+| 2024-06-06    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | Lars  | 
+|     |                |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | Nellia  | 
 |               |  | **Part 2: Language Models and the Language Network** | |
-| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | TBD  | 
-|               |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | |
+| 2024-06-13    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | Jona  | 
+|               |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | TBD |
 | 2024-06-20    | Project Ideas           |   |   |         | Everyone | 
-| 2024-06-27    | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             | TBD  | 
+| 2024-06-27    | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | Ratnadeep |
 |     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) |   |                 | TBD  | 
-| 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | TBD  | 
-|     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD  | 
+| 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | Greg  | 
+|     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | Syed  | 
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
-| 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | TBD  | 
+| 2024-07-11    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | Simon Alexander  | 
 |     |                | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD  | 
 | 2024-07-18    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  |   |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD  | 
-|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | TBD  | 
+|     |                |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | Baraah Adil Mohammed  | 
 
 <!--| (11) 2024-07-11    | Straightening and Prediction        |  [Henaff et al, Nat Neuro 2019](https://www.nature.com/articles/s41593-019-0377-4)  |   |                 | TBD  | 
 |     |                |  [Hosseini and Fedorenko, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/88dddaf430b5bc38ab8228902bb61821-Paper-Conference.pdf) |   |                 | TBD  | 
