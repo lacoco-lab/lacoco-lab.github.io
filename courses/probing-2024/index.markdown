@@ -55,7 +55,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-05-10    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |  Greg    |
 |               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |   Herald   |
 | 2024-05-17    | Frameworks for Understanding Transformers I                |  [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html)       |         |        [Induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)               |        Asmaa, Mark     |
-|  2024-05-24    |       Frameworks for Understanding Transformers II   |    [RASP](https://arxiv.org/abs/2106.06981)     |         |       [Learning Transformer Programs](https://arxiv.org/abs/2306.01128)        |    TBD, Yash         |
+|  2024-05-24    |       Frameworks for Understanding Transformers II   |    [RASP](https://arxiv.org/abs/2106.06981)     |         |       [Learning Transformer Programs](https://arxiv.org/abs/2306.01128)        |    Akansh, Yash         |
 | 2024-05-31    |  Path Patching, Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)                |    Santanu          |
 |               |                     | [ACDC](https://arxiv.org/abs/2304.14997)        |         |                       |     Aleksandra        |
 | 2024-06-07    |   Interpreting hidden states                  | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)      |       |   [Tuned Lens](https://arxiv.org/abs/2303.08112) [Future Lens](https://arxiv.org/abs/2311.04897) |   Uyen   |
@@ -68,7 +68,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-07-05    | Activation Patching, Causality                    | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html)     |       |     [Geiger et al, arXiV 2023](https://arxiv.org/abs/2301.04709)   [DAS](https://arxiv.org/abs/2303.02536)  | Michael      |        |      |
 |               |                     |   [Wu et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html)   |      |  | TBD |
 | 2024-07-12    |  Attention, Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)    |   Anthony   |
-|               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |       |          |  TBD    |
+|               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |       |          |  Wooyeon    |
 | 2024-07-19    |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |   Muhammad   |
 |               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |   TBD   |
 
