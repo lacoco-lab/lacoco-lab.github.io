@@ -188,7 +188,7 @@ Possible topics:
 
 The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and report of your results.
 
-The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
+The report should have at most 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
 The report should be uploaded via CMS. The due date is October 13, 2024, 23:59.
 
