@@ -63,7 +63,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-06-14 | Project Ideas | | |  | Everyone |
 | 2024-06-21    | Monosemanticity     | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600) | Misha |
 |               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | | TBD |
-| 2024-06-28    |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |    TBD  |
+| 2024-06-28    |  Role of MLPs       | [MLP are key-value memories](https://arxiv.org/abs/2012.14913)      |       |        |    Nadia  |
 |               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |        |  Nhi    |
 | 2024-07-05    | Activation Patching, Causality                    | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html)     |       |     [Geiger et al, arXiV 2023](https://arxiv.org/abs/2301.04709)   [DAS](https://arxiv.org/abs/2303.02536)  | Michael      |        |      |
 |               |                     |   [Wu et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html)   |      |  | TBD |
