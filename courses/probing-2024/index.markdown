@@ -40,9 +40,9 @@ Starting from the fourth week, one or two students will present in each unit. Ev
 We expect all students to read the readings every week. Every student submits one question about the readings by Thursday noon.
 
 
-## Preliminary Syllabus
+## Syllabus
 
-**Note: The syllabus is subject to change. You're welcome to suggest alternative topics or readings that you're interested in.**
+Note: The syllabus is still subject to change.
 
 In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. **The optional material is for the Topic, rather than being specific to a particular paper**.
 
