@@ -70,7 +70,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-07-12    |  Attention, Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)    |   Anthony   |
 |               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |       |          |  Wooyeon    |
 | 2024-07-19    |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |   Muhammad   |
-|               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |   TBD   |
+|               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |   Yiming   |
 
 <!--| 2024-07-17    | Grokking                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
 |               |                     |  [Stander et al](https://arxiv.org/abs/2312.06581)     |       |        |      |
