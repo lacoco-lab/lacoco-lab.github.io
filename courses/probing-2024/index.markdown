@@ -68,7 +68,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-07-05    | Activation Patching, Causality                    | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html)     |       |     [Geiger et al, arXiV 2023](https://arxiv.org/abs/2301.04709)   [Boundless DAS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html)  | Michael      |        |      |
 |               |                     |  [DAS](https://arxiv.org/abs/2303.02536)    |      |  | TBD |
 | 2024-07-12    |  Attention, Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)    |   Anthony   |
-|               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |       |          |  Wooyeon    |
+|               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |  [Information flow routes](https://arxiv.org/abs/2403.00824)     |          |  Wooyeon    |
 | 2024-07-19    |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |   Muhammad   |
 |               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |   Yiming   |
 
