@@ -37,7 +37,7 @@ Many of our readings will be quite technical. You will need a good background in
 ## Format and requirements
 
 This is a seminar course.
-Starting from the fourth week, one or two students will present in each unit (except for the TODO session). Every student will present exactly once.
+Starting from the fourth week, one or two students will present in each unit (except for the June 11 session). Every student will present exactly once.
 We expect all students to read the readings every week. Every student submits one question about the readings by Monday noon.
 
 
@@ -221,6 +221,8 @@ For instance, you might test their robustness to malign prompts, or probe their 
 Option 1: You may develop your own question and prompts. In this case, you will be expected to design at least 25 (not more than 50) prompts.
 
 Option 2: You may draw on a larger existing benchmark. In this case, you will be expected to find some new angle on the benchmark, e.g., by tweaking the stimuli or by evaluating the LLM's behavior in a different way.
+
+This list is not exhaustive: you may also draw on other approaches, not necessarily based on prompting.
 
 The report is expected to contain a brief literature review, motivation of your question, a description of your prompts, and evaluation of the LLM's behavior.
 The report is expected to include quantitative evaluation of the LLM's behavior (e.g., using measures such as accuracy). Additionally including qualitative evaluation can also be beneficial.
