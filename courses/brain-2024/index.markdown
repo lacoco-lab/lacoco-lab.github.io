@@ -143,6 +143,7 @@ Questions are graded on a 3-point scale (0: no question submitted, 1: superficia
 
 ### Presentations
 
+#### What Content to Cover
 We expect that presentations will cover the key points from the readings, such as the main evidence for and against the key claims under consideration in the paper.
 
 We do not expect that presentations will cover all details of the papers. Rather, you should focus on big picture findings and conclusions, and are not expected to include every finding from the paper in your presentation.
@@ -162,11 +163,15 @@ Select what you consider the key points; you are not expected to cover every par
 
 
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
+As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare, in particular in the second presentation. Besides doing two separate presentations on the two readings, you may also consider interleaving your portions of the overall session (i.e., switching who's presenting a few times, but to allow fair grading, however, don't switch presenters more than 3-4 times).
 
-As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
-Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion.
+
+#### Engage the Audience
+Each session has 90 minutes. Aim for 40-60 minutes of presentation, allowing 30-50 minutes of discussion.
 Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to your audience will thus be important.
-Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
+Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation. For example, at key transition points in your presentation, ask the audience whether there are any questions or thoughts.
+Beyond discussion, consider other ways of enganging your audience, such as a little game or a quiz. Such activities can be extremely effective in getting the audience interested and engaged.
+
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
 
