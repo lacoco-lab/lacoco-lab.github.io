@@ -96,7 +96,7 @@ The course roughly has three parts: we will look into
 |               |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | Finn |
 | 2024-06-20    | Project Ideas           |   |   |         | Everyone | 
 | 2024-06-27    | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | Ratnadeep |
-|     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) |   |                 | TBD  | 
+|     |                |  Driving and suppressing the language network [Tuckute et al, Nat Neuro 2024](https://www.nature.com/articles/s41562-023-01783-7) |   |                 | Shehryaar  | 
 | 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | Greg  | 
 |     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | Syed  | 
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
