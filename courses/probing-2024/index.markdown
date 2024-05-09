@@ -196,7 +196,7 @@ For students taking the seminar for 7 credits:
 Please register on the forum on CMS.
 
 Starting from the fourth week, every student submits one question about the readings by Thursday noon.
-Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（In case people really want to ask some superficial question)
+Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（So you can also ask some basic questions that you want clarification)
 
 ### Presentations
 
