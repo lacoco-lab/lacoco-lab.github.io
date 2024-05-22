@@ -137,6 +137,8 @@ For students taking the seminar for 7 credits:
     Questions about readings: 20%
     Final paper: 50%
 
+Additionally, up to 10% bonus credits can be provided on the basis of engagement in in-class discussion.
+
 ### Questions
 
 Please register on the forum on CMS.
