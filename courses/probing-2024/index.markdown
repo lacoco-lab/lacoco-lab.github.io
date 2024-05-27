@@ -59,7 +59,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-05-31    |  Path Patching, Circuit Discovery  | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)                |    Santanu          |
 |               |                     | [ACDC](https://arxiv.org/abs/2304.14997)        |         |                       |     Aleksandra        |
 | 2024-06-07    |   Interpreting hidden states                  | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)      |       |   [Tuned Lens](https://arxiv.org/abs/2303.08112) [Future Lens](https://arxiv.org/abs/2311.04897) |   TBD   |
-|               |                | [Patchscopes](https://arxiv.org/abs/2401.06102)   | |  | Nellia |
+|               |                | [Patchscopes](https://arxiv.org/abs/2401.06102)   | |  | TBD |
 | 2024-06-14 | Project Ideas | | |  | Everyone |
 | 2024-06-21    | Monosemanticity     | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | | [A very similar one](https://arxiv.org/abs/2309.08600) | Misha |
 |               |                     | [Codebook Features](https://arxiv.org/abs/2310.17230) |   | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)| TBD |
