@@ -95,8 +95,8 @@ The course roughly has three parts: we will look into
 |               |  | **Part 2: Language Models and the Language Network** | |
 | 2024-06-20    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | Jona  | 
 |     | Project Ideas       |  |   | | (everyone) | 
-| 2024-06-27 (online!)   | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | Ratnadeep |
-|  (online!)     |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | Finn |
+| 2024-06-27 (online?)   | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | Ratnadeep |
+|  (online?)     |                                                 | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | Finn |
 | 2024-07-04    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | Greg  | 
 |     |                |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | Syed  | 
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
