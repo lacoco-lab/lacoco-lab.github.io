@@ -10,7 +10,7 @@ If you want to take this class, please register in [CMS](https://cms.sic.saarlan
 
 **Time (block seminar):** 1-4 pm Monday, Wednesday, and Friday in September 2024, week TBD; possibly Sept. 9, 11, and 13 - or the following week, so Sept. 16, 18, 20. We can adjust the dates based on interest from seminar participants.
 
-In addition, there will be an introductory lecture + coordination session during the summer semester (June or July), date and time TBD.
+In addition, there will be an introductory lecture + coordination session **3-5 pm Monday June 24**, in the Fishbowl, 3rd floor in C7 4.
 
 **Room:** TBD
 
