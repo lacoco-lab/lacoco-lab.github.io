@@ -69,12 +69,13 @@ In each session, two students will together present two papers (in the "Readings
 |               |                     |  [DAS](https://arxiv.org/abs/2303.02536)    |      |  | Xinting (brief intro) |
 | 2024-07-12    |   Head importance                  |  [Sixteen Heads Better than One?](https://arxiv.org/abs/1905.10650)     |       |        |   Muhammad   |
 |               |                     |   [Some heads do heavy lifting](https://aclanthology.org/P19-1580/)    |       |        |  Xinting (brief intro)   |
-| 2024-07-19    |  Attention, Attribution                   |  [What Does BERT Look At?](https://arxiv.org/abs/1906.04341)     |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)    |   TBD   |
-|               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |       |      [Information flow routes](https://arxiv.org/abs/2403.00824)    |  TBD    |
+| 2024-07-19    |  Attribution                   |   [Information flow routes](https://arxiv.org/abs/2403.00824)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)    |   Xinting (brief intro)   |
+|               |                     |    [Diffmask](https://arxiv.org/abs/2004.14992)   |       |     [EAP](https://arxiv.org/abs/2310.10348)     |     |
 
 
 <!--| 2024-07-17    | Grokking                    |  [Grokking](https://arxiv.org/abs/2301.05217)     |       |        |      |
 |               |                     |  [Stander et al](https://arxiv.org/abs/2312.06581)     |       |        |      |
+[What Does BERT Look At?](https://arxiv.org/abs/1906.04341)
 -->
 
 
