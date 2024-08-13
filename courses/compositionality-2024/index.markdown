@@ -39,41 +39,6 @@ Students that do not present on a given day are expected to prepare a two-page h
 |    |  | [Galke et al, 2024](https://arxiv.org/abs/2302.12239) |  |  
 |    |  |  |  |  
 
-
-
-
-### Additional reading (not required)
-
-- What is compositionality?
-  - different views in linguistics -[Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)
-  - ? in current philosophy - [Szabo 2020](https://plato.stanford.edu/entries/compositionality/)
-  - a working approach in NLP - [Bender et al 2015](https://aclanthology.org/W15-0128)
-  - ? a recent philosophical treatment w/r/t machine learning - [Nefdt 2020](https://doi.org/10.1007/s11023-020-09519-6)
-- Foundational issue: abstraction
-  - Rule- vs exemplar-based generalization - [Dasgupta et al 2022](https://proceedings.mlr.press/v162/dasgupta22b.html)
-  - Information compression and model capacity - [Resnick et al 2020](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1125.pdf)
-  - Trade-off with variation - [Conklin and Smith 2023](https://openreview.net/pdf?id=-Yzz6vlX7V-)
-  - Information-theoretic decomposition of morphology - [Socolof et al 2022](https://aclanthology.org/2022.coling-1.5.pdf)
-- Do ANNs achieve compositional generalization? - evidence of problems
-  - an early overview - [Baroni 2019](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307)
-  - ? COGS, an influential benchmark - [Kim and Linzen 2020](https://aclanthology.org/2020.emnlp-main.731)
-  - ? maybe not a problem after all - [Csordas et al, 2021](https://aclanthology.org/2021.emnlp-main.49)
-  - SLOG, a recent update - [Li et al 2023](https://aclanthology.org/2023.emnlp-main.194/)
-- Some approaches to increasing ANN compositionality
-  - Data augmentation - [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/)
-  - Meta learning - will be discussed in human comparison part
-  - Explicit composition of distributed representations - [Smolensky et al 2022](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18599)
-  - Symbolic methods: Neurosymbolic / program synthesis - reference TBD
-- How compositional are humans anyway?
-  - Humans generalize recursively to compose longer linguistic sequences than seen in training - [McCoy et al 2021](https://escholarship.org/uc/item/67z0195s)
-  - Meta-learning better approximates human symbol mapping than symbolic composition - [Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3)
-  - ? Humans are biased toward abstraction, ANNs toward pattern-matching - [Kumar et al 2023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011316)
-  - ? LMs are more logical than humans but repeat some fallacies - [Eisape et al 2023](https://arxiv.org/abs/2311.00445)
-  - ? LMs show human-like content effects on reasoning tasks - [Dasgupta et al 2023](https://arxiv.org/abs/2207.07051)
-
-  
-
-
 ## Evaluation
 
 
@@ -112,4 +77,38 @@ Please contact Kate (kmccurdy@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saa
 ## Accommodations
 
 If you need any accommodations due to a disability or chronic illness, please either contact Michael at mhahn@lst.uni-saarland.de or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/administration/diversity.html) of the university.
+
+
+
+### Optional: additional background reading 
+
+- What is compositionality?
+  - different views in linguistics -[Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)
+  - ? in current philosophy - [Szabo 2020](https://plato.stanford.edu/entries/compositionality/)
+  - a working approach in NLP - [Bender et al 2015](https://aclanthology.org/W15-0128)
+  - ? a recent philosophical treatment w/r/t machine learning - [Nefdt 2020](https://doi.org/10.1007/s11023-020-09519-6)
+- Foundational issue: abstraction
+  - Rule- vs exemplar-based generalization - [Dasgupta et al 2022](https://proceedings.mlr.press/v162/dasgupta22b.html)
+  - Information compression and model capacity - [Resnick et al 2020](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1125.pdf)
+  - Trade-off with variation - [Conklin and Smith 2023](https://openreview.net/pdf?id=-Yzz6vlX7V-)
+  - Information-theoretic decomposition of morphology - [Socolof et al 2022](https://aclanthology.org/2022.coling-1.5.pdf)
+- Do ANNs achieve compositional generalization? - evidence of problems
+  - an early overview - [Baroni 2019](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307)
+  - ? COGS, an influential benchmark - [Kim and Linzen 2020](https://aclanthology.org/2020.emnlp-main.731)
+  - ? maybe not a problem after all - [Csordas et al, 2021](https://aclanthology.org/2021.emnlp-main.49)
+  - SLOG, a recent update - [Li et al 2023](https://aclanthology.org/2023.emnlp-main.194/)
+- Some approaches to increasing ANN compositionality
+  - Data augmentation - [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/)
+  - Meta learning - will be discussed in human comparison part
+  - Explicit composition of distributed representations - [Smolensky et al 2022](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18599)
+  - Symbolic methods: Neurosymbolic / program synthesis - reference TBD
+- How compositional are humans anyway?
+  - Humans generalize recursively to compose longer linguistic sequences than seen in training - [McCoy et al 2021](https://escholarship.org/uc/item/67z0195s)
+  - Meta-learning better approximates human symbol mapping than symbolic composition - [Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3)
+  - ? Humans are biased toward abstraction, ANNs toward pattern-matching - [Kumar et al 2023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011316)
+  - ? LMs are more logical than humans but repeat some fallacies - [Eisape et al 2023](https://arxiv.org/abs/2311.00445)
+  - ? LMs show human-like content effects on reasoning tasks - [Dasgupta et al 2023](https://arxiv.org/abs/2207.07051)
+
+  
+
 
