@@ -19,7 +19,7 @@ In addition, there will be an introductory lecture + coordination session **3-5 
 
 This is a block seminar course.
 
-Every student will give a 10-minute presentation.
+Every student will give a 30-minute presentation.
 
 Students that do not present on a given day are expected to prepare a two-page high-level overview which summarizes the day's assigned reading and explains how the papers relate to each other. The summary should conclude with a question for discussion. These summaries will be submitted at the end of each classroom session.
 
@@ -28,16 +28,17 @@ Students that do not present on a given day are expected to prepare a two-page h
 
 | Date          | Theme |  Reading               | Presenter/s  |
 | ------------- | ------------------- | ------------------- | --------------------- | 
-|  2024-09-09 | Defining compositionality  | [Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)   |  |  
-|    |  |  |  |  
-|    | Compositionality in ANNs| [Baroni 2019](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307) |  |  
-| 2024-09-11 | Language emergence | [Gupta et al., 2020](https://aclanthology.org/2020.repl4nlp-1.5v2.pdf)  |  |  
-|    | Representations  | [Lepori et al., 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/85069585133c4c168c865e65d72e9775-Abstract-Conference.html) |  |  
-|    | Data structures | [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/) |  |  
-|  2024-09-13  | Comparing to humans |[Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3) |  |  
-|    |  |  |  |  
-|    |  | [Galke et al, 2024](https://arxiv.org/abs/2302.12239) |  |  
-|    |  |  |  |  
+|  2024-09-09 | Defining compositionality  | [Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)   | Bao Di  |  
+|    | Compositionality in ANNs| [Baroni 2019](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307) | Joel Joachim Schnubel |  
+|    | ... in emergent languages | [Chaabouni et al, 2020](https://arxiv.org/abs/2004.09124)  | Maximilian Jones Schmidt |  
+| 2024-09-11 | Benchmarking compositionality | [Kim and Linzen 2020](https://aclanthology.org/2020.emnlp-main.731) | Amanda Silina |  
+|    | Compositional representations | [McCoy et al, 2019](https://openreview.net/forum?id=BJx0sjC5FX) | Ansh Dawda | 
+|    | More representations | [Lepori et al., 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/85069585133c4c168c865e65d72e9775-Abstract-Conference.html) | Sundam Adnan Soomro |  
+|    | Data structures | [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/) | Denys Pyshchai |   
+|  2024-09-13  | Comparing to humans |[Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3) | Daria Solovieva |  
+|    |  | [Kumar et al, 2023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011316) | Verma Abhishek |  
+|    |  | [Galke et al, 2024](https://arxiv.org/abs/2302.12239) | Anamika Sreeja Sadanandan |  
+
 
 ## Evaluation
 
