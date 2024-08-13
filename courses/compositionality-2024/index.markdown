@@ -8,7 +8,7 @@ If you want to take this class, please register in [CMS](https://cms.sic.saarlan
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
-**Time (block seminar):** 1-4 pm Monday, Wednesday, and Friday in September 2024, week TBD; possibly Sept. 9, 11, and 13 - or the following week, so Sept. 16, 18, 20. We can adjust the dates based on interest from seminar participants.
+**Time (block seminar):** 1-4 pm Monday, Wednesday, and Friday; September 9-13, 2024.
 
 In addition, there will be an introductory lecture + coordination session **3-5 pm Monday June 24**, in the Fishbowl, 3rd floor in C7 4.
 
@@ -26,9 +26,23 @@ Students that do not present on a given day are expected to prepare a two-page h
 
 ## Syllabus
 
-**Note: The syllabus is subject to change, and not all of the listed readings here will be required. We will discuss this in the first meeting.**
+| Date          | Theme |  Reading               | Presenter/s  |
+| ------------- | ------------------- | ------------------- | --------------------- | 
+|  2024-09-09 | Defining compositionality  | [Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)   |  |  
+|    |  |  |  |  
+|    | Compositionality in ANNs| [Baroni 2019](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0307) |  |  
+| 2024-09-11 | Language emergence | [Gupta et al., 2020](https://aclanthology.org/2020.repl4nlp-1.5v2.pdf)  |  |  
+|    | Representations  | [Lepori et al., 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/85069585133c4c168c865e65d72e9775-Abstract-Conference.html) |  |  
+|    | Data structures | [Akyurek and Andreas 2023](https://aclanthology.org/2023.acl-long.38/) |  |  
+|  2024-09-13  | Comparing to humans |[Lake and Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3) |  |  
+|    |  |  |  |  
+|    |  | [Galke et al, 2024](https://arxiv.org/abs/2302.12239) |  |  
+|    |  |  |  |  
 
-### Preliminary topics
+
+
+
+### Additional reading (not required)
 
 - What is compositionality?
   - different views in linguistics -[Herbelot 2020](https://thegradient.pub/how-to-stop-worrying-about-compositionality-2)
