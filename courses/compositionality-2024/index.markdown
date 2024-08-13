@@ -57,19 +57,17 @@ For students taking the seminar for 7 credits:
 
 ### Presentations
 
-Given time limitations, presentations will be strictly kept to 10 minutes each, followed by a general discussion covering all of the papers. The presentation should focus on high-level points from the readings, such as the main argument and evidence for and against key claims under consideration.
+Given time limitations, presentations will be strictly kept to 30 minutes each, followed by a break and then a general discussion covering all of the papers. The presentation should focus on high-level points from the readings, such as the main argument and evidence for and against key claims under consideration.
 
 
 ### Term Papers
-
-**Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
 
 You will write a 6 page report (ACL format) on one of the two following topics:
 
   1. Is compositionality a significant concern for modern artificial neural networks (ANNs), or can we consider this a solved problem? Give reasons for or against one of these perspectives, and motivate your points by citing relevant literature. You should address points considered in class, such as various interventions which have been shown to enhance ANNs' compositional processing, and evidence for and against compositionality in human behavior. 
   2. Select an exisiting compositionality benchmark (e.g. SCAN, COGS, SLOG, CFQ) and evaluate at least one proposed approach to improve compositional generalization (e.g. data augmentation, auxiliary tasks/fine-tuning, specialized model architecture) against a standard model baseline. Write up your findings in a technical report.
 
-The report should be uploaded via CMS. The due date will be one month following our final in-person session, i.e. Oct. 13 or 20.
+The report should be uploaded via CMS. The due date will be one month following our final in-person session, i.e. Oct. 13.
 
 ## Contact
 
