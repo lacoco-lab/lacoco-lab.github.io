@@ -48,6 +48,29 @@ In each session, two students will together present two papers (in the "Readings
 
   TBD
 
+  <!-- 
+  I'm collecting some papers following survey
+a survey for RAG: https://arxiv.org/pdf/2312.10997
+
+
+RAG:
+  old classic paper, naive RAG: 
+    https://arxiv.org/abs/2004.04906
+    https://arxiv.org/abs/2005.11401
+  old paper in gpt-3 era: https://arxiv.org/abs/2112.04426
+  
+  About query:
+    optimizing the query text: https://arxiv.org/abs/2305.14283
+    hypothetical document as query: https://arxiv.org/abs/2212.10496
+
+  Rearranged RAG pipelines:
+    retrieve->generate->retrieve->generate ... : https://arxiv.org/abs/2305.15294
+    generate instead of retrieval (go optional material): https://arxiv.org/abs/2209.10063
+  
+  -->
+
+  
+
 ## Evaluation
 
 Important: Please make sure that your study program's regulations allow taking whichever version of the course (4 or 7 CP) you want to take.
