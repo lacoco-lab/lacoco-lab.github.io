@@ -65,7 +65,14 @@ RAG:
 
   Rearranged RAG pipelines:
     retrieve->generate->retrieve->generate ... : https://arxiv.org/abs/2305.15294
+    multiple interation/hop: https://arxiv.org/abs/2212.14024
     generate instead of retrieval (go optional material): https://arxiv.org/abs/2209.10063
+
+  anticipate future text and do retrieval if uncertain: https://arxiv.org/abs/2305.06983
+  adaptively retrieve and reflect: https://arxiv.org/abs/2310.11511
+
+About better Prompts:
+  Train prompt retriever to automatically retrieve good instruction prompt: https://arxiv.org/abs/2303.08518
   
   -->
 
