@@ -57,7 +57,8 @@ RAG:
   old classic paper, naive RAG: 
     https://arxiv.org/abs/2004.04906
     https://arxiv.org/abs/2005.11401
-  old paper in gpt-3 era: https://arxiv.org/abs/2112.04426
+  old paper, require access to internals to train: https://arxiv.org/abs/2112.04426
+  normal, retrieve and prepend text to black-box LM: https://arxiv.org/abs/2301.12652
   
   About query:
     optimizing the query text: https://arxiv.org/abs/2305.14283
@@ -66,14 +67,30 @@ RAG:
   Rearranged RAG pipelines:
     retrieve->generate->retrieve->generate ... : https://arxiv.org/abs/2305.15294
     multiple interation/hop: https://arxiv.org/abs/2212.14024
-    generate instead of retrieval (go optional material): https://arxiv.org/abs/2209.10063
+    Interleaving Retrieval with Chain-of-Thought: https://arxiv.org/abs/2212.10509
 
-  anticipate future text and do retrieval if uncertain: https://arxiv.org/abs/2305.06983
-  adaptively retrieve and reflect: https://arxiv.org/abs/2310.11511
+  Retrieve as needed:
+    anticipate future text and do retrieval if uncertain: https://arxiv.org/abs/2305.06983
+    adaptively retrieve and reflect: https://arxiv.org/abs/2310.11511
+
+  Retrieve and compress: https://arxiv.org/abs/2310.04408
+  Evaluator model assess the quality followed by different actions: https://arxiv.org/abs/2401.15884
+
+  Analysis about factors of retireved doc: https://arxiv.org/abs/2401.14887
+
+  Integration of RAG and fine-tuning: https://arxiv.org/abs/2310.01352
+
+Generate knowledge:
+  generate instead of retrieval: https://arxiv.org/abs/2209.10063
+  Specialized LM generating knowledge as context to LLM: https://arxiv.org/abs/2305.04757
 
 About better Prompts:
   Train prompt retriever to automatically retrieve good instruction prompt: https://arxiv.org/abs/2303.08518
-  
+
+
+Using tools:
+  a very popular paper using various APIs: https://arxiv.org/abs/2302.04761
+  model searching and navigating the web: https://arxiv.org/abs/2112.09332
   -->
 
   
