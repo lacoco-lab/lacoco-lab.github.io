@@ -59,6 +59,7 @@ RAG:
     https://arxiv.org/abs/2005.11401
   old paper, require access to internals to train: https://arxiv.org/abs/2112.04426
   normal, retrieve and prepend text to black-box LM: https://arxiv.org/abs/2301.12652
+  optional paper: https://arxiv.org/abs/2208.03299
   
   About query:
     optimizing the query text: https://arxiv.org/abs/2305.14283
@@ -67,7 +68,10 @@ RAG:
   Rearranged RAG pipelines:
     retrieve->generate->retrieve->generate ... : https://arxiv.org/abs/2305.15294
     multiple interation/hop: https://arxiv.org/abs/2212.14024
+
+  RAG and CoT:
     Interleaving Retrieval with Chain-of-Thought: https://arxiv.org/abs/2212.10509
+    CoT then RAG at each step: https://arxiv.org/abs/2403.05313
 
   Retrieve as needed:
     anticipate future text and do retrieval if uncertain: https://arxiv.org/abs/2305.06983
@@ -91,6 +95,17 @@ About better Prompts:
 Using tools:
   a very popular paper using various APIs: https://arxiv.org/abs/2302.04761
   model searching and navigating the web: https://arxiv.org/abs/2112.09332
+  use manual prompts to guide LM to generate action token (seems more flexible): https://arxiv.org/abs/2210.03629
+  designed some better tools for KB, DB: https://arxiv.org/abs/2402.14672 (following the above paper, few citations)
+  tools for searching structured data (human-defined workflows): https://arxiv.org/abs/2305.09645
+  an instruction-tuning dataset for tool use, and fine-tune Llama: https://arxiv.org/abs/2307.16789
+  
+  Benchmark for Tool-Augmented LLMs: https://arxiv.org/abs/2304.08244
+
+  optional paper: https://arxiv.org/abs/2303.16434
+
+
+Search for neural /symbolic? explicit blabla
   -->
 
   
