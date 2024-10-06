@@ -85,66 +85,6 @@ In addition, here are some more paper highly related to the topic of this semina
 
 [Benchmark for Tool-augmented LLMs](https://arxiv.org/abs/2304.08244), [Dataset for QA with Tools](https://arxiv.org/pdf/2306.13304).
 
-  <!-- 
-  full list of collected papers
-
-RAG:
-  old classic paper, naive RAG: 
-    https://arxiv.org/abs/2004.04906
-    https://arxiv.org/abs/2005.11401
-  old paper, require access to internals to train: https://arxiv.org/abs/2112.04426
-  normal, retrieve and prepend text to black-box LM: https://arxiv.org/abs/2301.12652
-  optional paper: https://arxiv.org/abs/2208.03299
-  
-  About query:
-    optimizing the query text: https://arxiv.org/abs/2305.14283
-    hypothetical document as query: https://arxiv.org/abs/2212.10496
-
-  Rearranged RAG pipelines:
-    retrieve->generate->retrieve->generate ... : https://arxiv.org/abs/2305.15294
-    multiple interation/hop: https://arxiv.org/abs/2212.14024
-
-  RAG and CoT:
-    Interleaving Retrieval with Chain-of-Thought: https://arxiv.org/abs/2212.10509
-    CoT then RAG at each step: https://arxiv.org/abs/2403.05313
-
-  Retrieve as needed:
-    anticipate future text and do retrieval if uncertain: https://arxiv.org/abs/2305.06983
-    adaptively retrieve and reflect: https://arxiv.org/abs/2310.11511
-
-  Retrieve and compress: https://arxiv.org/abs/2310.04408
-  Evaluator model assess the quality followed by different actions: https://arxiv.org/abs/2401.15884
-
-  Analysis about factors of retireved doc: https://arxiv.org/abs/2401.14887
-
-  Integration of RAG and fine-tuning: https://arxiv.org/abs/2310.01352
-
-Generate knowledge:
-  generate instead of retrieval: https://arxiv.org/abs/2209.10063
-  Specialized LM generating knowledge as context to LLM: https://arxiv.org/abs/2305.04757
-
-About better Prompts:
-  Train prompt retriever to automatically retrieve good instruction prompt: https://arxiv.org/abs/2303.08518
-
-
-Using tools:
-  a very popular paper using various APIs: https://arxiv.org/abs/2302.04761
-  a popular paper: https://arxiv.org/abs/2304.09842
-  go to optional paper: https://arxiv.org/abs/2303.09014
-  
-  model searching and navigating the web: https://arxiv.org/abs/2112.09332
-  use manual prompts to guide LM to generate action token (seems more flexible): https://arxiv.org/abs/2210.03629
-  designed some better tools for KB, DB: https://arxiv.org/abs/2402.14672 (following the above paper, few citations)
-  tools for searching structured data (human-defined workflows): https://arxiv.org/abs/2305.09645
-  an instruction-tuning dataset for tool use, and fine-tune Llama: https://arxiv.org/abs/2307.16789
-  focus on math: https://arxiv.org/abs/2402.17231
-  
-  Benchmark for Tool-Augmented LLMs: https://arxiv.org/abs/2304.08244
-  Dataset QA with External Tools: https://arxiv.org/pdf/2306.13304
-
-  optional paper: https://arxiv.org/abs/2303.16434
-  -->
-
   
 
 ## Evaluation
