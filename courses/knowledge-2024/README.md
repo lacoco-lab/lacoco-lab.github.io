@@ -37,7 +37,7 @@ Many of our readings will be quite technical. You will need a good background in
 
 This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit. Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Thursday noon.
+We expect all students to read the readings every week. Every student submits one question about the readings by Wednesday noon.
 
 
 ## Syllabus
@@ -46,12 +46,37 @@ Note: The syllabus is still subject to change.
 
 In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. **The optional material is for the Topic, rather than being specific to a particular paper**.
 
-  TBD
+
+| Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
+| ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
+|  2024-10-xx    | no class               |  |  |                |          | 
+| 2024-    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |              |   | 
+|  2024    | no class |
+| 2024    | RAG I           | Dense Passage Retrieval for Open-Domain Question Answering [Karpukhin et al.](https://arxiv.org/abs/2004.04906)       |       |         |  TBD    |
+|               |                     | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks [Lewis et al.](https://arxiv.org/abs/2005.11401)    |       |     |   TBD   |
+| 2024    | RAG II              |  Improving language models by retrieving from trillions of tokens (Retro) [Borgeaud et al.](https://arxiv.org/abs/2112.04426)       |         |        [Izacard et al.](https://arxiv.org/abs/2208.03299)              |        TBD     |
+|             |                  | REPLUG: Retrieval-Augmented Black-Box Language Models [Shi et al.](https://arxiv.org/abs/2301.12652) |    |    |  TBD  |
+|  2024    |       Better Query for RAG   |   Query Rewriting for Retrieval-Augmented Large Language Models  [Ma et al.](https://arxiv.org/abs/2305.14283)   |         |             |    TBD         |
+|             |                  | Precise Zero-Shot Dense Retrieval without Relevance Labels [Gao et al.](https://arxiv.org/abs/2212.10496) |    |    |  TBD  |
+| 2024    |  Adaptive Retrieval  | Active Retrieval Augmented Generation [Jiang et al.](https://arxiv.org/abs/2305.06983)        |         |               |    TBD          |
+|               |                     | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [Asai et al.](https://arxiv.org/abs/2310.11511)      |         |                       |     TBD        |
+| 2024    |   Rearranged RAG pipelines                  | Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy [Shao et al.](https://arxiv.org/abs/2305.15294)     |     |   |   TBD  |
+|               |                | Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP [Khattab et al.](https://arxiv.org/abs/2212.14024)  | |  | TBD |
+| 2025 | Project Ideas | | |  | Everyone |
+| 2025    | RAG and CoT     | Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions [Trivedi et al.](https://arxiv.org/abs/2212.10509) | | | TBD |
+|               |                     | RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [Wang et al.](https://arxiv.org/abs/2403.05313) |   |  | TBD |
+| 2025    |  Generate rather than Retrieve    | Generate rather than Retrieve: Large Language Models are Strong Context Generators [Yu et al.](https://arxiv.org/abs/2209.10063)      |       |        |    TBD  |
+|               |                     |  Augmented Large Language Models with Parametric Knowledge Guiding [Luo et al.](https://arxiv.org/abs/2305.04757)     |       |        |  TBD   |
+| 2025    | Tool-augmented LLMs I                 | Toolformer: Language Models Can Teach Themselves to Use Tools [Schick et al.](https://arxiv.org/abs/2302.04761)    |       |   [Paranjape et al.](https://arxiv.org/abs/2303.09014)    | TBD      | 
+|               |                     |  Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Lu et al.](https://arxiv.org/abs/2304.09842)    |      |  | TBD |
+| 2025    |   Tool-augmented LLMs II                  |  ReAct: Synergizing Reasoning and Acting in Language Models [Yao et al.](https://arxiv.org/abs/2210.03629)   |       |   [Gu et al.](https://arxiv.org/abs/2402.14672)     |   TBD   |
+|               |                     |   ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Qin et al.](https://arxiv.org/abs/2307.16789)   |       |   [Liang et al.](https://arxiv.org/abs/2303.16434)     |  TBD   |
+| 2025    |  Tool-augmented LLMs III                   | WebGPT: Browser-assisted question-answering with human feedback [Nakano et al.](https://arxiv.org/abs/2112.09332)     |       |   StructGPT [Jiang et al.](https://arxiv.org/abs/2305.09645)     |   TBD  |
+|               |                     |  MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning  [Das et al.](https://arxiv.org/abs/2402.17231)  |       |        |  TBD   |
+
 
   <!-- 
-  I'm collecting some papers following survey
-a survey for RAG: https://arxiv.org/pdf/2312.10997
-
+  full list of collected papers
 
 RAG:
   old classic paper, naive RAG: 
