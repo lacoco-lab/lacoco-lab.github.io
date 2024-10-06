@@ -94,18 +94,20 @@ About better Prompts:
 
 Using tools:
   a very popular paper using various APIs: https://arxiv.org/abs/2302.04761
+  a popular paper: https://arxiv.org/abs/2304.09842
+  go to optional paper: https://arxiv.org/abs/2303.09014
+  
   model searching and navigating the web: https://arxiv.org/abs/2112.09332
   use manual prompts to guide LM to generate action token (seems more flexible): https://arxiv.org/abs/2210.03629
   designed some better tools for KB, DB: https://arxiv.org/abs/2402.14672 (following the above paper, few citations)
   tools for searching structured data (human-defined workflows): https://arxiv.org/abs/2305.09645
   an instruction-tuning dataset for tool use, and fine-tune Llama: https://arxiv.org/abs/2307.16789
+  focus on math: https://arxiv.org/abs/2402.17231
   
   Benchmark for Tool-Augmented LLMs: https://arxiv.org/abs/2304.08244
+  Dataset QA with External Tools: https://arxiv.org/pdf/2306.13304
 
   optional paper: https://arxiv.org/abs/2303.16434
-
-
-Search for neural /symbolic? explicit blabla
   -->
 
   
