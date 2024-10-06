@@ -44,7 +44,7 @@ We expect all students to read the readings every week. Every student submits on
 
 Note: The syllabus is still subject to change.
 
-In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. **The optional material is for the Topic, rather than being specific to a particular paper**.
+In each session, two students will together present two papers (in the "Readings" column) on a common topic. **The optional material is for the Topic, rather than being specific to a particular paper**.
 
 
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
@@ -74,6 +74,16 @@ In each session, two students will together present two papers (in the "Readings
 | 2025    |  Tool-augmented LLMs III                   | WebGPT: Browser-assisted question-answering with human feedback [Nakano et al.](https://arxiv.org/abs/2112.09332)     |       |   StructGPT [Jiang et al.](https://arxiv.org/abs/2305.09645)     |   TBD  |
 |               |                     |  MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning  [Das et al.](https://arxiv.org/abs/2402.17231)  |       |        |  TBD   |
 
+In addition, here are some more paper highly related to the topic of this seminar (optional material):
+
+[Retrieve and compress](https://arxiv.org/abs/2310.04408),
+[Evaluator model assess the quality followed by different actions](https://arxiv.org/abs/2401.15884), 
+[Integration of RAG and fine-tuning](https://arxiv.org/abs/2310.01352), 
+[Analysis about how factors of retireved doc affect performance](https://arxiv.org/abs/2401.14887);
+
+[Prompt Retriever](https://arxiv.org/abs/2303.08518);
+
+[Benchmark for Tool-augmented LLMs](https://arxiv.org/abs/2304.08244), [Dataset for QA with Tools](https://arxiv.org/pdf/2306.13304).
 
   <!-- 
   full list of collected papers
