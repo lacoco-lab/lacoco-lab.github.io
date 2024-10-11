@@ -51,8 +51,8 @@ In each session, two students will together present two papers (in the "Readings
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2024-10-17    | no class               |  |  |                |          | 
-| 2024-10-24    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |              |   | 
-|  2024-10-31    | no class |
+|  2024-10-24    | no class |  |  |  |  |
+| 2024-10-31    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |              |   | 
 | 2024-11-07    | RAG I           | Dense Passage Retrieval for Open-Domain Question Answering [Karpukhin et al.](https://arxiv.org/abs/2004.04906)       |       |         |  TBD    |
 |               |                     | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks [Lewis et al.](https://arxiv.org/abs/2005.11401)    |       |     |   TBD   |
 | 2024-11-14    | RAG II              |  Improving language models by retrieving from trillions of tokens (Retro) [Borgeaud et al.](https://arxiv.org/abs/2112.04426)       |         |        [Izacard et al.](https://arxiv.org/abs/2208.03299)              |        TBD     |
