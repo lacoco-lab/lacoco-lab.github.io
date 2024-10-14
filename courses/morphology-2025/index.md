@@ -32,7 +32,7 @@ This is a block seminar course.
 
 Every student will give a 30-minute presentation.
 
-Students that do not present on a given day are expected to prepare a two-page high-level overview which summarizes the day's assigned reading and explains how the papers relate to each other. The summary should conclude with a question for discussion. These summaries will be submitted by CMS at the start of each classroom session.
+Students that do not present on a given day are expected to prepare a one- to two-page high-level overview which summarizes the day's assigned reading and explains how the papers relate to each other. The summary should conclude with a question for discussion. These summaries will be submitted by CMS at the start of each classroom session.
 
 
 ## Syllabus
