@@ -1,6 +1,6 @@
 # Processing Morphology
 
-Morphology concerns linguistic structure within words; for example, "Handschuhe" can be broken down into the morphemes "hand", "shoe" and plural (-e). There is significant variation in morphological structure across languages: some have rich systems of inflection and derivation, while other languages barely use morphology at all. In light of this, we might ask: why have complex morphology at all? This seminar reviews how complex morphology is processed by humans and machines, with special attention to functional and information-theoretic accounts.
+Morphology concerns linguistic structure within words; for example, "Handschuhe" can be broken down into the morphemes "hand", "shoe" and plural (-e). There is significant variation in morphological structure across languages: some have rich systems of inflection and derivation, while other languages barely use morphology at all. This seminar reviews how complex morphology is processed by humans and machines, with special attention to functional and information-theoretic accounts.
 
 Key themes:
 
