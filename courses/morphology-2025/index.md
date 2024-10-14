@@ -13,7 +13,7 @@ Key themes:
 
 <!--If you want to take this class, please register in [CMS](https://cms.sic.saarland/composition_24/).-->
 
-**Course Management System:** TBD <!--[CMS](https://cms.sic.saarland/composition_24/) -->
+**Course Management System:** TBD --- will be finalized before introduction session <!--[CMS](https://cms.sic.saarland/composition_24/) -->
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
@@ -72,7 +72,7 @@ Given time limitations, presentations will be strictly kept to 30 minutes each, 
 
 ### Term Papers
 
-You will write a 6 page report (ACL format). Details TBD.
+You will write a 6 page report (ACL format). Details TBD --- will be finalized before introduction session.
 
 The report should be uploaded via CMS. The due date will be one month following our final in-person session.
 
