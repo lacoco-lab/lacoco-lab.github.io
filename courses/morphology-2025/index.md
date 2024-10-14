@@ -8,7 +8,7 @@ Key themes:
 - Regularity and Generalization: Can we model morphological regularity and predict how speakers generalize?
 - Complexity and Learning: How should we measure complexity in morphology? Do speakers and models learn more efficiently when morphology is less complex?
 - Morphemes and Subword Tokens: How does morphology relate to common subword tokenization appraoches like BPE? Does subword tokenization make language model behavior less cognitively plausible?
-- Modeling Morphological Fusion: A case study comparing Bayesian and information-theoretic approaches to *fusion*, the phenomenon whereby multiple morphological features (e.g. non-feminine, singular, genitive) are expressed by a single morphological element (e.g. "des Handschuh**s**").
+- Modeling Morphological Fusion: A case study comparing Bayesian and information-theoretic approaches to *fusion*, the phenomenon whereby multiple morphological features (e.g. non-feminine, singular, genitive) are expressed by a single morpheme (e.g. "des Handschuh**s**").
 
 
 <!--If you want to take this class, please register in [CMS](https://cms.sic.saarland/composition_24/).-->
