@@ -2,6 +2,14 @@
 
 Morphology concerns linguistic structure within words; for example, "Handschuhe" can be broken down into the morphemes "hand", "shoe" and plural (-e). There is significant variation in morphological structure across languages: some have rich systems of inflection and derivation, while other languages barely use morphology at all. In light of this, we might ask: why have complex morphology at all? This seminar reviews how complex morphology is processed by humans and machines, with special attention to functional and information-theoretic accounts.
 
+Key themes:
+
+- Introduction to Morphological Processing: Morphology poses related but distinct research questions for linguists, psycholinguists, and computational modelers.
+- Regularity and Generalization: How can we model morphological regularity and predict how speakers generalize?
+- Complexity and Learning: How can we measure complexity in morphology, and do our measures predict how speakers and models learn?
+- Morphemes and Subword Tokens: How does morphology relate to common subword tokenization appraoches like BPE? Does subword tokenization make language model behavior less cognitively plausible?
+- Modeling Morphological Fusion: A case study comparing Bayesian and information-theoretic approaches to *fusion*, the phenomenon whereby multiple morphological features (e.g. non-feminine, singular, genitive) are expressed by a single morphological exponent (e.g. "des Handschuh**s**").
+
 
 <!--If you want to take this class, please register in [CMS](https://cms.sic.saarland/composition_24/).-->
 
@@ -9,9 +17,11 @@ Morphology concerns linguistic structure within words; for example, "Handschuhe"
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
-**Time (block seminar):** TBD, likely mid-February after the exams, 2025.
+**Time (block seminar):** 1-4 pm on Weds Feb 12, Monday Feb 17, Weds Feb 19, and Friday Feb 21.
 
-In addition, there will be an introductory lecture + coordination session during Winter Semester (date TBD).
+In addition, there will be an online introductory lecture + coordination session during Winter Semester. Preliminary date, possibly subject to change: **January 13, 2025**.
+
+**Registration deadline**: January 31
 
 **Room:** TBD
 
@@ -27,7 +37,17 @@ Students that do not present on a given day are expected to prepare a two-page h
 
 ## Syllabus
 
-TBD
+**N.B.** Syllabus contents may be revised based on seminar participation. Syllabus and presentation assignments will be finalized by **Feb. 7.**
+
+| Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
+| ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
+|  2025-01-19    | Introduction to Morphological Processing               |  | TBD |      [Aronoff and Sims (2023)](https://www.researchgate.net/publication/367297686_The_relational_nature_of_morphology); [Sims et al. (2022)](https://www.researchgate.net/publication/353435629_At_the_Intersection_of_Cognitive_Processes_and_Linguistic_Diversity)          |     Kate     | 
+| 2025-02-12    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/), [Breiss and Jo (2023)](https://aclanthology.org/2023.sigmorphon-1.14/), [Jeong et al. (2023)](https://aclanthology.org/2023.sigmorphon-1.16/)  |  |     |   | 
+<!--|      |               |   |  |     |   |--> 
+| 2025-02-17    | Complexity and Learning | [Cotterell et al. (2018)](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00271), [Johnson et al. (2021)](https://jlm.ipipan.waw.pl/index.php/JLM/article/view/259)  |  | [Ackerman and Malouf (2013)](https://muse.jhu.edu/article/521667), [Seyfarth et al. (2014)](https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/view/3154)  |   | 
+| 2025-02-19    |  Morphemes and Subword Tokens | [Gutierrez-Vasques et al. (2023)](https://doi.org/10.1162/coli_a_00489), [Nair and Resnick (2023)](https://aclanthology.org/2023.findings-emnlp.752)  |  |     |   | 
+| 2025-02-21    |  Modeling Morphological Fusion | [Elsner et al. (2020)](https://aclanthology.org/2020.scil-1.4), [Socolof et al. (2022)](https://aclanthology.org/2022.coling-1.5), [Rathi et al. (2022)](https://escholarship.org/uc/item/0v03z6xb) |  |     |   | 
+
 
 
 ## Evaluation
