@@ -6,7 +6,7 @@ Key themes:
 
 - Introduction to Morphological Processing: Morphology poses related but distinct research questions for linguists, psycholinguists, and computational modelers.
 - Regularity and Generalization: How can we model morphological regularity and predict how speakers generalize?
-- Complexity and Learning: How can we measure complexity in morphology, and do our measures predict how speakers and models learn?
+- Complexity and Learning: How should we measure complexity in morphology? Do speakers and models learn more efficiently when morphology is less complex?
 - Morphemes and Subword Tokens: How does morphology relate to common subword tokenization appraoches like BPE? Does subword tokenization make language model behavior less cognitively plausible?
 - Modeling Morphological Fusion: A case study comparing Bayesian and information-theoretic approaches to *fusion*, the phenomenon whereby multiple morphological features (e.g. non-feminine, singular, genitive) are expressed by a single morphological exponent (e.g. "des Handschuh**s**").
 
