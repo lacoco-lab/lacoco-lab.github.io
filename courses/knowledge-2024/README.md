@@ -58,9 +58,9 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-11-14    | RAG II              |  Improving language models by retrieving from trillions of tokens (Retro) [Borgeaud et al.](https://arxiv.org/abs/2112.04426)       |         |        [Izacard et al.](https://arxiv.org/abs/2208.03299)              |        Zhenyu     |
 |             |                  | REPLUG: Retrieval-Augmented Black-Box Language Models [Shi et al.](https://arxiv.org/abs/2301.12652) |    |    |  Alena  |
 |  2024-11-21    |       Better Query for RAG   |   Query Rewriting for Retrieval-Augmented Large Language Models  [Ma et al.](https://arxiv.org/abs/2305.14283)   |         |             |    Entang         |
-|             |                  | Precise Zero-Shot Dense Retrieval without Relevance Labels [Gao et al.](https://arxiv.org/abs/2212.10496) |    |    |  TBD  |
-| 2024-11-28    |  Adaptive Retrieval  | Active Retrieval Augmented Generation [Jiang et al.](https://arxiv.org/abs/2305.06983)        |         |               |    TBD          |
-|               |                     | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [Asai et al.](https://arxiv.org/abs/2310.11511)      |         |                       |     TBD        |
+|             |                  | Precise Zero-Shot Dense Retrieval without Relevance Labels [Gao et al.](https://arxiv.org/abs/2212.10496) |    |    |  Prathvish  |
+| 2024-11-28    |  Adaptive Retrieval  | Active Retrieval Augmented Generation [Jiang et al.](https://arxiv.org/abs/2305.06983)        |         |               |    Wadah          |
+|               |                     | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [Asai et al.](https://arxiv.org/abs/2310.11511)      |         |                       |     Zaynab        |
 | 2024-12-05    |   Rearranged RAG pipelines                  | Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy [Shao et al.](https://arxiv.org/abs/2305.15294)     |     |   |   TBD  |
 |               |                | Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP [Khattab et al.](https://arxiv.org/abs/2212.14024)  | |  | TBD |
 | 2024-12-12 | Project Ideas | | |  | Everyone |
@@ -72,7 +72,7 @@ In each session, two students will together present two papers (in the "Readings
 |               |                     |  Augmented Large Language Models with Parametric Knowledge Guiding [Luo et al.](https://arxiv.org/abs/2305.04757)     |       |        |  TBD   |
 | 2025-01-16    | Tool-augmented LLMs I                 | Toolformer: Language Models Can Teach Themselves to Use Tools [Schick et al.](https://arxiv.org/abs/2302.04761)    |       |   [Paranjape et al.](https://arxiv.org/abs/2303.09014)    | Nicholas      | 
 |               |                     |  Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Lu et al.](https://arxiv.org/abs/2304.09842)    |      |  | TBD |
-| 2025-01-23    |   Tool-augmented LLMs II                  |  ReAct: Synergizing Reasoning and Acting in Language Models [Yao et al.](https://arxiv.org/abs/2210.03629)   |       |   [Gu et al.](https://arxiv.org/abs/2402.14672)     |   TBD   |
+| 2025-01-23    |   Tool-augmented LLMs II                  |  ReAct: Synergizing Reasoning and Acting in Language Models [Yao et al.](https://arxiv.org/abs/2210.03629)   |       |   [Gu et al.](https://arxiv.org/abs/2402.14672)     |   Paranjoy   |
 |               |                     |   ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Qin et al.](https://arxiv.org/abs/2307.16789)   |       |   [Liang et al.](https://arxiv.org/abs/2303.16434)     |  TBD   |
 | 2025-01-30    |  Tool-augmented LLMs III                   | WebGPT: Browser-assisted question-answering with human feedback [Nakano et al.](https://arxiv.org/abs/2112.09332)     |       |   StructGPT [Jiang et al.](https://arxiv.org/abs/2305.09645)     |   TBD  |
 |               |                     |  MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning  [Das et al.](https://arxiv.org/abs/2402.17231)  |       |        |  TBD   |
