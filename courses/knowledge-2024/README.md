@@ -52,12 +52,12 @@ In each session, two students will together present two papers (in the "Readings
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2024-10-17    | no class               |  |  |                |          | 
 |  2024-10-24    | no class |  |  |  |  |
-| 2024-10-31    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |              |   | 
-| 2024-11-07    | RAG I           | Dense Passage Retrieval for Open-Domain Question Answering [Karpukhin et al.](https://arxiv.org/abs/2004.04906)       |       |         |  TBD    |
-|               |                     | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks [Lewis et al.](https://arxiv.org/abs/2005.11401)    |       |     |   TBD   |
-| 2024-11-14    | RAG II              |  Improving language models by retrieving from trillions of tokens (Retro) [Borgeaud et al.](https://arxiv.org/abs/2112.04426)       |         |        [Izacard et al.](https://arxiv.org/abs/2208.03299)              |        TBD     |
-|             |                  | REPLUG: Retrieval-Augmented Black-Box Language Models [Shi et al.](https://arxiv.org/abs/2301.12652) |    |    |  TBD  |
-|  2024-11-21    |       Better Query for RAG   |   Query Rewriting for Retrieval-Augmented Large Language Models  [Ma et al.](https://arxiv.org/abs/2305.14283)   |         |             |    TBD         |
+| 2024-10-31    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |              | Xinting   | 
+| 2024-11-07    | RAG I           | Dense Passage Retrieval for Open-Domain Question Answering [Karpukhin et al.](https://arxiv.org/abs/2004.04906)       |       |         |  Viet Anh    |
+|               |                     | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks [Lewis et al.](https://arxiv.org/abs/2005.11401)    |       |     |   Muhammad Ebad Ullah   |
+| 2024-11-14    | RAG II              |  Improving language models by retrieving from trillions of tokens (Retro) [Borgeaud et al.](https://arxiv.org/abs/2112.04426)       |         |        [Izacard et al.](https://arxiv.org/abs/2208.03299)              |        Zhenyu     |
+|             |                  | REPLUG: Retrieval-Augmented Black-Box Language Models [Shi et al.](https://arxiv.org/abs/2301.12652) |    |    |  Alena  |
+|  2024-11-21    |       Better Query for RAG   |   Query Rewriting for Retrieval-Augmented Large Language Models  [Ma et al.](https://arxiv.org/abs/2305.14283)   |         |             |    Entang         |
 |             |                  | Precise Zero-Shot Dense Retrieval without Relevance Labels [Gao et al.](https://arxiv.org/abs/2212.10496) |    |    |  TBD  |
 | 2024-11-28    |  Adaptive Retrieval  | Active Retrieval Augmented Generation [Jiang et al.](https://arxiv.org/abs/2305.06983)        |         |               |    TBD          |
 |               |                     | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [Asai et al.](https://arxiv.org/abs/2310.11511)      |         |                       |     TBD        |
@@ -70,7 +70,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2025-01-02 | no class
 | 2025-01-09    |  Generate rather than Retrieve    | Generate rather than Retrieve: Large Language Models are Strong Context Generators [Yu et al.](https://arxiv.org/abs/2209.10063)      |       |        |    TBD  |
 |               |                     |  Augmented Large Language Models with Parametric Knowledge Guiding [Luo et al.](https://arxiv.org/abs/2305.04757)     |       |        |  TBD   |
-| 2025-01-16    | Tool-augmented LLMs I                 | Toolformer: Language Models Can Teach Themselves to Use Tools [Schick et al.](https://arxiv.org/abs/2302.04761)    |       |   [Paranjape et al.](https://arxiv.org/abs/2303.09014)    | TBD      | 
+| 2025-01-16    | Tool-augmented LLMs I                 | Toolformer: Language Models Can Teach Themselves to Use Tools [Schick et al.](https://arxiv.org/abs/2302.04761)    |       |   [Paranjape et al.](https://arxiv.org/abs/2303.09014)    | Nicholas      | 
 |               |                     |  Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Lu et al.](https://arxiv.org/abs/2304.09842)    |      |  | TBD |
 | 2025-01-23    |   Tool-augmented LLMs II                  |  ReAct: Synergizing Reasoning and Acting in Language Models [Yao et al.](https://arxiv.org/abs/2210.03629)   |       |   [Gu et al.](https://arxiv.org/abs/2402.14672)     |   TBD   |
 |               |                     |   ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Qin et al.](https://arxiv.org/abs/2307.16789)   |       |   [Liang et al.](https://arxiv.org/abs/2303.16434)     |  TBD   |
@@ -158,7 +158,7 @@ The report should have 8 pages of main report, plus unlimited appendix, in the N
 
 The report should be uploaded via CMS. The due date is April 10, 2025.
 
-Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the June 14 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the 2024-12-12, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the June 14 session is intended to help improve and finetune project ideas.
 
 ## Contact
 
