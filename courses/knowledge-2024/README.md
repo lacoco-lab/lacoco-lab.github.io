@@ -62,7 +62,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-11-28    |  Adaptive Retrieval  | Active Retrieval Augmented Generation [Jiang et al.](https://arxiv.org/abs/2305.06983)        |         |               |    Wadah          |
 |               |                     | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [Asai et al.](https://arxiv.org/abs/2310.11511)      |         |                       |     Zaynab        |
 | 2024-12-05    |   Rearranged RAG pipelines                  | Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy [Shao et al.](https://arxiv.org/abs/2305.15294)     |     |   |   TBD  |
-|               |                | Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP [Khattab et al.](https://arxiv.org/abs/2212.14024)  | |  | TBD |
+|               |                | Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP [Khattab et al.](https://arxiv.org/abs/2212.14024)  | |  | Muhammad Usama |
 | 2024-12-12 | Project Ideas | | |  | Everyone |
 | 2024-12-19    | RAG and CoT     | Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions [Trivedi et al.](https://arxiv.org/abs/2212.10509) | | | TBD |
 |               |                     | RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [Wang et al.](https://arxiv.org/abs/2403.05313) |   |  | TBD |
