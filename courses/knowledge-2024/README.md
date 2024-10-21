@@ -64,7 +64,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-12-05    |   Rearranged RAG pipelines                  | Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy [Shao et al.](https://arxiv.org/abs/2305.15294)     |     |   |   Anas  |
 |               |                | Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP [Khattab et al.](https://arxiv.org/abs/2212.14024)  | |  | Muhammad Usama |
 | 2024-12-12 | Project Ideas | | |  | Everyone |
-| 2024-12-19    | RAG and CoT     | Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions [Trivedi et al.](https://arxiv.org/abs/2212.10509) | | | TBD |
+| 2024-12-19    | RAG and CoT     | Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions [Trivedi et al.](https://arxiv.org/abs/2212.10509) | | | Shane |
 |               |                     | RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [Wang et al.](https://arxiv.org/abs/2403.05313) |   |  | Viet |
 | 2024-12-26 | no class
 | 2025-01-02 | no class
