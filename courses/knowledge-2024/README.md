@@ -75,7 +75,7 @@ In each session, two students will together present two papers (in the "Readings
 | 2025-01-23    |   Tool-augmented LLMs II                  |  ReAct: Synergizing Reasoning and Acting in Language Models [Yao et al.](https://arxiv.org/abs/2210.03629)   |       |   [Gu et al.](https://arxiv.org/abs/2402.14672)     |   Paranjoy   |
 |               |                     |   ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Qin et al.](https://arxiv.org/abs/2307.16789)   |       |   [Liang et al.](https://arxiv.org/abs/2303.16434)     |  TBD   |
 | 2025-01-30    |  Tool-augmented LLMs III                   | WebGPT: Browser-assisted question-answering with human feedback [Nakano et al.](https://arxiv.org/abs/2112.09332)     |       |   StructGPT [Jiang et al.](https://arxiv.org/abs/2305.09645)     |   Piyush  |
-|               |                     |  MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning  [Das et al.](https://arxiv.org/abs/2402.17231)  |       |        |  TBD   |
+|               |                     |  MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning  [Das et al.](https://arxiv.org/abs/2402.17231)  |       |        |  Raushan   |
 
 
 
