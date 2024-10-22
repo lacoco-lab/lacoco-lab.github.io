@@ -142,6 +142,7 @@ Discussion should happen not just after the presentation, but you should engage 
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
 
+Important: Simultaneously with your presentation, please upload your slides to the Presentation submission in CMS. Every presenter needs to do this individually. You will receive feedback there.
 
 ### Final Papers (for the 7CP version)
 
