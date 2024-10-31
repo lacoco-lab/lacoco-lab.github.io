@@ -30,7 +30,7 @@ Many of our readings will be quite technical. You will need a good background in
 **Time:** Thu 12:15-13:45
 
 <!-----ROOM----->
-**Room:** Building C7.2, Room 1.12
+**Room:** Gebäude A2 2 - Seminarraum 2.03 	[CHANGED DUE TO CONSTRUCTION!]
 
 
 ## Format and requirements
