@@ -147,11 +147,9 @@ Important: Simultaneously with your presentation, please upload your slides to t
 
 ### Final Papers (for the 7CP version)
 
-**Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
-
 Term papers will be about a small independent project.
 
-Details TBD
+In the project, you will implement a small system (original or replicate one paper) showcasing how knowledge or tool can help language models (can be small models like gpt2) accomplish tasks that it couldn't have done. You will also analyze and evaluate the system you've made.
 
 The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found. It's recommended to include quantitative validation of what you found, so that you show it's not an illusion.
 
