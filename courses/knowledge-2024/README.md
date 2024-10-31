@@ -159,7 +159,7 @@ The report should have 8 pages of main report, plus unlimited appendix, in the N
 
 The report should be uploaded via CMS. The due date is April 10, 2025.
 
-Everyone is expected to report on their project idea in the 2024-12-12, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the June 14 session is intended to help improve and finetune project ideas.
+Everyone is expected to report on their project idea in the 2024-12-12, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; this session is intended to help improve and finetune project ideas.
 
 ## Contact
 
