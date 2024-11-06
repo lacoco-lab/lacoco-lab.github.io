@@ -37,7 +37,10 @@ Many of our readings will be quite technical. You will need a good background in
 
 This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit. Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Wednesday noon.
+We expect all students to read the readings every week. Every student (except for the presenters) submits one question about the readings by Wednesday noon.
+Please do make sure to submit by **Wednesday noon** to give the presenters time to consider them for their presentations.
+Late questions may not receive full credit (consider that questions account for 20-40% of the grade).
+See below for requirements regarding the final paper (for the 7CP version).
 
 
 ## Syllabus
