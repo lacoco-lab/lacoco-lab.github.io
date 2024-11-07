@@ -24,7 +24,10 @@ Where: C7.4 on UdS Campus, Conference Room 1.17
 | Stabilized Proximal Point Methods for Federated Optimization | Xiaowen Jiang, Anton Rodomanov, Sebastian U. Stich | |
 | Universality of AdaGrad Stepsizes for Stochastic Optimization: Inexact Oracle, Acceleration and Variance Reduction | Anton Rodomanov, Xiaowen Jiang, Sebastian Stich | |
 | 	SoLAR: Surrogate Label Aware GNN Rewiring	Rebekka Burkholz		| Celia Rubio-Madrigal, Adarsh Jamadandi, Rebekka Burkholz | 							|																
-| Auditing Empirical Privacy Protection of Private LLM Adaptations		| Bartłomiej Marek, Vincent Hanke, Xun Wang, Michael Backes, Adam Dziedzic, Franziska Boenisch | 					|						
+| Auditing Empirical Privacy Protection of Private LLM Adaptations		| Bartłomiej Marek, Vincent Hanke, Xun Wang, Michael Backes, Adam Dziedzic, Franziska Boenisch | 					|		
+| InversionView: A General-Purpose Method for Reading Information from Neural Activations | Xinting Huang, Madhur Panwar, Navin Goyal, Michael Hahn | |
+| The Expressive Capacity of State Space Models: A Formal Language Perspective | Yash Sarrof, Yana Veitsman, Michael Hahn | |
+| Separations in the Representational Capabilities of Transformers and Recurrent Architectures | Satwik Bhattamishra, Michael Hahn, Phil Blunsom, Varun Kanade | |
 | TBD | | |
 
 ## Organizing Committee
