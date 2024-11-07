@@ -16,7 +16,7 @@ Where: C7.4 on UdS Campus, Conference Room 1.17
 | [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394) | Yash Sarrof, Yana Veitsman, Michael Hahn | 
 | [Finding NeMo: Localizing Neurons Responsible For Memorization in Diffusion Models](https://arxiv.org/abs/2406.02366)	| Dominik Hintersdorf, Lukas Struppek, Kristian Kersting, Adam Dziedzic, Franziska Boenisch | 				
 | [InversionView: A General-Purpose Method for Reading Information from Neural Activations](https://arxiv.org/abs/2405.17653) | Xinting Huang, Madhur Panwar, Navin Goyal, Michael Hahn | 
-| [Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models](https://arxiv.org/abs/2409.17836) | Hui-Po Wang, Mario Fritz | |
+| [Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models](https://arxiv.org/abs/2409.17836) | Hui-Po Wang, Mario Fritz |
 | [Learning Better Representations From Less Data For Propositional Satisfiability](https://arxiv.org/abs/2402.08365)		| Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner | 		
 | [LLM Dataset Inference: Detect Datasets, not Strings](https://arxiv.org/abs/2406.06443)		| Pratyush Maini, Hengrui Jia, Nicolas Papernot, Adam Dziedzic | 			
 | [Localizing Memorization in SSL Vision Encoders](https://arxiv.org/abs/2409.19069)		| Wenhao Wang, Adam Dziedzic, Michael Backes, Franziska Boenisch | 								
