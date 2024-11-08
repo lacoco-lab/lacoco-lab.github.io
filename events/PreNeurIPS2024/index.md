@@ -28,6 +28,7 @@ Where: C7.4 on UdS Campus, Conference Room 1.17
 | [Stabilized Proximal Point Methods for Federated Optimization](https://arxiv.org/abs/2407.07084) | Xiaowen Jiang, Anton Rodomanov, Sebastian U. Stich | 
 | 	[Training GNNs in Balance by Dynamic Rescaling](https://openreview.net/forum?id=IfZwSRpqHl&noteId=ntdwzEoHV1#)	| Nimrah Mustafa, Rebekka Burkholz | 																									
 | [Universality of AdaGrad Stepsizes for Stochastic Optimization: Inexact Oracle, Acceleration and Variance Reduction](https://arxiv.org/abs/2406.06398) | Anton Rodomanov, Xiaowen Jiang, Sebastian Stich | 
+| [Pruning neural network models for gene regulatory dynamics using data and domain knowledge](https://arxiv.org/abs/2403.04805v2) | Intekhab Hossain, Jonas Fischer, Rebekka Burkholz, John Quackenbush |
 
 ## Organizing Committee
 
