@@ -12,7 +12,8 @@ Where: C7.4 on UdS Campus, Conference Room 1.17
 | Title          | Authors               |
 | ------------- | ------------------- | 
 | Auditing Empirical Privacy Protection of Private LLM Adaptations		| Bartłomiej Marek, Vincent Hanke, Xun Wang, Michael Backes, Adam Dziedzic, Franziska Boenisch | 					
-| [B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable](https://arxiv.org/abs/2411.00715)		| Shreyash Arya, Sukrut Rao, Moritz Böhle, Bernt Schiele | 			
+| [B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable](https://arxiv.org/abs/2411.00715)		| Shreyash Arya, Sukrut Rao, Moritz Böhle, Bernt Schiele | 		
+| [How Do Training Methods Influence the Utilization of Vision Models?](https://arxiv.org/abs/2410.14470) | Paul Gavrikov, Shashank Agnihotri, Margret Keuper, Janis Keuper | 
 | [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394) | Yash Sarrof, Yana Veitsman, Michael Hahn | 
 | [Finding NeMo: Localizing Neurons Responsible For Memorization in Diffusion Models](https://arxiv.org/abs/2406.02366)	| Dominik Hintersdorf, Lukas Struppek, Kristian Kersting, Adam Dziedzic, Franziska Boenisch | 				
 | [InversionView: A General-Purpose Method for Reading Information from Neural Activations](https://arxiv.org/abs/2405.17653) | Xinting Huang, Madhur Panwar, Navin Goyal, Michael Hahn | 
