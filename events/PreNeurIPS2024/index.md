@@ -31,6 +31,7 @@ Where: C7.4 on UdS Campus, Conference Room 1.17
 | [Universality of AdaGrad Stepsizes for Stochastic Optimization: Inexact Oracle, Acceleration and Variance Reduction](https://arxiv.org/abs/2406.06398) | Anton Rodomanov, Xiaowen Jiang, Sebastian Stich | 
 | [Pruning neural network models for gene regulatory dynamics using data and domain knowledge](https://arxiv.org/abs/2403.04805v2) | Intekhab Hossain, Jonas Fischer, Rebekka Burkholz, John Quackenbush |
 | [Causal Discovery from Event Sequences by Local Cause-Effect Attribution](https://eda.rg.cispa.io/pubs/2024/cascade-cueppers,xu,musa,vreeken.pdf) | Joscha Cüppers, Sascha Xu, Ahmed Musa and Jilles Vreeken |
+| [NeuralClothSim: Neural Deformation Fields Meet the Thin Shell Theory](https://arxiv.org/abs/2308.12970v3) | Navami Kairanda, Marc Habermann, Christian Theobalt, Vladislav Golyanik |
 
 ## Organizing Committee
 
