@@ -3,15 +3,17 @@
 
 ## Information
 
-When: November 25, 2024, 14:00-17:00
+WHEN: November 25, 2024, 14:00-17:00
 
-Where: C7.4 on UdS Campus, Conference Room 1.17
+WHERE: [Building C7.4 at Saarland University Campus](https://www.uni-saarland.de/standort/saarbruecken/lageplan/gebaeude/c74.html), Conference Room 1.17 and Foyer
 
 ## Program
 
+The following posters will be presented.
+
 | Title          | Authors               |
 | ------------- | ------------------- | 
-| Auditing Empirical Privacy Protection of Private LLM Adaptations		| Bartłomiej Marek, Vincent Hanke, Xun Wang, Michael Backes, Adam Dziedzic, Franziska Boenisch | 					
+| [Auditing Empirical Privacy Protection of Private LLM Adaptations](https://openreview.net/forum?id=vFIC8Le5UH)		| Bartłomiej Marek, Vincent Hanke, Xun Wang, Michael Backes, Adam Dziedzic, Franziska Boenisch | 					
 | [B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable](https://arxiv.org/abs/2411.00715)		| Shreyash Arya, Sukrut Rao, Moritz Böhle, Bernt Schiele | 		
 | [How Do Training Methods Influence the Utilization of Vision Models?](https://arxiv.org/abs/2410.14470) | Paul Gavrikov, Shashank Agnihotri, Margret Keuper, Janis Keuper | 
 | [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394) | Yash Sarrof, Yana Veitsman, Michael Hahn | 
@@ -35,7 +37,7 @@ Where: C7.4 on UdS Campus, Conference Room 1.17
 
 ## Organizing Committee
 
-- Michael Hahn
+- [Michael Hahn](https://mhahn.info/)
 - Xinting Huang
 - Yash Sarrof
 - Yana Veitsman
