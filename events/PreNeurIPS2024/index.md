@@ -7,6 +7,8 @@ WHEN: November 25, 2024, 14:00-17:00
 
 WHERE: [Building C7.4 at Saarland University Campus](https://www.uni-saarland.de/standort/saarbruecken/lageplan/gebaeude/c74.html), Conference Room 1.17 and Foyer
 
+This event is part of [ELLIS Pre-NeurIPS Fest 2024](https://ellis.eu/news/ellis-pre-neurips-fest-2024-celebrate-connect-collaborate).
+
 ## Program
 
 The following posters will be presented.
