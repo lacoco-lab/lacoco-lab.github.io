@@ -36,6 +36,7 @@ The following posters will be presented.
 | [Pruning neural network models for gene regulatory dynamics using data and domain knowledge](https://arxiv.org/abs/2403.04805v2) | Intekhab Hossain, Jonas Fischer, Rebekka Burkholz, John Quackenbush |
 | [Causal Discovery from Event Sequences by Local Cause-Effect Attribution](https://eda.rg.cispa.io/pubs/2024/cascade-cueppers,xu,musa,vreeken.pdf) | Joscha Cüppers, Sascha Xu, Ahmed Musa and Jilles Vreeken |
 | [NeuralClothSim: Neural Deformation Fields Meet the Thin Shell Theory](https://arxiv.org/abs/2308.12970v3) | Navami Kairanda, Marc Habermann, Christian Theobalt, Vladislav Golyanik |
+| [Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://openreview.net/forum?id=59E19c6yrN) | Sahar Abdelnabi, Amr Gomaa, Sarath Sivaprasad, Lea Schönherr, Mario Fritz | 
 
 ## Organizing Committee
 
