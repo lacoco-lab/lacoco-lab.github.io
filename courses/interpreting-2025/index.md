@@ -49,7 +49,7 @@ In each session, two students will together present two papers (in the "Readings
 
 TBD
 
-You may check last year's syllabus here: https://lacoco-lab.github.io/courses/probing-2025/
+You may check last year's syllabus here: https://lacoco-lab.github.io/courses/probing-2024/
 
 
 -->
