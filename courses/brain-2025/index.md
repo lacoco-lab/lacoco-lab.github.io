@@ -112,8 +112,6 @@ The course roughly has three parts: we will look into
 
 ## Evaluation
 
-IMPORTANT: Check which of these two version(s) your study program allows you to take.
-
 For students taking the seminar for 4 credits:
 
     Presentation: 60%
@@ -126,6 +124,8 @@ For students taking the seminar for 7 credits:
     Final paper: 50%
 
 Additionally, up to 10% bonus credits can be provided on the basis of engagement in in-class discussion.
+
+Note: Study programs may differ in which version(s) of a seminar course you can take. If in doubt, check with your study program coordinator.
 
 ### Questions
 
