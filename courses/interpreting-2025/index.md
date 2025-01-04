@@ -50,7 +50,7 @@ This year's syllabus will be similar, but updated based on recent developments i
 
 ## Evaluation
 
-IMPORTANT: Please ensure that  your study program allows you to take the version(s) you want to take.
+IMPORTANT: Study programs may differ in which version(s) of a seminar course you can take. If in doubt, check with your study program coordinator.
 
 For students taking the seminar for 4 credits:
 
