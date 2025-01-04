@@ -27,10 +27,10 @@ Many of our readings will be quite technical. You will need a good background in
 **Instructors:** [Xinting Huang](https://lacoco-lab.github.io/home/authors/xhuang/)
 
 <!-----TIME----->
-**Time:** TBD
+**Time:** Mo, 14:15-15:45
 
 <!-----ROOM----->
-**Room:** TD
+**Room:** Room 1.12
 
 
 ## Format and requirements
@@ -42,20 +42,15 @@ We expect all students to read the readings every week. Every student submits on
 
 ## Syllabus
 
-
-Note: The syllabus is still subject to change.
-
-In each session, two students will together present two papers (in the "Readings" column) on a common topic. In some sessions there is only one paper, because they reqire more time and effort to understand or they should be presented in greater detail. In this case, two students will coordinate together and present it. **The optional material is for the Topic, rather than being specific to a particular paper**.
-
 TBD
 
 You may check last year's syllabus here: https://lacoco-lab.github.io/courses/probing-2024/
+This year's syllabus will be similar, but updated based on recent developments in the field.
 
-
--->
 
 ## Evaluation
 
+IMPORTANT: Please ensure that  your study program allows you to take the version(s) you want to take.
 
 For students taking the seminar for 4 credits:
 
