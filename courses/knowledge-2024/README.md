@@ -73,9 +73,10 @@ In each session, two students will together present two papers (in the "Readings
 | 2024-12-26 | no class
 | 2025-01-02 | no class
 | 2025-01-09    |  Generate rather than Retrieve    | Generate rather than Retrieve: Large Language Models are Strong Context Generators [Yu et al.](https://arxiv.org/abs/2209.10063)      |       |        |    Jonte  |
-|               |                     |  <del>Augmented Large Language Models with Parametric Knowledge Guiding</del> [Luo et al.](https://arxiv.org/abs/2305.04757) (cancelled, new date: TBD)     |       |        |  <del>Amena</del>   |
+|               |                     |  <del>Augmented Large Language Models with Parametric Knowledge Guiding</del> [Luo et al.](https://arxiv.org/abs/2305.04757) (move to next week)     |       |        |  <del>Amena</del>   |
 | 2025-01-16    | Tool-augmented LLMs I                 | Toolformer: Language Models Can Teach Themselves to Use Tools [Schick et al.](https://arxiv.org/abs/2302.04761)    |       |   [Paranjape et al.](https://arxiv.org/abs/2303.09014)    | Nicholas      | 
 |               |                     |  <del>Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models</del> [Lu et al.](https://arxiv.org/abs/2304.09842)    |      |  | <del>Youssef</del> |
+|               |                     |  Augmented Large Language Models with Parametric Knowledge Guiding [Luo et al.](https://arxiv.org/abs/2305.04757)    |       |        |  Amena   |
 | 2025-01-23    |   Tool-augmented LLMs II                  |  ReAct: Synergizing Reasoning and Acting in Language Models [Yao et al.](https://arxiv.org/abs/2210.03629)   |       |   [Gu et al.](https://arxiv.org/abs/2402.14672)     |   Paranjoy   |
 |               |                     |   ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Qin et al.](https://arxiv.org/abs/2307.16789)   |       |   [Liang et al.](https://arxiv.org/abs/2303.16434)     |  Monseej   |
 | 2025-01-30    |  Tool-augmented LLMs III                   | WebGPT: Browser-assisted question-answering with human feedback [Nakano et al.](https://arxiv.org/abs/2112.09332)     |       |   StructGPT [Jiang et al.](https://arxiv.org/abs/2305.09645)     |   Piyush  |
