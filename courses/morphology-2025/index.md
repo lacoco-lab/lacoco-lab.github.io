@@ -13,13 +13,13 @@ Key themes:
 
 <!--If you want to take this class, please register in [CMS](https://cms.sic.saarland/composition_24/).-->
 
-**Course Management System:** TBD --- will be finalized before introduction session <!--[CMS](https://cms.sic.saarland/composition_24/) -->
+**Course Management System:**[CMS](https://cms.sic.saarland/morph_2425/)
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
 **Time (block seminar):** 1-4 pm on Weds Feb 12, Monday Feb 17, Weds Feb 19, and Friday Feb 21.
 
-In addition, there will be an online introductory lecture + coordination session during Winter Semester. Preliminary date, possibly subject to change: **January 13, 2025**.
+In addition, there will be an online introductory lecture + coordination session during Winter Semester. ~~Preliminary date, possibly subject to change: **January 13, 2025**.~~ **Finalized date: 3-5 pm, January 20, 2025.** Teams link to be sent out by email.
 
 **Registration deadline**: January 31
 
