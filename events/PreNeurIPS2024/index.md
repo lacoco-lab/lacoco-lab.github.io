@@ -28,7 +28,7 @@ The following posters will be presented.
 | 	[Open LLMs are Necessary for Private Adaptations and Outperform their Closed Alternatives](https://openreview.net/pdf?id=pLpb6hGOif#:~:text=In%20summary%2C%20our%20results%20highlight,%2C%20and%20more%20cost%2Deffective.)	| Vincent Hanke, Tom Blanchard, Franziska Boenisch, Iyiola Emmanuel Olatunji, Michael Backes, Adam Dziedzic |			
 | [Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets](https://arxiv.org/abs/2408.12489) | Wolfgang Boettcher, Lukas Hoyer, Ozan Unal, Jan Eric Lenssen, Bernt Schiele  |
 | [Separations in the Representational Capabilities of Transformers and Recurrent Architectures](https://arxiv.org/abs/2406.09347) | Satwik Bhattamishra, Michael Hahn, Phil Blunsom, Varun Kanade | 
-| 	[SoLAR: Surrogate Label Aware GNN Rewiring](https://adarshmj.github.io/assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf)		| Celia Rubio-Madrigal, Adarsh Jamadandi, Rebekka Burkholz | 					
+| 	[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring](https://openreview.net/forum?id=g6v09VxgFw)		| Celia Rubio-Madrigal, Adarsh Jamadandi, Rebekka Burkholz | 					
 | [Spectral Graph Pruning Against Over-Squashing and Over-Smoothing](https://arxiv.org/abs/2404.04612)	| Adarsh Jamadandi, Celia Rubio-Madrigal and Rebekka Burkholz | 														
 | [Stabilized Proximal Point Methods for Federated Optimization](https://arxiv.org/abs/2407.07084) | Xiaowen Jiang, Anton Rodomanov, Sebastian U. Stich | 
 | 	[Training GNNs in Balance by Dynamic Rescaling](https://openreview.net/forum?id=IfZwSRpqHl&noteId=ntdwzEoHV1#)	| Nimrah Mustafa, Rebekka Burkholz | 																									
