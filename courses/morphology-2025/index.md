@@ -4,7 +4,7 @@ Morphology concerns linguistic structure within words; for example, "Handschuhe"
 
 Key themes:
 
-- Introduction to Morphological Processing: Morphology poses related but distinct research questions for linguists, psycholinguists, and computational modelers.
+- Introduction to Morphological Processing: Morphology poses related but distinct research questions for linguists, psycholinguists, and computational modelers. We will consider some illustrative examples.
 - Regularity and Generalization: Can we model morphological regularity and predict how speakers generalize?
 - Complexity and Learning: How should we measure complexity in morphology? Do speakers and models learn more efficiently when morphology is less complex?
 - Morphemes and Subword Tokens: How does morphology relate to common subword tokenization appraoches like BPE? Does subword tokenization make language model behavior less cognitively plausible?
