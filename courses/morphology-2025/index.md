@@ -13,11 +13,11 @@ Key themes:
 
 <!--If you want to take this class, please register in [CMS](https://cms.sic.saarland/composition_24/).-->
 
-**Course Management System:**[CMS](https://cms.sic.saarland/morph_2425/)
+**Course Management System:** [CMS](https://cms.sic.saarland/morph_2425/)
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
-**Time (block seminar):** 1-4 pm on Weds Feb 12, Monday Feb 17, Weds Feb 19, and Friday Feb 21.
+**Time (block seminar):** 1-4 pm on Weds Feb 12, Monday Feb 17, Weds Feb 19, and Friday Feb 21. UPDATE: this may need to change
 
 In addition, there will be an online introductory lecture + coordination session during Winter Semester. ~~Preliminary date, possibly subject to change: **January 13, 2025**.~~ **Finalized date: 3-5 pm, January 20, 2025.** Teams link to be sent out by email.
 
@@ -41,7 +41,7 @@ Students that do not present on a given day are expected to prepare a one- to tw
 
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-|  2025-01-13    | Introduction to Morphological Processing               |  | TBD |      [Aronoff and Sims (2023)](https://www.researchgate.net/publication/367297686_The_relational_nature_of_morphology); [Sims et al. (2022)](https://www.researchgate.net/publication/353435629_At_the_Intersection_of_Cognitive_Processes_and_Linguistic_Diversity)          |     Kate     | 
+|  2025-01-13    | Introduction to Morphological Processing               |  | [Slides](https://docs.google.com/presentation/d/1XgrUpUMe2AMH3_Y4nfBrz3Odh_SvVhOdzXefi68bm18/edit?usp=sharing) |      [Aronoff and Sims (2023)](https://www.researchgate.net/publication/367297686_The_relational_nature_of_morphology); [Sims et al. (2022)](https://www.researchgate.net/publication/353435629_At_the_Intersection_of_Cognitive_Processes_and_Linguistic_Diversity)          |     Kate     | 
 | 2025-02-12    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/), [Breiss and Jo (2023)](https://aclanthology.org/2023.sigmorphon-1.14/), [Jeong et al. (2023)](https://aclanthology.org/2023.sigmorphon-1.16/)  |  |     |   | 
 | 2025-02-17    | Complexity and Learning | [Cotterell et al. (2018)](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00271), [Johnson et al. (2021)](https://jlm.ipipan.waw.pl/index.php/JLM/article/view/259)  |  | [Ackerman and Malouf (2013)](https://muse.jhu.edu/article/521667), [Seyfarth et al. (2014)](https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/view/3154)  |   | 
 | 2025-02-19    |  Morphemes and Subword Tokens | [Gutierrez-Vasques et al. (2023)](https://doi.org/10.1162/coli_a_00489), [Nair and Resnick (2023)](https://aclanthology.org/2023.findings-emnlp.752)  |  |     |   | 
@@ -64,6 +64,9 @@ For students taking the seminar for 7 credits:
     Reading summaries: 25%
     Final report: 50%
 
+### Reading Summaries
+
+You are expected to upload a short reading summary to the CMS on days that you do not present. Please see the introduction session slides for more details on the format.
 
 ### Presentations
 
@@ -72,7 +75,7 @@ Given time limitations, presentations will be strictly kept to 30 minutes each, 
 
 ### Term Papers
 
-You will write a 6 page report (ACL format). Details TBD --- will be finalized before introduction session.
+You will write a 6 page report (ACL format). See introduction session slides for more details.
 
 The report should be uploaded via CMS. The due date will be one month following our final in-person session.
 
