@@ -42,7 +42,7 @@ Students that do not present on a given day are expected to prepare a one- to tw
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2025-01-13    | Introduction to Morphological Processing               |  | [Slides](https://docs.google.com/presentation/d/1XgrUpUMe2AMH3_Y4nfBrz3Odh_SvVhOdzXefi68bm18/edit?usp=sharing) |      [Aronoff and Sims (2023)](https://www.researchgate.net/publication/367297686_The_relational_nature_of_morphology); [Sims et al. (2022)](https://www.researchgate.net/publication/353435629_At_the_Intersection_of_Cognitive_Processes_and_Linguistic_Diversity)          |     Kate     | 
-| ~2025-02-12~ 2025-02-**17**    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/) |  |     |  Radovan | 
+| ~2025-02-12~ 2025-02-**17**    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/) |  |     |  Meera | 
 |     |    | [Breiss and Jo (2023)](https://aclanthology.org/2023.sigmorphon-1.14/) |  |     | Kamna  | 
 |   |    |  [Jeong et al. (2023)](https://aclanthology.org/2023.sigmorphon-1.16/)  |  |     |  Khalil | 
 | 2025-02-19  |  Morphemes and Subword Tokens | [Gutierrez-Vasques et al. (2023)](https://doi.org/10.1162/coli_a_00489)  |  |     | Yash, Brisca  | 
