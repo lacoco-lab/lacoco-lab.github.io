@@ -45,7 +45,7 @@ Students that do not present on a given day are expected to prepare a one- to tw
 | ~2025-02-12~ 2025-02-**17**    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/) |  |     |  Radovan | 
 |     |    | [Breiss and Jo (2023)](https://aclanthology.org/2023.sigmorphon-1.14/) |  |     | Kamna  | 
 |   |    |  [Jeong et al. (2023)](https://aclanthology.org/2023.sigmorphon-1.16/)  |  |     |  Khalil | 
-| ~2025-02-19~  2025-02-**19**  |  Morphemes and Subword Tokens | [Gutierrez-Vasques et al. (2023)](https://doi.org/10.1162/coli_a_00489)  |  |     | Yash, Brisca  | 
+| 2025-02-19  |  Morphemes and Subword Tokens | [Gutierrez-Vasques et al. (2023)](https://doi.org/10.1162/coli_a_00489)  |  |     | Yash, Brisca  | 
 |   |   |  [Nair and Resnick (2023)](https://aclanthology.org/2023.findings-emnlp.752)  |  |     |  Mihan | 
 | ~2025-02-21~   2025-02-**20**  |  Modeling Morphological Fusion | [Elsner et al. (2020)](https://aclanthology.org/2020.scil-1.4) |  |     | Lea  | 
 |   |   |  [Socolof et al. (2022)](https://aclanthology.org/2022.coling-1.5) |  |     | Saugata  | 
