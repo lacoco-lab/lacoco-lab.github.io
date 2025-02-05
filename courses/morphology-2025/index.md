@@ -17,7 +17,7 @@ Key themes:
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
-**Time (block seminar):** 1-4 pm on ~Wednesday Feb. 12~ Monday Feb 17, Weds Feb 19, **Thurs Feb 20**, and Friday Feb 21. N.B. these are the finalized dates!
+**Time (block seminar):** 1-4 pm on ~~Wednesday Feb. 12~~ Monday Feb 17, Weds Feb 19, **Thurs Feb 20**, and Friday Feb 21. N.B. these are the finalized dates!
 
 In addition, there will be an online introductory lecture + coordination session during Winter Semester. ~~Preliminary date, possibly subject to change: **January 13, 2025**.~~ **Finalized date: 3-5 pm, January 20, 2025.** Teams link to be sent out by email.
 
@@ -42,15 +42,15 @@ Students that do not present on a given day are expected to prepare a one- to tw
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2025-01-13    | Introduction to Morphological Processing               |  | [Slides](https://docs.google.com/presentation/d/1XgrUpUMe2AMH3_Y4nfBrz3Odh_SvVhOdzXefi68bm18/edit?usp=sharing) |      [Aronoff and Sims (2023)](https://www.researchgate.net/publication/367297686_The_relational_nature_of_morphology); [Sims et al. (2022)](https://www.researchgate.net/publication/353435629_At_the_Intersection_of_Cognitive_Processes_and_Linguistic_Diversity)          |     Kate     | 
-| ~2025-02-12~ 2025-02-**17**    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/) |  |     |  Meera | 
+| ~~2025-02-12~~ 2025-02-**17**    |  Regularity and Generalization  | [Wu et al. (2019)](https://aclanthology.org/P19-1505/) |  |     |  Meera | 
 |     |    | [Breiss and Jo (2023)](https://aclanthology.org/2023.sigmorphon-1.14/) |  |     | Kamna  | 
 |   |    |  [Jeong et al. (2023)](https://aclanthology.org/2023.sigmorphon-1.16/)  |  |     |  Khalil | 
 | 2025-02-19  |  Morphemes and Subword Tokens | [Gutierrez-Vasques et al. (2023)](https://doi.org/10.1162/coli_a_00489)  |  |     | Yash, Brisca  | 
 |   |   |  [Nair and Resnick (2023)](https://aclanthology.org/2023.findings-emnlp.752)  |  |     |  Mihan | 
-| ~2025-02-21~   2025-02-**20**  |  Modeling Morphological Fusion | [Elsner et al. (2020)](https://aclanthology.org/2020.scil-1.4) |  |     | Lea  | 
+| ~~2025-02-21~~   2025-02-**20**  |  Modeling Morphological Fusion | [Elsner et al. (2020)](https://aclanthology.org/2020.scil-1.4) |  |     | Lea  | 
 |   |   |  [Socolof et al. (2022)](https://aclanthology.org/2022.coling-1.5) |  |     | Saugata  | 
 |   |   |  [Rathi et al. (2022)](https://escholarship.org/uc/item/0v03z6xb) |  |     |  Fanyi | 
-| ~2025-02-17~ 2025-02-**21**    | Complexity and Learning | [Cotterell et al. (2018)](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00271)  |  |  |  Kashish | 
+| ~~2025-02-17~~ 2025-02-**21**    | Complexity and Learning | [Cotterell et al. (2018)](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00271)  |  |  |  Kashish | 
 |     |  | [Johnson et al. (2021)](https://jlm.ipipan.waw.pl/index.php/JLM/article/view/259)  |  | [Ackerman and Malouf (2013)](https://muse.jhu.edu/article/521667), [Seyfarth et al. (2014)](https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/view/3154)   |  Kaamya, Divya | 
 
 
