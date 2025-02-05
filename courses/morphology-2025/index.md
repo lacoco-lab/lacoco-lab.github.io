@@ -17,7 +17,7 @@ Key themes:
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
-**Time (block seminar):** 1-4 pm on Monday Feb 17, Tues Feb 18, Weds Feb 19, and Friday Feb 21. UPDATE: this may need to change
+**Time (block seminar):** 1-4 pm on ~Wednesday Feb. 12~ Monday Feb 17, Weds Feb 19, **Thurs Feb 20**, and Friday Feb 21. N.B. these are the finalized dates!
 
 In addition, there will be an online introductory lecture + coordination session during Winter Semester. ~~Preliminary date, possibly subject to change: **January 13, 2025**.~~ **Finalized date: 3-5 pm, January 20, 2025.** Teams link to be sent out by email.
 
