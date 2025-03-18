@@ -5,7 +5,7 @@ Software Project
 <!-----DESCRIPTION----->
 **Course Description:**
 
-For this course, you will work with one or two other students to propose and implement a software project focused on linguistic interpretibilty for neural-network-based models of language. 
+For this course, you will work with one or two other students to propose and implement a software project focused on linguistic interpretibilty for neural-network-based models of language. This course runs in the summer semester, i.e. April-July 2025.
 
 You will select an interpretibility **method** and use it to analyze how one or more neural models represent and/or process formal linguistic **categories** (cf. examples below). You can use a pre-trained model, trained on language modeling or some other objective, or for more complicated methods / tasks you have the option of training your own smaller model. The model can be trained on any natural language. Many of the technical aspects are flexible and open to discussion, e.g. at the project proposal phase. The key requirement is that your final project will analyze linguistically relevant categories, and how they are realized in a given neural network model.
 
@@ -22,7 +22,7 @@ You should be comfortable working with neural networks and various machine learn
 <!-----REGISTRATION----->
 
 **Registration:**
- If you want to take part, please send an email to kmccurdy ( at sign ) lst.uni-saaland.de, deadline April 7, 2024. In your email, please:
+ If you want to take part, please send an email to kmccurdy ( at sign ) lst.uni-saaland.de, deadline April 7. In your email, please:
 
   - Give your name, semester, study program
   - Tell me why you want to take part in this course
