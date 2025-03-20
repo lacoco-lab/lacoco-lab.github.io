@@ -59,6 +59,7 @@ Note that some methods can be used on large language models, while others are mo
 - Probing
 - Logit Lens
 - Sparse Autoencoders
+- Activation Patching
 - ??? (Kate TODO: go back through methods)
 
 ### Example categories
