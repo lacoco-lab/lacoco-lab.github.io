@@ -1,5 +1,7 @@
 # Proseminar: Large Language Models
 
+
+
 ## Data
 
 Lecture: Prof. Dr. Michael Hahn
@@ -15,6 +17,8 @@ We will use this for announcements and other communication.
 
 
 ## Syllabus
+
+!! UNDER CONSTRUCTION !!!
 
 Topics
 
