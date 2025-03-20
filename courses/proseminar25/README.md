@@ -4,7 +4,7 @@
 
 ## Data
 
-Lecture: Prof. Dr. Michael Hahn
+This proseminar is organized by: Prof. Dr. Michael Hahn
 
 When and where: Do 12:15–13:45, Raum -1.05
 
