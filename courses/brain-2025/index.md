@@ -81,32 +81,32 @@ The course roughly has three parts: we will look into
 
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
-| TBD    | no class            |   |   |            | TBD |
-| TBD    | Basics of Neuroscience       |     |   |  [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)      | TBD |
-| TBD    | no class               |  |  |                | TBD |
-| TBD    | no class   |    |   |                 | TBD |
+| April 8, 2025    | no class            |   |   |            | TBD |
+| April 15, 2025    | Basics of Neuroscience       |     |   |  [Gershman, Bio Cyb 2024](https://link.springer.com/article/10.1007/s00422-024-00983-2)      | TBD |
+| April 22, 2025    | no class               |  |  |                | TBD |
+| April 29, 2025    | no class   |    |   |                 | TBD |
 |               |  | **Part 1: Computer Vision and the Visual Cortex** | |
-| TBD    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  |   |                | TBD |
-| TBD | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) |   |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD |
-| TBD    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    |   |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD |
-| TBD | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  |   |                 | TBD |
-| TBD    | (Holiday)       |  |   | | TBD |
-| TBD    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) |   |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD |
-| TBD | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  |   |                 | TBD |
-| TBD    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | TBD |
-| TBD |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | TBD |
+| May 6, 2025    | Simple and Complex cells ([1981 Nobel Prize](https://www.nobelprize.org/prizes/medicine/1981/summary/))       | Various online material on Hubel&Wiesel's findings. [Wikipedia: simple cell](https://en.wikipedia.org/wiki/Simple_cell), [Wikipedia: complex cell](https://en.wikipedia.org/wiki/Complex_cell)  |   |                | TBD |
+| | | ConvNets: [LeCun et al, 1989](https://ieeexplore.ieee.org/abstract/document/6795724) |   |    Neurocognitron:   [Fukushima, Biol Cyb 1980](https://link.springer.com/article/10.1007/BF00344251)           | TBD |
+| May 13, 2025    | Grid Cells               | [Wikipedia](https://en.wikipedia.org/wiki/Grid_cell), [Moser et al](https://www.annualreviews.org/doi/10.1146/annurev.neuro.31.061307.090723)    |   |   [Stensola et al](https://www.nature.com/articles/nature11649)              | TBD |
+| | | Emergence in artifical NNs [Cueva and Wei, ICLR 2018](https://arxiv.org/pdf/1803.07770.pdf)  |   |                 | TBD |
+| May 20, 2025    |  Visual Cortex       | [Wikipedia: Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex) |   |   [Lindsay, J Cog Neur 2021](https://direct.mit.edu/jocn/article/33/10/2017/97402/Convolutional-Neural-Networks-as-a-Model-of-the)               | TBD |
+| | | [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118)  |   |                 | TBD |
+| May 27, 2025    | Aligning Vision Models and Brains      | Multimodal encoding [Tang et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html) |   |                 | TBD |
+|  | |  ReAlnet [Lu et al, arXiV 2024](https://arxiv.org/pdf/2401.17231.pdf) |   |             | TBD |
 |               |  | **Part 2: Language Models and the Language Network** | |
-| TBD    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | TBD |
-| TBD | Project Ideas       |  |   | | TBD |
-| TBD   | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | TBD |
-| TBD | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | TBD |
-| TBD    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | TBD |
-| TBD |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD |
+| June 3, 2025    | Aligning Language Models and Brains I           | [Schrimpf et al, PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105646118)  |   |               [Goldstein et al, Nat Neuro 2022](https://www.nature.com/articles/s41593-022-01026-4), [Lopopolo et al 2024](https://doi.org/10.1162/nol_e_00131)   | TBD |
+| June 10, 2025 | Project Ideas       |  |   | | TBD |
+| June 17, 2025   | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | TBD |
+| | | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | TBD |
+| June 24, 2025 | TODO extra session -- need another topic |
+| July 1, 2025    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | TBD |
+|   |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD |
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
-| TBD    | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | TBD |
-| TBD | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD |
-| TBD    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  |   |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD |
-| TBD |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | TBD |
+| July 8, 2025     | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | TBD |
+|  |  | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD |
+|  July 15, 2025    | Inverse Reinforcement Learning        | [Ng and Russel, ICML 2000](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf)  |   |    [Arora et al, AI 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000515)             | TBD |
+| | |  Animal behavior [Ashwood et al, NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html) |   |                 | TBD |
 
 
 
