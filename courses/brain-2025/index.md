@@ -101,7 +101,7 @@ The course roughly has three parts: we will look into
 | | | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | TBD |
 | June 24, 2025 | TODO extra session -- need another topic |
 | July 1, 2025    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | TBD |
-|   |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD |
+| |  |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD |
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
 | July 8, 2025     | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | TBD |
 |  |  | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD |
