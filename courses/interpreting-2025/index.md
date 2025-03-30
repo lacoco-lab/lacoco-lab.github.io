@@ -27,7 +27,7 @@ Many of our readings will be quite technical. You will need a good background in
 **Instructors:** [Xinting Huang](https://lacoco-lab.github.io/home/authors/xhuang/)
 
 <!-----TIME----->
-**Time:** Mo, 14:15-15:45
+**Time:** Monday, 14:15-15:45
 
 <!-----ROOM----->
 **Room:** Room 1.12
