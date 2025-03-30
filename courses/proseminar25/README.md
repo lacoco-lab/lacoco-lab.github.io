@@ -1,4 +1,4 @@
-# Proseminar: Large Language Models
+# Proseminar (Introductory Seminar): Large Language Models
 
 
 
@@ -15,6 +15,13 @@ Specifically, the January 25 version: https://web.stanford.edu/~jurafsky/slp3/ed
 Please register in Course Maganement System (CMS): https://cms.sic.saarland/prposeminar_llms_25/
 We will use this for announcements and other communication.
 
+The course is aimed primarily at students of B.Sc. Computerlinguistik in the third semester.
+
+The number of participants is limited to 20. Please note that registration in CMS does not guarantee that you will be admitted. Admission will be finalized in the first week of the semester.
+
+Every participant is expected to attend all sessions. Please let Michael know if you cannot attend some session. Attendance is important because in-class discussion is a substantive component of this proseminar.
+
+The couse is worth 5CP. Every participant gives a presentation and submits a term paper.
 
 ## Syllabus
 
@@ -43,7 +50,7 @@ Topics
 | Date      | Topic               | Reading | Who |
 |-----------|--------------------|-----|-----|
 | APRIL 10  | first session                   |   |   |
-| APRIL 17  | ??                   |   |   |
+| APRIL 17  |                    |   |   |
 | APRIL 24  |                    |   |   |
 | MAY 01    | holiday, no class  |   |   |
 | MAY 08    |                    |   |   |
