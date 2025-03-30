@@ -36,16 +36,74 @@ Many of our readings will be quite technical. You will need a good background in
 ## Format and requirements
 
 This is a seminar course.
-Starting from the fourth week, one or two students will present in each unit. Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Thursday noon.
+Starting from the fourth week, two students will present in each unit. Every student will present exactly once.
+We expect all students to read the readings every week. Every student submits one question about the readings by Sunday noon.
 
 
 ## Syllabus
 
-TBD
+Some optional material is for the Topic, rather than being specific to the paper in the same row.
+ 
+| Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
+| ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
+|  2025-04-21    | no class               |  |  |                |          | 
+| 2025-04-28    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified code for GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      |   | 
+|  2025-05-05    | no class |
+| 2025-05-12    | Understanding Transformers        |   [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html) Required Sec: see below    |       |        |      |
+|  |         |   [RASP](https://arxiv.org/abs/2106.06981) Section 1, 2, 3 |       |        |      |
+| 2025-05-19    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |     |
+|               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |    |
+| 2025-06-02    |   Projecting to vocabulary space                 | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)  + breifly mention [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |    [Future Lens](https://arxiv.org/abs/2311.04897) [Backward Lens](https://arxiv.org/abs/2402.12865) |     |
+|               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |    [MLP are key-value memories](https://arxiv.org/abs/2012.14913)    |     |
+|  2025-06-09 |  Activation Patching, Path Patching  | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html) Sec. 1, 2, 3 + [ROME](https://arxiv.org/abs/2202.05262) Sec. 1, 2    |       | [Optimal ablation](https://neurips.cc/virtual/2024/poster/93600)  [DAS](https://arxiv.org/abs/2303.02536)      |       |        |      |
+|               |                         | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)      [ACDC](https://arxiv.org/abs/2304.14997)           |              |                      |             |
+|  2025-06-16  | SAEs     | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Required Sec: see below | | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) Concurrent or earlier works [link](https://arxiv.org/abs/2309.08600)  [link](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) |  |
+|               |          |  [Transcoders](https://arxiv.org/pdf/2406.11944) | | [SAE on randomly initialized models](https://arxiv.org/abs/2501.17727) | |
+| 2025-06-23 | Project Ideas | | |  | Everyone |
+|   2025-06-30  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |    |
+|               |                     |   [AtP*](https://arxiv.org/abs/2403.00745)   |       |   [Diffmask](https://arxiv.org/abs/2004.14992)   [EAP](https://arxiv.org/abs/2310.10348)     |     |
+|     2025-07-07          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | |
+|                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | | |
+| 2025-07-14 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| |
+|            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | | |
+| 2025-07-21 | Case study II | [About Fine-tuning](https://arxiv.org/abs/2402.14811) | | | |
+|           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | |
+| 2025-07-28 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | |
+|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | |
 
-You may check last year's syllabus here: https://lacoco-lab.github.io/courses/probing-2024/
-This year's syllabus will be similar, but updated based on recent developments in the field.
+As some papers are very long and require more time to understand and present, I specify some required sections to reduce the workload (Only these are required to be read/presented, but feel free to also read/present other parts).
+
+Sections required to read:
+* *A Mathematical Framework for Transformer Circuits*
+    - Transformer Overview
+    - Zero-Layer Transformers
+    - One-Layer Attention-Only Transformers: Interpretation as Skip-Trigrams (Only one subsection)
+    - Two-Layer Attention-Only Transformers: Analyzing a Two-Layer Model; Induction Heads (Two subsections)
+    - (Other parts can be briefly covered as needed)
+
+* *Thinking like Transformers* (RASP)
+    - Section 1, 2, 3. 
+    (Please focus on understanding RASP programs, topics regarding expressivity are optional. To have a clearer connection to real transformers, can you construct specific vectors for query, key, value, and other activations that execute specific operations?)
+
+* *Causal Abstractions of Neural Networks*
+    - Section 1, 2, 3
+
+* *Locating and Editing Factual Associations in GPT*
+    - Section 1, 2
+
+* *Towards Monosemanticity: Decomposing Language Models With Dictionary Learning*
+    - Problem Setup
+    - Detailed Investigations of Individual Features
+    (In other words, sections before and excluding Global Analysis)
+
+
+There are some other works that do not fit in any topics above, they might be interesting to you but you're not required to read:
+- [Intrinsic dimension](https://arxiv.org/pdf/2405.15471)
+- [Patchscopes](https://arxiv.org/abs/2401.06102)  
+- [toy model CoT](https://arxiv.org/abs/2406.02128)
+- [Attribute Lens](https://arxiv.org/abs/2308.09124)
+- [A good survey](https://arxiv.org/abs/2405.00208)
+
 
 
 ## Evaluation
@@ -67,7 +125,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the fourth week, every student submits one question about the readings by Thursday noon.
+Starting from the fourth week, every student submits one question about the readings by Sunday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（So you can also ask some basic questions that you want clarification)
 
 ### Presentations
