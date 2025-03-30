@@ -98,6 +98,7 @@ Sections required to read:
 
 
 There are some other works that do not fit in any topics above, they might be interesting to you but you're not required to read:
+- [Parameter Decomposition](https://arxiv.org/abs/2501.14926)
 - [Intrinsic dimension](https://arxiv.org/pdf/2405.15471)
 - [Patchscopes](https://arxiv.org/abs/2401.06102)  
 - [toy model CoT](https://arxiv.org/abs/2406.02128)
