@@ -37,7 +37,7 @@ Many of our readings will be quite technical. You will need a good background in
 
 This is a seminar course.
 Starting from the fourth week, two students will present in each unit. Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Sunday noon.
+We expect all students to read the readings every week. Every student submits one question about the readings by Friday noon.
 
 
 ## Syllabus
@@ -126,7 +126,7 @@ For students taking the seminar for 7 credits:
 
 Please register on the forum on CMS.
 
-Starting from the fourth week, every student submits one question about the readings by Sunday noon.
+Starting from the fourth week, every student submits one question about the readings by Friday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（So you can also ask some basic questions that you want clarification)
 
 ### Presentations
