@@ -66,7 +66,7 @@ Some optional material is for the Topic, rather than being specific to the paper
 |                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | | |
 | 2025-06-30 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| |
 |            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | | |
-| 2025-07-7 | Case study II | [About Fine-tuning](https://arxiv.org/abs/2402.14811) | | | |
+| 2025-07-07 | Case study II | [About Fine-tuning](https://arxiv.org/abs/2402.14811) | | | |
 |           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | |
 | 2025-07-14 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | |
 |          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | |
