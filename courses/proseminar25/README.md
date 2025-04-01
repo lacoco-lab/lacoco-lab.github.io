@@ -65,3 +65,4 @@ Topics
 | JULY 10   |                    |   |   |
 | JULY 17   |                    |   |   |
 
+Note: Michael not on campus on July 10.
