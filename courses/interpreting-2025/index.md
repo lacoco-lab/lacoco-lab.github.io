@@ -55,21 +55,20 @@ Some optional material is for the Topic, rather than being specific to the paper
 |               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |    |
 | 2025-05-19   |   Projecting to vocabulary space                 | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)  + breifly mention [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |    [Future Lens](https://arxiv.org/abs/2311.04897) [Backward Lens](https://arxiv.org/abs/2402.12865) |     |
 |               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |    [MLP are key-value memories](https://arxiv.org/abs/2012.14913)    |     |
-|  2025-06-02 |  Activation Patching, Path Patching  | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html) Sec. 1, 2, 3 + [ROME](https://arxiv.org/abs/2202.05262) Sec. 1, 2    |       | [Optimal ablation](https://neurips.cc/virtual/2024/poster/93600)  [DAS](https://arxiv.org/abs/2303.02536)      |       |        |      |
+|  2025-05-26 |  Activation Patching, Path Patching  | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html) Sec. 1, 2, 3 + [ROME](https://arxiv.org/abs/2202.05262) Sec. 1, 2    |       | [Optimal ablation](https://neurips.cc/virtual/2024/poster/93600)  [DAS](https://arxiv.org/abs/2303.02536)      |       |        |      |
 |               |                         | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)      [ACDC](https://arxiv.org/abs/2304.14997)           |              |                      |             |
-| 2025-06-09 | no class | | | | |
-|  2025-06-16  |  Monosementicity    | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Required Sec: see below | | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) Concurrent or earlier works [link](https://arxiv.org/abs/2309.08600)  [link](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) |  |
+|  2025-06-02  |  Monosementicity    | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Required Sec: see below | | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) Concurrent or earlier works [link](https://arxiv.org/abs/2309.08600)  [link](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) |  |
 |               |          |  [Transcoders](https://arxiv.org/abs/2406.11944) | | [SAE on randomly initialized models](https://arxiv.org/abs/2501.17727) | |
-| 2025-06-23 | Project Ideas | | |  | Everyone |
-|   2025-06-30  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |    |
+| 2025-06-09 | no class | | | | |
+|   2025-06-16  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |    |
 |               |                     |   [AtP*](https://arxiv.org/abs/2403.00745)   |       |   [Diffmask](https://arxiv.org/abs/2004.14992)   [EAP](https://arxiv.org/abs/2310.10348)     |     |
-|     2025-07-07          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | |
+|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | |
 |                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | | |
-| 2025-07-14 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| |
+| 2025-06-30 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| |
 |            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | | |
-| 2025-07-21 | Case study II | [About Fine-tuning](https://arxiv.org/abs/2402.14811) | | | |
+| 2025-07-7 | Case study II | [About Fine-tuning](https://arxiv.org/abs/2402.14811) | | | |
 |           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | |
-| 2025-07-28 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | |
+| 2025-07-14 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | |
 |          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | |
 
 As some papers are very long and require more time to understand and present, I specify some required sections to reduce the workload (Only these are required to be read/presented, but feel free to also read/present other parts).
