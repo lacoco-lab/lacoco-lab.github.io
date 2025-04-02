@@ -34,7 +34,7 @@ You should be comfortable working with neural networks and various machine learn
 ## Project Timeline
 
 - Kick-off **meeting**, in-person
-  - date TBD April 7-15
+  - date **Thursday April 10**, C7 4 Aquarium
 - April: Develop Project Proposal
   - May 1: **Submit** 3 page project proposal
 - May: Explore Interpretibility Methods
@@ -50,23 +50,21 @@ You should be comfortable working with neural networks and various machine learn
  
 ## Example project components
 
-TODO: Kate to add example citations
-
 ### Example methods
 
 Note that some methods can be used on large language models, while others are more suitable for smaller models. Select a method appropriate for the task. 
 
-- Probing
-- Logit Lens
-- Sparse Autoencoders
-- Activation Patching
-- ??? (Kate TODO: go back through methods)
+- Probing [e.g.](https://arxiv.org/abs/1909.03368)
+- Logit Lens [e.g.](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+- Sparse Autoencoders [e.g. Gemma Scope](https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/)
+- Activation Patching [e.g. Patchscope](https://arxiv.org/abs/2401.06102)
+- Replacement Model + Attribution Graph [e.g. Circuit Tracing](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
 
 ### Example categories
 
 - Parts of speech (e.g. nouns, verbs, ...)
 - Morphemes (e.g. morphological segmentation)
-- Syllables
+- Syllables (e.g. in poetic rhyme)
 - Prosodic constituents
 - Syntactic heads (e.g. governing subject-verb agreement)
 - Semantic heads (e.g. Semantic Role Labeling, Universal Dependencies, ...)
