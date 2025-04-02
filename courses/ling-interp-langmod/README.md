@@ -55,6 +55,7 @@ You should be comfortable working with neural networks and various machine learn
 Note that some methods can be used on large language models, while others are more suitable for smaller models. Select a method appropriate for the task. 
 
 - Probing [e.g.](https://arxiv.org/abs/1909.03368)
+- Disentangling Labels [e.g.](https://arxiv.org/pdf/2406.02449)
 - Logit Lens [e.g.](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
 - Sparse Autoencoders [e.g. Gemma Scope](https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/)
 - Activation Patching [e.g. Patchscope](https://arxiv.org/abs/2401.06102)
