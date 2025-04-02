@@ -22,7 +22,7 @@ You should be comfortable working with neural networks and various machine learn
 <!-----REGISTRATION----->
 
 **Registration:**
- If you want to take part, please send an email to kmccurdy ( at sign ) lst.uni-saaland.de, deadline April 7. In your email, please:
+ If you want to take part, please send an email to kmccurdy ( at sign ) lst.uni-saaland.de, deadline April 11 (i.e. after the kickoff meeting on April 10). In your email, please:
 
   - Give your name, semester, study program
   - Tell me why you want to take part in this course
