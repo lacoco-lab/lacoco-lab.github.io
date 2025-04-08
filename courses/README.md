@@ -2,11 +2,11 @@
 
 ## Current
 
-<!--* Summer 2025 Software project [Linguistic Interpretibility for Neural Models of Language](../courses/ling-interp-langmod/) (Kate McCurdy). -->
+
 * Summer 2025 Seminar [Interpreting and Analyzing Neural Language Models](../courses/probing-2025/) (Xinting Huang).
 *  Summer 2025 Proseminar [Large Language Models](../courses/proseminar25/) (Michael Hahn). 
 * Summer 2025 Seminar [Neural Networks in Brains and Computers](../courses/brain-2025/) (Michael Hahn). 
-
+* Summer 2025 Software project [Linguistic Interpretibility for Neural Models of Language](../courses/ling-interp-langmod/) (Kate McCurdy).
 
 ## Past
 
