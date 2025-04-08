@@ -38,15 +38,16 @@ Every presentation just covers a few pages of the J&M book, but contains a lot o
 | APRIL 10  | -                   |   |   |  |
 | APRIL 17  | first session                   |   |   |  |
 | APRIL 24  | -                   |   |   |    |
-| MAY 01    | holiday, no class  |   |   |  TBD  |
-| MAY 08    | N-Gram Models      | Chapter 3.1   | n-grams   |  TBD  |
-| MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |  TBD  |
+| MAY 01    | holiday, no class  |   |   |    |
+| MAY 08    | N-Gram Models      | Chapter 3.1   | n-grams; log-probabilties (pages 33-37)   |  TBD  |
+| MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   | train-test split, perplexity (pages 38-41), sampling (pages 42-43)  |  TBD  |
 | MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   | units, ReLU, feedforward networks, softmax (pages 133-134, 138-140) |  TBD  |
 | MAY 29    | holiday, no class  |   |   |  |
 | JUNE 05   | Attention                   | Chapter 9.1   | Definition of a single attention head (pages 186-190)  |  TBD  |
-| JUNE 12   | Transformers                   | Chapter 9.2   |  Components of a transformer |  TBD  |
+| JUNE 12   | Transformers                   | Chapter 9.2   |  Components of a transformer (pages 191-193; high-level idea of pages 194-197) |  TBD  |
 | JUNE 19   | holiday, no class  |   |   |  |
-| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  | Input encodings, language modeling head  |  TBD  |
+| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  | Input encodings, language modeling head (pages 197-201)  |  TBD  |
+| TODO | Pretraining | Chapter 10.3, 10.4 | pages 210-213, 214-216) | TBD |
 | JULY 03   |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |  TBD  |
 | JULY 10 (online)   |    Post-Training                | Chapter 12.3  |   |  TBD  |
 | JULY 17   |    Prompt Optimization                | Chapter 12.5  |   |  TBD |
