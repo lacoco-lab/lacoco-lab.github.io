@@ -16,7 +16,7 @@ We will look into questions such as:
 
 * how and why do representations of language models align with brain imaging data of people comprehending language? (e.g., [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf))
 
-* how can we use machine learning for mindreading: decoding thoughts and language from people's brain recordings, even when they aren't talking? (e.g., [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9))
+* how can we use machine learning for mindreading: decoding thoughts and language from people's brain recordings, even when they aren't talking? (e.g., [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9); [Littlejohn et al, Nat Neuro 2025](https://www.nature.com/articles/s41593-025-01905-6))
 
 * how do ConvNets and other computer vision architectures relate to the way the brain processes visual information? (e.g., [Zhuang et al, PNAS 2021](https://doi.org/10.1073%2Fpnas.2014196118))
 
@@ -100,7 +100,7 @@ The course roughly has three parts: we will look into
 | June 17, 2025   | Aligning Language Models and Brains II           |  [Antonello et al, NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html)             |   | | TBD |
 | | | [Oota et al NeurIPS 2023](https://arxiv.org/pdf/2212.08094.pdf) | | | TBD |
 | June 24, 2025    | Decoding language from the brain         |  [Liu et al, Sci Adv 2023](https://www.science.org/doi/full/10.1126/sciadv.adh0478) |   |                 | TBD |
-| |  |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |                 | TBD |
+| |  |  [Tang et al, Nat Neuro 2023](https://www.nature.com/articles/s41593-023-01304-9) |   |      [Littlejohn et al, Nat Neuro 2025](https://www.nature.com/articles/s41593-025-01905-6)           | TBD |
 |               |  | **Part 3: Reinforcement Learning and Behavior** | |
 | July 1, 2025     | Reinforcement Learning        | [Mnih et al, Nature 2015](https://www.nature.com/articles/nature14236)  |   |                 | TBD |
 |  |  | Scanning humans playing Atari: [Cross et al, Neuron 2021](https://www.cell.com/neuron/pdf/S0896-6273(20)30899-0.pdf) |   |                 | TBD |
