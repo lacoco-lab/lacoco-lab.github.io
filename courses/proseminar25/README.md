@@ -23,7 +23,9 @@ Every participant is expected to attend all sessions. Please let Michael know if
 
 The couse is worth 5CP. Every participant gives a presentation and submits a term paper.
 
-Every presentation just covers a few pages of the J&M book, but contains a lot of technical content. A key component of your presentation will be to take technical content from the J&M book, thoroughly understand it, and present it in a form that makes it understandable to the other seminar participants. You are encouraged to draw on other resources beyond the J&M book (scholarly resources such as those referenced in the J&M book - but also blog posts, videos etc) to deepen your understanding of your topic. Your presentation should clearly indicate which resources you drew on.
+Every presentation just covers a few pages of the J&M book, but contains a lot of technical content. A key component of your presentation will be to take technical content from the J&M book, thoroughly understand it, and present it in a form that makes it understandable to the other seminar participants. Thorough understanding of your topic is a key aspect; be prepared to invest a substantial amount of effort into understanding the technical details of your assigned part of the book. Besides giving a good presentation, you should be prepared to answer questions from seminar participants and Michael.
+
+You should view the assigned part of the book just as a starting point, and are highly encouraged to draw on other resources beyond the J&M book (scholarly resources such as those referenced in the J&M book - but also blog posts, videos etc) to deepen your understanding of your topic. Your presentation should clearly indicate which resources you drew on.
 
 ## Syllabus
 
@@ -47,10 +49,15 @@ Every presentation just covers a few pages of the J&M book, but contains a lot o
 | JUNE 12   | Transformers                   | Chapter 9.2   |  Components of a transformer (pages 191-193; high-level idea of pages 194-197) |  TBD  |
 | JUNE 19   | holiday, no class  |   |   |  |
 | JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  | Input encodings, language modeling head (pages 197-201)  |  TBD  |
-| TODO | Pretraining | Chapter 10.3, 10.4 | pages 210-213, 214-216) | TBD |
-| JULY 03   |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |  TBD  |
-| JULY 10 (online)   |    Post-Training                | Chapter 12.3  |   |  TBD  |
-| JULY 17   |    Prompt Optimization                | Chapter 12.5  |   |  TBD |
+| JULY 03  | Pretraining | Chapter 10.3, 10.4 | pages 210-213, 214-216) | TBD |
+| JULY 10 (online)  |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |  TBD  |
+|  JULY 17  |    Post-Training                | Chapter 12.3  |   |  TBD  |
 
 If there are more than 18 participants, we will jointly agree on an extra session so that everyone gets the chance to do a full 45 minutes presentation.
+
+## Grading
+
+!!! SUBJECT TO CHANGE !!!
+
+Grades are composed of: 40% term paper, 40% presentation (including responses to questions), 20% participation in other students' presentations.
 
