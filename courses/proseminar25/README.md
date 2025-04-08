@@ -39,11 +39,9 @@ Topics
 
 - large language models (Chapter 10)
 
-- alignment (Chapter 12)
  
 - prompting  (Chapter 12)
 
-- in-context learning (Chapter 12)
 
 11 sessions
 
@@ -55,14 +53,14 @@ Topics
 | MAY 01    | holiday, no class  |   |   |
 | MAY 08    | N-Gram Models      | Chapter 3.1   |   |
 | MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |
-| MAY 22    |                    |   |   |
+| MAY 22    | Neural Networks                   | Chapters 7.1, 7.2, 7.3, 7.4   |   |
 | MAY 29    | holiday, no class  |   |   |
-| JUNE 05   |                    |   |   |
+| JUNE 05   |                    |    |   |
 | JUNE 12   |                    |   |   |
 | JUNE 19   | holiday, no class  |   |   |
-| JUNE 26   |                    |   |   |
-| JULY 03   |                    |   |   |
+| JUNE 26   | Basics of Transformers                   |  Chapters 9.1, 9.2 |   |
+| JULY 03   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |
 | JULY 10   |                    |   |   |
-| JULY 17   |                    |   |   |
+| JULY 17   |  Prompting                  | Chapter 12  |   |
 
 Note: Michael not on campus on April 24, July 10.
