@@ -60,7 +60,7 @@ Topics
 | JUNE 19   | holiday, no class  |   |   |
 | JUNE 26   | Transformers                   |  Chapter 9.2 |   |
 | JULY 03   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |
-| JULY 10   |                    |   |   |
-| JULY 17   |  Prompting                  | Chapter 12  |   |
+| JULY 10   | Prompting and Fewshot Prompting                   | Chapter 12.1, 12.4  |   |
+| JULY 17   |  Post-Training                  | Chapter 12.3  |   |
 
 Note: Michael not on campus on April 24, July 10.
