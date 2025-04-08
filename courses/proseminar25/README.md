@@ -53,7 +53,7 @@ Topics
 | MAY 01    | holiday, no class  |   |   |
 | MAY 08    | N-Gram Models      | Chapter 3.1   |   |
 | MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |
-| MAY 22    | Neural Networks                   | Chapters 7.1, 7.2, 7.3, 7.4   |   |
+| MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   |   |
 | MAY 29    | holiday, no class  |   |   |
 | JUNE 05   |                    |    |   |
 | JUNE 12   | Attention                   | Chapter 9.1   |   |
