@@ -8,7 +8,7 @@ This proseminar is organized by: Prof. Dr. Michael Hahn
 
 When and where: Do 12:15–13:45, Raum -1.05
 
-The class is centered around Juarsfky & Martin (3rd edition): https://web.stanford.edu/~jurafsky/slp3/
+The class is centered around Jurasfky & Martin [J&M] (3rd edition): https://web.stanford.edu/~jurafsky/slp3/
 
 Specifically, the January 25 version: https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf
 
@@ -22,6 +22,8 @@ The number of participants is limited to 20. Please note that registration in CM
 Every participant is expected to attend all sessions. Please let Michael know if you cannot attend some session. Attendance is important because in-class discussion is a substantive component of this proseminar.
 
 The couse is worth 5CP. Every participant gives a presentation and submits a term paper.
+
+Every presentation just covers a few pages of the J&M book, but contains a lot of technical content. A key component of your presentation will be to take technical content from the J&M book, thoroughly understand it, and present it in a form that makes it understandable to the other seminar participants. You are encouraged to draw on other resources beyond the J&M book (scholarly resources such as those referenced in the J&M book - but also blog posts, videos etc) to deepen your understanding of your topic. Your presentation should clearly indicate which resources you drew on.
 
 ## Syllabus
 
@@ -41,7 +43,7 @@ The couse is worth 5CP. Every participant gives a presentation and submits a ter
 | MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |  TBD  |
 | MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   | units, ReLU, feedforward networks, softmax (pages 133-134, 138-140) |  TBD  |
 | MAY 29    | holiday, no class  |   |   |  |
-| JUNE 05   | Attention                   | Chapter 9.1   | Definition of a single attention head  |  TBD  |
+| JUNE 05   | Attention                   | Chapter 9.1   | Definition of a single attention head (pages 186-190)  |  TBD  |
 | JUNE 12   | Transformers                   | Chapter 9.2   |  Components of a transformer |  TBD  |
 | JUNE 19   | holiday, no class  |   |   |  |
 | JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  | Input encodings, language modeling head  |  TBD  |
