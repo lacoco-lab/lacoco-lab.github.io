@@ -55,12 +55,12 @@ Topics
 | MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |
 | MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   |   |
 | MAY 29    | holiday, no class  |   |   |
-| JUNE 05   |                    |    |   |
-| JUNE 12   | Attention                   | Chapter 9.1   |   |
+| JUNE 05   | Attention                   | Chapter 9.1   |   |
+| JUNE 12   | Transformers                   | Chapter 9.2   |   |
 | JUNE 19   | holiday, no class  |   |   |
-| JUNE 26   | Transformers                   |  Chapter 9.2 |   |
-| JULY 03   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |
-| JULY 10   | Prompting and Fewshot Prompting                   | Chapter 12.1, 12.4  |   |
-| JULY 17   |  Post-Training                  | Chapter 12.3  |   |
+| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |
+| JULY 03   |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |
+| JULY 10 (online)   |    Post-Training                | Chapter 12.3  |   |
+| JULY 17   |    Prompt Optimization                | Chapter 12.5  |   |
 
 Note: Michael not on campus on April 24, July 10.
