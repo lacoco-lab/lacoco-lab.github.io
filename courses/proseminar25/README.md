@@ -47,8 +47,8 @@ Topics
 
 | Date      | Topic               | Reading | Who |
 |-----------|--------------------|-----|-----|
-| APRIL 10  | first session                   |   |   |
-| APRIL 17  | -                   |   |   |
+| APRIL 10  | -                   |   |   |
+| APRIL 17  | first session                   |   |   |
 | APRIL 24  | -                   |   |   |
 | MAY 01    | holiday, no class  |   |   |
 | MAY 08    | N-Gram Models      | Chapter 3.1   |   |
