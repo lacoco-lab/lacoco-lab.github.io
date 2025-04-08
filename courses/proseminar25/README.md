@@ -15,7 +15,7 @@ Specifically, the January 25 version: https://web.stanford.edu/~jurafsky/slp3/ed
 Please register in Course Maganement System (CMS): https://cms.sic.saarland/prposeminar_llms_25/
 We will use this for announcements and other communication.
 
-The course is aimed primarily at students of B.Sc. Computerlinguistik in the third semester.
+The course is aimed primarily at students of B.Sc. Computerlinguistik in the second semester.
 
 The number of participants is limited to 20. Please note that registration in CMS does not guarantee that you will be admitted. Admission will be finalized in the first week of the semester.
 
