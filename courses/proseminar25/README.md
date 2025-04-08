@@ -50,11 +50,11 @@ Topics
 | Date      | Topic               | Reading | Who |
 |-----------|--------------------|-----|-----|
 | APRIL 10  | first session                   |   |   |
-| APRIL 17  |                    |   |   |
-| APRIL 24  |                    |   |   |
+| APRIL 17  | -                   |   |   |
+| APRIL 24  | -                   |   |   |
 | MAY 01    | holiday, no class  |   |   |
-| MAY 08    |                    |   |   |
-| MAY 15    |                    |   |   |
+| MAY 08    | N-Gram Models      | Chapter 3.1   |   |
+| MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |
 | MAY 22    |                    |   |   |
 | MAY 29    | holiday, no class  |   |   |
 | JUNE 05   |                    |   |   |
@@ -65,4 +65,4 @@ Topics
 | JULY 10   |                    |   |   |
 | JULY 17   |                    |   |   |
 
-Note: Michael not on campus on July 10.
+Note: Michael not on campus on April 24, July 10.
