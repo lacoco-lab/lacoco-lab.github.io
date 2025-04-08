@@ -56,9 +56,9 @@ Topics
 | MAY 22    | Neural Networks                   | Chapters 7.1, 7.2, 7.3, 7.4   |   |
 | MAY 29    | holiday, no class  |   |   |
 | JUNE 05   |                    |    |   |
-| JUNE 12   |                    |   |   |
+| JUNE 12   | Attention                   | Chapter 9.1   |   |
 | JUNE 19   | holiday, no class  |   |   |
-| JUNE 26   | Basics of Transformers                   |  Chapters 9.1, 9.2 |   |
+| JUNE 26   | Transformers                   |  Chapter 9.2 |   |
 | JULY 03   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |
 | JULY 10   |                    |   |   |
 | JULY 17   |  Prompting                  | Chapter 12  |   |
