@@ -27,40 +27,27 @@ The couse is worth 5CP. Every participant gives a presentation and submits a ter
 
 !! UNDER CONSTRUCTION !!!
 
-Topics
-
-- n-gram language models (Chapter 3.1)
-
-- testing, perplexity, sampling (Chapters 3.2 and 3.3 and 3.4)
-
-- neural networks (Chapter 7)
-
-- transformer (Chapter 9)
-
-- large language models (Chapter 10)
-
- 
-- prompting  (Chapter 12)
 
 
 11 sessions
 
-| Date      | Topic               | Reading | Who |
-|-----------|--------------------|-----|-----|
-| APRIL 10  | -                   |   |   |
-| APRIL 17  | first session                   |   |   |
-| APRIL 24  | -                   |   |   |
-| MAY 01    | holiday, no class  |   |   |
-| MAY 08    | N-Gram Models      | Chapter 3.1   |   |
-| MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |
-| MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   |   |
-| MAY 29    | holiday, no class  |   |   |
-| JUNE 05   | Attention                   | Chapter 9.1   |   |
-| JUNE 12   | Transformers                   | Chapter 9.2   |   |
-| JUNE 19   | holiday, no class  |   |   |
-| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |
-| JULY 03   |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |
-| JULY 10 (online)   |    Post-Training                | Chapter 12.3  |   |
-| JULY 17   |    Prompt Optimization                | Chapter 12.5  |   |
+| Date      | Topic          | Reading | Concepts to Cover     |  Who |
+|-----------|--------------------|-----|-----|------|
+| APRIL 10  | -                   |   |   |  |
+| APRIL 17  | first session                   |   |   |  |
+| APRIL 24  | -                   |   |   |    |
+| MAY 01    | holiday, no class  |   |   |  TBD  |
+| MAY 08    | N-Gram Models      | Chapter 3.1   | n-grams   |  TBD  |
+| MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |  TBD  |
+| MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   | units, ReLU, feedforward networks, softmax (pages 133-134, 138-140) |  TBD  |
+| MAY 29    | holiday, no class  |   |   |  |
+| JUNE 05   | Attention                   | Chapter 9.1   |   |  TBD  |
+| JUNE 12   | Transformers                   | Chapter 9.2   |   |  TBD  |
+| JUNE 19   | holiday, no class  |   |   |  |
+| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |  TBD  |
+| JULY 03   |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |  TBD  |
+| JULY 10 (online)   |    Post-Training                | Chapter 12.3  |   |  TBD  |
+| JULY 17   |    Prompt Optimization                | Chapter 12.5  |   |  TBD |
 
-Note: Michael not on campus on April 24, July 10.
+If there are more than 18 participants, we will jointly agree on an extra session so that everyone gets the chance to do a full 45 minutes presentation.
+
