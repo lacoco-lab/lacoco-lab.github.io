@@ -35,7 +35,7 @@ You should view the assigned part of the book just as a starting point, and are 
 
 11 sessions
 
-| Date      | Topic          | Reading | Concepts to Cover     |  Who |
+| Date      | Topic          | Reading | Concepts/Pages to Cover     |  Who |
 |-----------|--------------------|-----|-----|------|
 | APRIL 10  | -                   |   |   |  |
 | APRIL 17  | first session                   |   |   |  |
@@ -49,9 +49,9 @@ You should view the assigned part of the book just as a starting point, and are 
 | JUNE 12   | Transformers                   | Chapter 9.2   |  Components of a transformer (pages 191-193; high-level idea of pages 194-197) |  TBD  |
 | JUNE 19   | holiday, no class  |   |   |  |
 | JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  | Input encodings, language modeling head (pages 197-201)  |  TBD  |
-| JULY 03  | Pretraining | Chapter 10.3, 10.4 | pages 210-213, 214-216) | TBD |
-| JULY 10 (online)  |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |  TBD  |
-|  JULY 17  |    Post-Training                | Chapter 12.3  |   |  TBD  |
+| JULY 03  | Pretraining | Chapter 10.3, 10.4 | pages 210-213, 214-216 | TBD |
+| JULY 10 (online)  |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  | prompting, in-context learning, chain-of-thought  |  TBD  |
+|  JULY 17  |    Post-Training                | Chapter 12.3  | pages 249-254  |  TBD  |
 
 If there are more than 18 participants, we will jointly agree on an extra session so that everyone gets the chance to do a full 45 minutes presentation.
 
