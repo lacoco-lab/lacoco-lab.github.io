@@ -41,10 +41,10 @@ The couse is worth 5CP. Every participant gives a presentation and submits a ter
 | MAY 15    | Testing, Perplexity, Sampling    | Chapters 3.2, 3.3, 3.4   |   |  TBD  |
 | MAY 22    | Neural Networks                   | Chapters 7.1, 7.3   | units, ReLU, feedforward networks, softmax (pages 133-134, 138-140) |  TBD  |
 | MAY 29    | holiday, no class  |   |   |  |
-| JUNE 05   | Attention                   | Chapter 9.1   |   |  TBD  |
-| JUNE 12   | Transformers                   | Chapter 9.2   |   |  TBD  |
+| JUNE 05   | Attention                   | Chapter 9.1   | Definition of a single attention head  |  TBD  |
+| JUNE 12   | Transformers                   | Chapter 9.2   |  Components of a transformer |  TBD  |
 | JUNE 19   | holiday, no class  |   |   |  |
-| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  |   |  TBD  |
+| JUNE 26   | Input and Output  in Transformers                   | Chapters 9.4, 9.5  | Input encodings, language modeling head  |  TBD  |
 | JULY 03   |   Prompting and Fewshot Prompting                | Chapter 12.1, 12.4  |   |  TBD  |
 | JULY 10 (online)   |    Post-Training                | Chapter 12.3  |   |  TBD  |
 | JULY 17   |    Prompt Optimization                | Chapter 12.5  |   |  TBD |
