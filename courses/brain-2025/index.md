@@ -29,7 +29,8 @@ and several more.
 **Prerequisites:**
 It is sufficient if you have background in either machine learning or neuroscience. However, you should be willing to learn a bit about the other field in preparation for your presentation.
 
-Michael is happy to meet with you once to talk through any questions about the paper you're assigned. While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if some details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
+<!--Michael is happy to meet with you once to talk through any questions about the paper you're assigned. -->
+While you are expected to make an effort to understand the paper you're assigned, and should understand its overall claims and conclusions, it is **fully acceptable** if some details that aren't closely related to your own background remain unclear. Not understanding some aspects of your assigned paper won't affect your presentation grade - as long as you're **transparent and upfront** about points you don't understand about your assigned paper when doing your presentation. In fact, points of confusion can be a starting point for in-class discussion. In choosing  papers you want to present, consider not only whether you feel you'd understand the paper in detail, but also how interesting it sounds to you and how motivated you'd be to learn a bit more about its topic.
 
 <!-----REGISTRATION----->
 
@@ -59,7 +60,7 @@ Michael is happy to meet with you once to talk through any questions about the p
 
 This is a seminar course.
 Starting from the fourth week, one or two students will present in each unit (except for the June 20 session). Every student will present exactly once.
-We expect all students to read the readings every week. Every student submits one question about the readings by Wednesday noon.
+We expect all students to read the readings every week. Every student submits one question about the readings by noon the day before class.
 
 Each week, we will focus on one topic, to be jointly presented by two people. For most topics, we have listed two readings.
 
