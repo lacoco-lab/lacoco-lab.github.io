@@ -34,7 +34,7 @@ You should be comfortable working with neural networks and various machine learn
 ## Project Timeline
 
 - Kick-off **meeting**, in-person
-  - date **Thursday April 10**, C7 4 Aquarium
+  - date **Thursday April 10** at **14h**, C7 4 Aquarium
 - April: Develop Project Proposal
   - May 1: **Submit** 3 page project proposal
 - May: Explore Interpretibility Methods
