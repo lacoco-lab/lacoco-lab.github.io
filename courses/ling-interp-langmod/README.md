@@ -1,13 +1,13 @@
-# Linguistic Interpretibility for Neural Models of Language
+# Linguistic Interpretability for Neural Models of Language
 
 Software Project
 
 <!-----DESCRIPTION----->
 **Course Description:**
 
-For this course, you will work with one or two other students to propose and implement a software project focused on linguistic interpretibilty for neural-network-based models of language. This course runs in the summer semester, i.e. April-July 2025.
+For this course, you will work with one or two other students to propose and implement a software project focused on linguistic interpretabilty for neural-network-based models of language. This course runs in the summer semester, i.e. April-July 2025.
 
-You will select an interpretibility **method** and use it to analyze how one or more neural models represent and/or process formal linguistic **categories** (cf. examples below). You can use a pre-trained model, trained on language modeling or some other objective, or for more complicated methods / tasks you have the option of training your own smaller model. The model can be trained on any natural language. Many of the technical aspects are flexible and open to discussion, e.g. at the project proposal phase. The key requirement is that your final project will analyze linguistically relevant categories, and how they are realized in a given neural network model.
+You will select an interpretability **method** and use it to analyze how one or more neural models represent and/or process formal linguistic **categories** (cf. examples below). You can use a pre-trained model, trained on language modeling or some other objective, or for more complicated methods / tasks you have the option of training your own smaller model. The model can be trained on any natural language. Many of the technical aspects are flexible and open to discussion, e.g. at the project proposal phase. The key requirement is that your final project will analyze linguistically relevant categories, and how they are realized in a given neural network model.
 
 For a more comprehensive technical background, I highly recommend taking the seminar [Interpreting and Analyzing Neural Language Models](https://lacoco-lab.github.io/courses/interpreting-2025/) in parallel with this project.
 
