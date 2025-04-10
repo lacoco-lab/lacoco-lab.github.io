@@ -16,7 +16,7 @@ Many of our readings will be quite technical. You will need a good background in
 
 * If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/probing_25/) once you were selected by the assignment system or otherwise admitted by us.
 
-* **In both cases**, please email xhuang@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+* **In both cases**, <del>please email xhuang@lst.uni-saarland.de </del>  please fill in this [form](https://forms.gle/iDZF8QSBKE7Gmchx9) with your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
 <!----CMS------------>
