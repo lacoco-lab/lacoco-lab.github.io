@@ -78,17 +78,17 @@ Note that some methods can be used on large language models, while others are mo
 Research works with a linguistic interpretability focus.
 
 - Tenney et al., 2019: [BERT Rediscovers the Classical NLP Pipeline](https://aclanthology.org/P19-1452.pdf)
- - Linguistic category: multiple - PoS, dep. heads, semantic roles, …
- - Method + model: probe + BERT
+  - Linguistic category: multiple - PoS, dep. heads, semantic roles, …
+  - Method + model: probe + BERT
 - Dankers et al., 2021: [Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network](https://aclanthology.org/2021.conll-1.8)
- - Linguistic category: German plural classes
- - Method + model: probe + LSTM
+  - Linguistic category: German plural classes
+  - Method + model: probe + LSTM
 - Chen et al., 2024: [SUDDEN DROPS IN THE LOSS: SYNTAX ACQUISITION, PHASE TRANSITIONS, AND SIMPLICITY BIAS IN MLMS](https://arxiv.org/pdf/2309.07311v5)
- - Linguistic category: syntactic dependencies
- - Method + model: probe + BERT at different stages in training
+  - Linguistic category: syntactic dependencies
+  - Method + model: probe + BERT at different stages in training
 - Lindsey et al., 2025: [Tracing circuits - Planning in Poems](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-poems)
- - Method + model: attribution graphs via local replacement model + Claude
+  - Method + model: attribution graphs via local replacement model + Claude
 - Brinkmann et al., 2025: [Large Language Models Share Representations of Latent Grammatical Concepts Across Typologically Diverse Languages](https://arxiv.org/pdf/2501.06346)
- - Method + model: SAEs + Llama
+  - Method + model: SAEs + Llama
 
 
