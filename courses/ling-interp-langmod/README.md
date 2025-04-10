@@ -22,7 +22,9 @@ You should be comfortable working with neural networks and various machine learn
 <!-----REGISTRATION----->
 
 **Registration:**
- If you want to take part, please send an email to kmccurdy ( at sign ) lst.uni-saaland.de, deadline **Friday April 11** (i.e. after the kickoff meeting on April 10 - feel free to come and ask questions there). In your email, please:
+ If you want to take part, please send an email to kmccurdy ( at sign ) lst.uni-saaland.de, deadline **Friday April ~~11~~ 18** (i.e. after the kickoff meeting on April 10 - feel free to come and ask questions there). N.B. registration deadline extended by one week to accommodate lack of CMS page!
+ 
+In your email, please:
 
   - Give your name, semester, study program
   - Tell me why you want to take part in this course
@@ -35,6 +37,7 @@ You should be comfortable working with neural networks and various machine learn
 
 - Kick-off **meeting**, in-person
   - date **Thursday April 10** at **14h**, C7 4 Aquarium
+  - Kick-off meeting [slides](https://docs.google.com/presentation/d/1_x5AFsW2MDsH03pNx1NdxVBGb_nIgvGBtA8Of39ohoM/edit#slide=id.g349fa282d82_0_0)
 - April: Develop Project Proposal
   - May 1: **Submit** 3 page project proposal
 - May: Explore Interpretibility Methods
@@ -69,4 +72,23 @@ Note that some methods can be used on large language models, while others are mo
 - Prosodic constituents
 - Syntactic heads (e.g. governing subject-verb agreement)
 - Semantic heads (e.g. Semantic Role Labeling, Universal Dependencies, ...)
+
+## Case Studies
+
+Research works with a linguistic interpretability focus.
+
+- Tenney et al., 2019: [BERT Rediscovers the Classical NLP Pipeline](https://aclanthology.org/P19-1452.pdf)
+ - Linguistic category: multiple - PoS, dep. heads, semantic roles, …
+ - Method + model: probe + BERT
+- Dankers et al., 2021: [Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network](https://aclanthology.org/2021.conll-1.8)
+ - Linguistic category: German plural classes
+ - Method + model: probe + LSTM
+- Chen et al., 2024: [SUDDEN DROPS IN THE LOSS: SYNTAX ACQUISITION, PHASE TRANSITIONS, AND SIMPLICITY BIAS IN MLMS](https://arxiv.org/pdf/2309.07311v5)
+ - Linguistic category: syntactic dependencies
+ - Method + model: probe + BERT at different stages in training
+- Lindsey et al., 2025: [Tracing circuits - Planning in Poems](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-poems)
+ - Method + model: attribution graphs via local replacement model + Claude
+- Brinkmann et al., 2025: [Large Language Models Share Representations of Latent Grammatical Concepts Across Typologically Diverse Languages](https://arxiv.org/pdf/2501.06346)
+ - Method + model: SAEs + Llama
+
 
