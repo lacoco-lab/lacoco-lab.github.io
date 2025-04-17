@@ -6,7 +6,7 @@
 
 This proseminar is organized by: Prof. Dr. Michael Hahn
 
-When and where: Do 12:15–13:45, Raum -1.05
+When and where: Do 12:15–13:45, Raum -1.05 (Building C7.2)
 
 The class is centered around Jurasfky & Martin [J&M] (3rd edition): https://web.stanford.edu/~jurafsky/slp3/
 
