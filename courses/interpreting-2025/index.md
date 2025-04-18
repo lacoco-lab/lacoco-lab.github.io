@@ -30,7 +30,7 @@ Many of our readings will be quite technical. You will need a good background in
 **Time:** Monday, 14:15-15:45
 
 <!-----ROOM----->
-**Room:** Room 1.12
+**Room:** Building C7.3 Room 1.12
 
 
 ## Format and requirements
