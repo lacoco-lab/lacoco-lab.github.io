@@ -50,8 +50,8 @@ Some optional material is for the Topic, rather than being specific to the paper
 |  2025-04-21    | no class | | | | |
 | 2025-04-28    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified code for GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      |  Xinting | 
 | 2025-05-05    | Understanding Transformers        |   [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html) Required Sec: see below    |       |        |  Nursulu    |
-|  |         |   [RASP](https://arxiv.org/abs/2106.06981) Section 1, 2, 3 |       |        |   Muhammad Jibran   |
-| 2025-05-12    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |   Muhammad Ebad  |
+|  |         |   [RASP](https://arxiv.org/abs/2106.06981) Section 1, 2, 3 |       |        |   Jibran   |
+| 2025-05-12    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |   Ebad  |
 |               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |   Sara |
 | 2025-05-19   |   Projecting to vocabulary space                 | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)  + breifly mention [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |    [Future Lens](https://arxiv.org/abs/2311.04897) [Backward Lens](https://arxiv.org/abs/2402.12865) |   Shreyansh  |
 |               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |    [MLP are key-value memories](https://arxiv.org/abs/2012.14913)    |   Zhenyu  |
@@ -62,14 +62,14 @@ Some optional material is for the Topic, rather than being specific to the paper
 | 2025-06-09 | no class | | | | |
 |   2025-06-16  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |  Ivo  |
 |               |                     |   [AtP*](https://arxiv.org/abs/2403.00745)   |       |   [Diffmask](https://arxiv.org/abs/2004.14992)   [EAP](https://arxiv.org/abs/2310.10348)     |  Pragya   |
-|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | Muhammad Usama |
+|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | Usama |
 |                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | | Prathamesh |
 | 2025-06-30 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| Rabin |
 |            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | | Małgorzata |
 | 2025-07-07 | Case study II | [Fine-Tuning Enhances Mechanisms](https://arxiv.org/abs/2402.14811) | | | Manon |
 |           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | Samarth |
 | 2025-07-14 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | Finn |
-|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | Mohammed Saqib |
+|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | Saqib |
 
 As some papers are very long and require more time to understand and present, I specify some required sections to reduce the workload (Only these are required to be read/presented, but feel free to also read/present other parts).
 
