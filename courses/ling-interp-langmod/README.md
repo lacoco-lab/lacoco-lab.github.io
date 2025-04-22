@@ -39,7 +39,7 @@ In your email, please:
   - date **Thursday April 10** at **14h**, C7 4 Aquarium
   - Kick-off meeting [slides](https://docs.google.com/presentation/d/1_x5AFsW2MDsH03pNx1NdxVBGb_nIgvGBtA8Of39ohoM/edit#slide=id.g349fa282d82_0_0)
 - April: Develop Project Proposal
-  - May 1: **Submit** 3 page project proposal
+  - ~~May 1~~ **May 5**: **Submit** 3 page project proposal (20% of your grade)
 - May: Explore Interpretibility Methods
   - Progress **presentation** + check-in meeting, remote
     -  date TBD May 19-23
@@ -47,7 +47,7 @@ In your email, please:
   - Progress **presentation** + check-in meeting, remote
     - date TBD June 16-20
 - July: Prepare Final Report
-  - July 31: **Submit** final project report + code
+  - July 31: **Submit** final project report (50% of your grade) + code (30% of your grade)
 - Final **meeting**, in person
   - date TBD July 14-15
  
