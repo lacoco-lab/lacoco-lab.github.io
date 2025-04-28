@@ -173,7 +173,7 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is TBD.
+The report should be uploaded via CMS. The due date is October 12.
 
 ## Contact
 
