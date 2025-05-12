@@ -109,7 +109,7 @@ There are some other works that do not fit in any topics above, they might be in
 
 ## Evaluation
 
-IMPORTANT: Study programs may differ in which version(s) of a seminar course you can take. If in doubt, check with your study program coordinator.
+***IMPORTANT: Study programs may differ in which version(s) of a seminar course you can take. If in doubt, check with your study program coordinator.***
 
 For students taking the seminar for 4 credits:
 
