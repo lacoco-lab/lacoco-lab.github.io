@@ -27,7 +27,7 @@ We will discuss recent research papers, both from our own group and from other g
 
 TBD. A few relevant papers. We will expand this.
 
-**You are very welcome to propose readings that you are interested in!**
+**You are very welcome to propose readings that you are interested in, as long as they are related to the topic of the seminar!**
 
 The path to AGI:
 * https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/
