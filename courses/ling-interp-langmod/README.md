@@ -42,14 +42,15 @@ In your email, please:
   - ~~May 1~~ **May 5**: **Submit** 3 page project proposal (20% of your grade)
 - May: Explore Interpretibility Methods
   - Progress **presentation** + check-in meeting, remote
-    -  date TBD May 19-23
+    -  date ~~TBD~~ May ~~19-23~~ 22
 - June: Analyze Linguistic Categories
   - Progress **presentation** + check-in meeting, remote
-    - date TBD June 16-20
+    - date ~~TBD~~ June ~~16-20~~ 13
 - July: Prepare Final Report
-  - July 31: **Submit** final project report (50% of your grade) + code (30% of your grade)
+  - Additional check-in July 1 
+  - July 31: **Submit** final project report (6-8 pages; 50% of your grade) + code (30% of your grade)
 - Final **meeting**, in person
-  - date TBD July 14-15
+  - date ~~TBD~~ July **14** (Monday), 10 am, C7 4 Aquarium
  
 ## Example project components
 
