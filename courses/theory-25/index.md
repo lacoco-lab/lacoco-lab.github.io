@@ -7,6 +7,8 @@ The incredible scale of current LLMs makes this a daunting prospect. However, re
 
 * Which problems can be solved by a transformer in one step? Which require a chain-of-thought? How long does a chain-of-thought have to be?
 
+* What are benefits and limits of allowing LLM agents to act in the world, and to collaborate with each other or humans?
+
 * Which kinds of problems is a transformer likely to generalize on well?
 
 * What are differences between transformers and other architectures (e.g. state-space models)?
@@ -25,9 +27,20 @@ We will discuss recent research papers, both from our own group and from other g
 
 TBD. A few relevant papers. We will expand this.
 
+**You are very welcome to propose readings that you are interested in!**
+
+The path to AGI:
+* https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/
+
 Formal languages:
 
 * Survey by Strobl et al https://arxiv.org/abs/2311.00208
+
+Scaling laws and emergence:
+
+* https://arxiv.org/abs/2206.07682
+* https://arxiv.org/abs/2304.15004
+* https://arxiv.org/abs/2001.08361
 
 Difficulty of Parity:
 
@@ -74,5 +87,5 @@ SSMs:
 
 k-hop reasoning:
 
-* Chen et al
-* Wang et al
+* Chen et al https://arxiv.org/abs/2412.02975
+* Wang et al https://arxiv.org/abs/2505.23683
