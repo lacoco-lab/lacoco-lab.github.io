@@ -1,7 +1,5 @@
 # Proseminar (Introductory Seminar): Large Language Models
 
-
-
 ## Data
 
 This proseminar is organized by: Prof. Dr. Michael Hahn
@@ -29,11 +27,8 @@ You should view the assigned part of the book just as a starting point, and are 
 
 ## Syllabus
 
-!! UNDER CONSTRUCTION !!!
 
 
-
-11 sessions
 
 | Date      | Topic          | Reading | Concepts/Pages to Cover     |  Who |
 |-----------|--------------------|-----|-----|------|
@@ -57,7 +52,9 @@ If there are more than 18 participants, we will jointly agree on an extra sessio
 
 ## Grading
 
-!!! SUBJECT TO CHANGE !!!
-
 Grades are composed of: 40% term paper, 40% presentation (including responses to questions), 20% participation in other students' presentations.
 
+### Term Paper
+The term paper should be a write-up of the content of your presentation. Please use the ACL style (see https://acl-org.github.io/ACLPUB/formatting.html). The paper should have up to 10 pages, excluding references.
+
+The term paper is to be handed in (i.e., uploaded via CMS) by October 12, 2025.
