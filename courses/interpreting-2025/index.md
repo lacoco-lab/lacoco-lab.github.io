@@ -58,18 +58,18 @@ Some optional material is for the Topic, rather than being specific to the paper
 |  2025-05-26 |  Activation Patching, Path Patching  | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html) Sec. 1, 2, 3 + [ROME](https://arxiv.org/abs/2202.05262) Sec. 1, 2    |       | [Optimal ablation](https://neurips.cc/virtual/2024/poster/93600)  [DAS](https://arxiv.org/abs/2303.02536)      |        Saugata   |
 |               |                         | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)      [ACDC](https://arxiv.org/abs/2304.14997)           |           Sofia        |
 |  2025-06-02  |  Monosementicity    | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Required Sec: see below | | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) Concurrent or earlier works [link](https://arxiv.org/abs/2309.08600)  [link](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | Shane |
-|               |          |  [Transcoders](https://arxiv.org/abs/2406.11944) | | [SAE on randomly initialized models](https://arxiv.org/abs/2501.17727) | Anthony |
+|               |          |  [Transcoders](https://arxiv.org/abs/2406.11944) | | [SAE on randomly initialized models](https://arxiv.org/abs/2501.17727) | Xinting |
 | 2025-06-09 | no class | | | | |
 |   2025-06-16  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |  Ivo  |
 |               |                     |   [AtP*](https://arxiv.org/abs/2403.00745)   |       |   [Diffmask](https://arxiv.org/abs/2004.14992)   [EAP](https://arxiv.org/abs/2310.10348)     |  Pragya   |
-|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | Usama |
+|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | Xinting |
 |                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | | Prathamesh |
 | 2025-06-30 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| Rabin |
 |            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | | Małgorzata |
 | 2025-07-07 | Case study II | [Fine-Tuning Enhances Mechanisms](https://arxiv.org/abs/2402.14811) | | | Manon |
-|           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | Samarth |
+|           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | Xinting |
 | 2025-07-14 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | Finn |
-|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | Saqib |
+|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | Xinting |
 
 As some papers are very long and require more time to understand and present, I specify some required sections to reduce the workload (Only these are required to be read/presented, but feel free to also read/present other parts).
 
