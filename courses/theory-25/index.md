@@ -23,6 +23,16 @@ This seminar will not presuppose knowledge of any of these fields. However, a wi
 
 We will discuss recent research papers, both from our own group and from other groups. A lot of this content is highly technical, and it is absolutely fine if you do not understand everything in the paper you'll present. Our focus will be on discussing high-level take-aways for understanding the (in)abilities of current AI systems, and prospects for future developments.
 
+# Logistics
+
+Course Management System: TBD
+
+Instructors: Xinting Huang and Michael Hahn
+
+Time: Mo 16:15–17:45 
+
+Room: Building C7.3 Room 1.14
+
 # Syllabus
 
 TBD. A few relevant papers. We will expand this.
@@ -40,26 +50,27 @@ Scaling laws and emergence:
 * https://arxiv.org/abs/2001.08361
 
 Formal languages as a tool for understanding transformers' limitations:
-* Survey by Strobl et al https://arxiv.org/abs/2311.00208
-* Difficulty of Parity: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in
-* Bound by TC0: Merrill et al https://arxiv.org/abs/2207.00729
-* Benefit of Depth: Merrill et al https://arxiv.org/abs/2503.03961
+* [Survey by Strobl et al](https://arxiv.org/abs/2311.00208)
+* [Difficulty of Parity](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in)
+* [Bound by TC0: Merrill et al](https://arxiv.org/abs/2207.00729)
+* Benefit of Depth: [Merrill et al](https://arxiv.org/abs/2503.03961), [Yang et al](https://arxiv.org/abs/2506.16055)
 
-Limitations affecting LLM performance:
-* Veitsman et al https://arxiv.org/abs/2505.21785
+Theoretical results and  LLM performance:
+* [Veitsman et al](https://arxiv.org/abs/2505.21785)
+* [Hu et al](https://arxiv.org/abs/2502.19249)
 
 
 Chain of Thought:
 
-* Li et al, https://openreview.net/forum?id=3EWTEy9MTM
-* Feng et al, https://arxiv.org/abs/2305.15408
-* Merrill et al, https://arxiv.org/abs/2310.07923
-* Amiri et al, https://arxiv.org/abs/2502.02393
+* [Li et al](https://openreview.net/forum?id=3EWTEy9MTM)
+* [Feng et al](https://arxiv.org/abs/2305.15408)
+* [Merrill et al](https://arxiv.org/abs/2310.07923)
+* [Amiri et al](https://arxiv.org/abs/2502.02393)
 
 Learning and Generalization:
 
-* Length generalization: Zhou et al https://arxiv.org/abs/2310.16028 and follow-up, Huang, Yang et al https://openreview.net/forum?id=U49N5V51rU
-* Sensitivity: Bhattamishra et al https://arxiv.org/abs/2211.12316 ; Hahn and Rofin https://arxiv.org/abs/2402.09963
+* Length generalization: [Zhou et al](https://arxiv.org/abs/2310.16028) and follow-up, [Huang, Yang et al](https://openreview.net/forum?id=U49N5V51rU)
+* Sensitivity: [Bhattamishra et al](https://arxiv.org/abs/2211.12316) ; [Hahn and Rofin](https://arxiv.org/abs/2402.09963)
 
 
 
