@@ -19,7 +19,7 @@ This seminar will not presuppose knowledge of any of these fields. However, a wi
 We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt, Minsky, Angluin, Valiant, Hinton, Bengio, LeCun, and Pearl**. In a field obsessed with the latest preprint reading old papers might be a very unique experience — but our hope is that the takeaways will prove useful, maybe even generative. By studying where ideas came from (and how they were nearly lost), you may come away with **a deeper appreciation of today’s models — and new ways to think about the next generation of models.**
 
 
-**Course Management System:** [CMS](https://cms.sic.saarland/theory_2526/) TBD
+**Course Management System:** [CMS](https://cms.sic.saarland/milestones_2526/)
 
 **Instructors:** Yash Sarrof (Michael Hahn + Alexander Koller group)
 
@@ -28,9 +28,9 @@ We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt
 **Room:** Building C7 3 - Seminar Room 1.14
 
 **Registration:**
-* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/). Admissions decision will be made around the end of the first week of the semester.
+* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/milestones_2526/). Admissions decision will be made around the end of the first week of the semester.
 
-* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing ysarrof@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/) once you were selected by the assignment system or otherwise admitted by us.
+* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing ysarrof@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/milestones_2526/) once you were selected by the assignment system or otherwise admitted by us.
 
 
 ## Syllabus
