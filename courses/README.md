@@ -3,6 +3,7 @@
 ## Upcoming
 
 * Winter 2025/26 Seminar [Theoretical Abilities and Limitations of Language Models](../courses/theory-2025/) (Xinting Huang).
+* Winter 2025/26 Seminar [Milestones in Machine Learning](../courses/classics-25/) (Yash Sarrof)
 * Winter 2025/26 Lecture [Foundations of Mathematics](https://cms.sic.saarland/fof_math_2526/) (Michael Hahn).
 
 ## Current

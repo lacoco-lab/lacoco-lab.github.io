@@ -16,172 +16,148 @@ We'll ask:
 This seminar will not presuppose knowledge of any of these fields. However, a willingness to engage with technical content is important.
 
 
-We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt, Minsky, Angluin, Valiant, Hinton, Bengio, LeCun, and Pearl**. Reading these old papers might *feel* like a waste of time in a field obsessed with the latest preprint — but our hope is that the takeaways will prove useful, maybe even generative. By studying where ideas came from (and how they were nearly lost), you may come away with **a deeper appreciation of today’s models — and new ways to think about the next generation of models.**
+We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt, Minsky, Angluin, Valiant, Hinton, Bengio, LeCun, and Pearl**. In a field obsessed with the latest preprint reading old papers might be a very unique experience — but our hope is that the takeaways will prove useful, maybe even generative. By studying where ideas came from (and how they were nearly lost), you may come away with **a deeper appreciation of today’s models — and new ways to think about the next generation of models.**
 
 
 **Course Management System:** [CMS](https://cms.sic.saarland/theory_2526/) TBD
 
-**Instructors:** Yash Sarrof and Michael Hahn
+**Instructors:** Yash Sarrof (Michael Hahn + Alexander Koller group)
 
-**Time:** TBD
+**Time:** Every Wednesday (Starting 15th October), 16:15 to 17:45
 
-**Room:** TBD
+**Room:** Building C7 3 - Seminar Room 1.14
 
 **Registration:**
-* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/). TBD Admissions decision will be made around the end of the first week of the semester.
+* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/). Admissions decision will be made around the end of the first week of the semester.
 
-* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/) TBD once you were selected by the assignment system or otherwise admitted by us.
+* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing ysarrof@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/) once you were selected by the assignment system or otherwise admitted by us.
 
 
 ## Syllabus
----
 
-## Weekly Syllabus
+Each week covers foundational work in AI, ML, or NLP, presented by students and followed by discussion. Pairings are based on thematic coherence. This list is not binding, and depending on the interest of participants, we might substitute a paper here and there or break up the contents of a session over multiple weeks. 
 
-Each week covers foundational work in AI, ML, or NLP, presented by students and followed by discussion. Pairings are based on thematic coherence. 
-Welcome to change the list.
-
-### **some background**
-Might teach for 2-3 weeks, concepts that will be used across the papers. 
-
-
-### **Week 1 – Computation and Intelligence**
+### **Week 1 - Introduction to the Seminar**
+### **Week 2-3 - Background Concepts**
+### **Week 4 – Computation and Intelligence**
 - Turing (1936): *On Computable Numbers*
 - Turing (1950): *Computing Machinery and Intelligence*
 
-### **Week 2 – Information and Early AI**
+### **Week 5 – Information and Early AI**
 - Shannon (1948): *A Mathematical Theory of Communication*
-- Arthur Samuel (1959): *Some Studies in Machine Learning Using the Game of Checkers*
+- [Optional] Arthur Samuel (1959): *Some Studies in Machine Learning Using the Game of Checkers*
 
-### **Week 3 – Language: Structure vs. Distribution**
+### **Week 6 – Language: Structure vs. Distribution**
 - Zellig Harris (1954): *Distributional Structure*
 - Noam Chomsky (1956): *Three Models for the Description of Language*
 
-### **Week 4 – The Perceptron and the First AI Winter**
+### **Week 7 – The Perceptron and the First AI Winter**
 - Rosenblatt (1958): *The Perceptron*
-- Minsky & Papert (1969): *Perceptrons*
+- Minsky & Papert (1969): *Perceptrons* (Book, recommended reading in general, if you are interested in theory)
 
-### **Week 5 – Symbolic Reasoning and Natural Language**
+### **Week 8 – Symbolic Reasoning and Natural Language**
 - Minsky (1961): *Steps Toward Artificial Intelligence*
-- Winograd (1972): *Understanding Natural Language (SHRDLU)*
+- Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1]
 
-### **Week 6 – Formal Models of Learnability**
+### **Week 9 – Formal Models of Learnability**
 - Gold (1967): *Language Identification in the Limit*
 - Angluin (1980): *Inductive Inference of Formal Languages from Positive Data*
 
-### **Week 7 – Learning and Generalization: Theory Meets Computation**
-- Solomonoff (1964): *A Formal Theory of Inductive Inference*
+### **Week 10 – Learning and Generalization: Theory Meets Computation**
+- Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I*
 - Valiant (1984): *A Theory of the Learnable*
 
-### **Week 8 – Birth of Deep Learning**
+### **Week 11 – Birth of Deep Learning**
 - Rumelhart, Hinton, Williams (1986): *Learning Representations by Back-Propagating Errors*
 - LeCun et al. (1989): *Backpropagation Applied to Handwritten Zip Code Recognition*
 - Bengio et al. (2007): *Greedy Layer-Wise Training of Deep Networks*
 
-### **Week 9**
-- Some papers from 2000's maybe in complexity class / ci
-- some other papers we can think of, need to think more about this. 
 
----
 
-## Evaluation
+## Questions about readings
 
-### 4 CP version:
-- **Presentation**: 60%  
-- **Weekly reading questions**: 40%
-
-### 7 CP version:
-- **Presentation**: 30%  
-- **Reading questions**: 20%  
-- **Final paper/project**: 50%
-
----
-
-## Weekly Reading Questions
+Please register on the forum on CMS (link will be added here soon) for posting questions.
+Starting from Week 4, every student submits one question about the readings by Tuesday noon.
+Students can also submit a few more questions, the grade will be calculated as the highest score among questions (so you can also ask some basic questions on which you want clarification).
 
 - Submit **one question per week** (by Tuesday at noon).
 - Grading:
   - 0 = not submitted  
   - 1 = superficial  
   - 2 = thoughtful / insightful
-- You're welcome to submit more than one — the highest score will count.
 
----
 
 ## Presentations
 
-- Students present in **pairs**.
-- Provide:
-  - Historical context
-  - Motivation and key contributions
-  - Technical novelty at the time
-  - Critical analysis
-  - Connections to other papers
-- Encourage and moderate **discussion throughout**.
+- Each week students present in **pairs**. 
 - Target: **45 min presentation + 30–40 min discussion**
 
----
+
+Not all papers are equally difficult, and evaluation will take this into account. For shorter and more accessible papers, presentations are expected to go into greater detail: explain the background concepts thoroughly, give more context about the state of the field at the time, and walk the audience carefully through the technical contributions. For longer or more technically challenging papers, the expectations are more flexible — you are not required to cover every detail. Instead, focus on helping the class understand the main ideas, why they mattered, and how they connect to the broader history of AI. In these cases, evaluation will be more lenient, since the goal is learning rather than exhaustive coverage.
+
+In general, presentations should emphasize big-picture findings, motivations, and key results rather than trying to reproduce all the technical minutiae. For example, rather than listing every number from a results table, highlight the takeaways. If a paper contains multiple similar experiments, you may choose a representative subset. Conversely, if a paper is largely a review or conceptual piece, you are encouraged to bring in material from its references to enrich the discussion.
+
+When preparing your talk, ask yourself: What problem was the paper trying to solve? Why was this approach novel or controversial at the time? How did it influence later work? Background explanations of key concepts are strongly encouraged, especially if you expect your classmates to be unfamiliar with them. You should also critically engage with the reading: do you agree with the authors’ assumptions, arguments, or conclusions? What do you think they missed?
+
+Presentations will typically be done in pairs. In that case, avoid splitting the session into two disconnected halves; instead, coordinate to draw connections between the papers and highlight similarities or contrasts. Since you have ample time (~45 minutes presentation plus 30–40 minutes discussion), speak at a pace that the audience can follow, illustrate points with examples, and don’t hesitate to repeat important ideas. Remember: the purpose of the presentation is communication. If the audience cannot follow, the effort is wasted for both presenter and listener.
+
+A key component of the presentation is facilitating discussion. Don’t leave all questions to the end; engage the audience throughout, refer to the questions submitted on the forum, and invite comments. Think carefully about what aspects of the paper will spark debate or curiosity. Likewise, when attending other students’ talks, you are expected to participate actively in the discussion.
+
+## Final Papers (for the 7 CP version)
+
+Students taking the 7 CP version will complete a term paper based on a small, well-scoped independent project. The aim isn’t to produce a publishable breakthrough, but to explore a question that links the seminar’s historical readings to present-day methods, evidence, or debates. Many of the works we’ll read try to make fuzzy ideas more precise — for example, by turning broad questions about learning, language, or intelligence into definitions, theorems, or algorithms. A good project might take one of these formalizations and see how well its assumptions hold up in practice, reinterpret it using modern tools, or even suggest a different way the same problem could have been framed. For instance, you might revisit Gold’s “identification in the limit” and ask what it would look like in probabilistic terms, or compare Chomsky’s structuralist view of grammar with the distributional approaches that came later.
+Projects can take many forms — reproducing an old experiment, running a small modern experiment inspired by a classic paper, or writing a careful conceptual analysis. What ties them together is that each project should use the readings as a starting point to think about how ideas are framed, what those framings highlight, and what they leave out.
+At the end of each week’s session, I encourage you to reflect — on your own or with classmates — about what kinds of projects the readings suggest. Often the best ideas come from simple questions like: “What did this formalization leave out?” or “How else could we capture the same intuition today?”
+
+### Deliverable & format
+
+**Report**: up to 8 pages main text (self-contained) in NeurIPS style, with unlimited appendix for prompts, code snippets, extra figures/analyses.
+
+**Content**: 
+  - Brief literature review (situating your question in the classic readings)
+  - Motivation
+  - Methods
+  - Results
+  - Discussion/limitations
+
+**Evidence**: Some quantitative or systematic qualitative validation is expected (e.g., small experiments, ablations, error analyses).
+
+**Submission**: via CMS. Due: March end, 2026
+
+
+Target something you can complete with modest compute and time: 1–2 datasets or a small synthetic corpus, and a clear evaluation plan. If using large models/APIs, keep runs minimal and reproducible; prefer open-source baselines where possible.
+
+How it’s graded (high level).
+- Grounding in seminar readings & historical framing (connection and accuracy)
+- Clarity of question and appropriateness of method
+- Rigor of analysis (metrics, controls, or systematic qualitative protocol)
+- Insightfulness of discussion (what the results say about the historical claim/idea)
+- Writing quality and reproducibility (appendix artifacts, seeds, configs)
+
+
+## Attendance
+
+Active participation is expected in every seminar session. You may miss up to two sessions without providing justification. For each additional session missed beyond that, you must submit a short (~500 words) writeup summarizing your thoughts on the paper(s) discussed in the session you missed.
+
 ## Evaluation
 
 ***Important: Study programs may differ in which versions of the class you can take. Please check with your study program coordinator if in doubt.***
 
 For students taking the seminar for 4 credits:
 
-    Presentation: 60%
-    Questions about readings: 40%
+    Presentation: 40%
+    Questions about readings: 30%
+    Participation in class: 30%
 
 For students taking the seminar for 7 credits:
 
-    Presentation: 30%
-    Questions about readings: 20%
+    Presentation: 20%
+    Questions about readings: 15%
+    Participation in class: 15%
     Final paper: 50%
 
-### Questions
-
-Please register on the forum on CMS.
-
-Starting from the fourth week, every student submits one question about the readings by Tuesday noon.
-Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（So you can also ask some basic questions that you want clarification.
-
-### Presentations
-
-We expect that presentations will cover the key points from the readings, such as the main evidence for and against the key claims under consideration in the paper.
-
-We do not expect that presentations will cover all details of the papers. Rather, you should focus on big picture findings and conclusions, and are not expected to include every finding from the paper in your presentation.
-For instance, instead of a table of numbers, highlight key results.
-When there are multiple similar results in the paper, synthesize them.
-If the papers have many studies, you might select a presentative subset to explain the paper's conclusions.
-On the other hand, if the assigned papers primarily discuss/review other work, draw on material from the work cited to provide richer content and even details where useful. Also, sometimes there is just one paper in a seminar session, so you will have more time and may cover more details.
-
-Make sure to motivate the papers' research question(s).
-Give background on key concepts, and convey to the audience your understanding of why certain research decisions were made.
-
-Select what you consider the key points; you are not expected to cover every part of the paper exhaustively. Include details only to the extent that you believe them to be important.
-
-Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
-
-As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
-Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion. You will have sufficient time, so avoid speaking too fast for others to keep up, make sure your audience is following. You can do so by giving more examples, or simply repeating again. Making presentation is to convey information, if audience cannot follow, it's waste of time for both sides.
-Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to your audience will thus be important.
-Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
-Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
-Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
 
 
-### Final Papers (for the 7CP version)
-
-**Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
-
-Term papers will be about a small independent project.
-
-You will investigate some question about the abilities of language models.
-The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found. It's recommended to include quantitative validation of what you found, so that you show it's not an illusion.
-
-The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
-
-The report should be uploaded via CMS. The due date is October TBD, 2025, 23:59.
-
-Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas.
 
 ## Contact
 
@@ -190,4 +166,10 @@ Please contact Yash (ysarrof@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saar
 ## Accommodations
 
 If you need any accommodations due to a disability or chronic illness, please either contact Michael at mhahn@lst.uni-saarland.de or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/administration/diversity.html) of the university.
+
+
+
+
+
+
 
