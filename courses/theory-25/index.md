@@ -42,6 +42,27 @@ We will discuss recent research papers, both from our own group and from other g
 
 ## Syllabus
 
+| Date | Topic | Readings | Slides | Optional Material | Presenter |
+| --- | --- | --- | --- | --- | --- |
+| October 15, 2025 | no class |  |  |  |  |
+| October 22, 2025 | no class |  |  |  |  |
+| October 29, 2025 |  |  |  |  |  |
+| November 5, 2025 |  |  |  |  |  |
+| November 12, 2025 |  |  |  |  |  |
+| November 19, 2025 |  |  |  |  |  |
+| November 26, 2025 |  |  |  |  |  |
+| December 3, 2025 |  |  |  |  |  |
+| December 10, 2025 |  |  |  |  |  |
+| December 17, 2025 |  |  |  |  |  |
+| December 24, 2025 | no class |  |  |  |  |
+| December 31, 2025 | no class |  |  |  |  |
+| January 7, 2026 |  |  |  |  |  |
+| January 14, 2026 |  |  |  |  |  |
+| January 21, 2026 |  |  |  |  |  |
+| January 28, 2026 |  |  |  |  |  |
+| February 4, 2026 |  |  |  |  |  |
+
+
 TBD. A few relevant papers. We will expand this.
 
 **You are very welcome to propose readings that you are interested in, as long as they are related to the topic of the seminar! Please email us such suggestions.**
