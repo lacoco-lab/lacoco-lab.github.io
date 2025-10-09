@@ -7,7 +7,7 @@ Modern AI feels like it’s everywhere — models that write, speak, see, play g
 This seminar takes a step back — and way back — to understand how machine learning and language technology evolved: both technically as well as philosophically. We’ll examine the early hopes, dead ends, breakthroughs, and rediscoveries that brought us to today's transformer-based models
 
 We'll ask:
-- What did early AI researchers believe language and learning were?
+- What did early AI researchers believe language and learning were ?
 - Why were neural networks once declared useless — and then revived to define modern AI?
 - What kinds of research actually shifted paradigms?
 - Are we at a similar inflection point today?
@@ -21,7 +21,7 @@ We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt
 
 **Course Management System:** [CMS](https://cms.sic.saarland/milestones_2526/)
 
-**Instructors:** Yash Sarrof (Michael Hahn + Alexander Koller group)
+**Instructors:** Yash Sarrof
 
 **Time:** Every Wednesday (Starting 15th October), 16:15 to 17:45
 
@@ -36,42 +36,62 @@ We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt
 ## Syllabus
 
 Each week covers foundational work in AI, ML, or NLP, presented by students and followed by discussion. Pairings are based on thematic coherence. This list is not binding, and depending on the interest of participants, we might substitute a paper here and there or break up the contents of a session over multiple weeks. 
+g
 
-### **Week 1 - Introduction to the Seminar**
-### **Week 2-3 - Background Concepts**
-### **Week 4 – Computation and Intelligence**
+#### **Theme 1 – Computation and Intelligence**
 - Turing (1936): *On Computable Numbers*
 - Turing (1950): *Computing Machinery and Intelligence*
 
-### **Week 5 – Information and Early AI**
+#### **Theme 2 – Information and Early AI**
 - Shannon (1948): *A Mathematical Theory of Communication*
 - [Optional] Arthur Samuel (1959): *Some Studies in Machine Learning Using the Game of Checkers*
 
-### **Week 6 – Language: Structure vs. Distribution**
+#### **Theme 3 – Language: Structure vs. Distribution**
 - Zellig Harris (1954): *Distributional Structure*
 - Noam Chomsky (1956): *Three Models for the Description of Language*
 
-### **Week 7 – The Perceptron and the First AI Winter**
+#### **Theme 4 – The Perceptron and the First AI Winter**
 - Rosenblatt (1958): *The Perceptron*
 - Minsky & Papert (1969): *Perceptrons* (Book, recommended reading in general, if you are interested in theory)
 
-### **Week 8 – Symbolic Reasoning and Natural Language**
+#### **Theme 5 – Symbolic Reasoning and Natural Language**
 - Minsky (1961): *Steps Toward Artificial Intelligence*
 - Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1]
 
-### **Week 9 – Formal Models of Learnability**
+#### **Theme 6 – Formal Models of Learnability**
 - Gold (1967): *Language Identification in the Limit*
 - Angluin (1980): *Inductive Inference of Formal Languages from Positive Data*
 
-### **Week 10 – Learning and Generalization: Theory Meets Computation**
+#### **Theme 7 – Learning and Generalization: Theory Meets Computation**
 - Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I*
 - Valiant (1984): *A Theory of the Learnable*
 
-### **Week 11 – Birth of Deep Learning**
+#### **Theme 8 – Birth of Deep Learning**
 - Rumelhart, Hinton, Williams (1986): *Learning Representations by Back-Propagating Errors*
 - LeCun et al. (1989): *Backpropagation Applied to Handwritten Zip Code Recognition*
 - Bengio et al. (2007): *Greedy Layer-Wise Training of Deep Networks*
 
+
+## Tentative Schedule
+
+| Date  | Topic/Theme | Readings | Slides | Presenters |
+|-------|-------------|----------|---------|------------|
+| 15.10 | Introduction | | | |
+| 22.10 | Background [Optional] | | | |
+| 29.10 | **Theme 1** – Computation and Intelligence | Turing (1936): *On Computable Numbers*; Turing (1950): *Computing Machinery and Intelligence* | | |
+| 5.11  | **Theme 2** – Information and Early AI | Shannon (1948): *A Mathematical Theory of Communication*; [Optional] Arthur Samuel (1959): *Some Studies in Machine Learning Using the Game of Checkers* | | |
+| 12.11 | **Theme 3** – Language: Structure vs. Distribution | Zellig Harris (1954): *Distributional Structure*; Noam Chomsky (1956): *Three Models for the Description of Language* | | |
+| 19.11 | **Theme 4** – The Perceptron and the First AI Winter | Rosenblatt (1958): *The Perceptron*; Minsky & Papert (1969): *Perceptrons* (Book, recommended reading in general, if you are interested in theory) | | |
+| 26.11 | **Theme 5** – Symbolic Reasoning and Natural Language | Minsky (1961): *Steps Toward Artificial Intelligence*; Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1] | | |
+| 3.12  | No Class | | | |
+| 10.12 | Background for 2nd half | | | |
+| 17.12 | **Theme 6** – Formal Models of Learnability | Gold (1967): *Language Identification in the Limit* | | |
+| 24.12 | No Class | | | |
+| 31.12 | No Class | | | |
+| 7.01  | **Theme 6** – Formal Models of Learnability (cont.) | Angluin (1980): *Inductive Inference of Formal Languages from Positive Data* | | |
+| 14.01 | **Theme 7** – Learning and Generalization: Theory Meets Computation | Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I* | | |
+| 21.01 | **Theme 7** – Learning and Generalization: Theory Meets Computation (cont.) | Valiant (1984): *A Theory of the Learnable* | | |
+| 28.01 | Discussion, Closing Thoughts + Final Paper Discussions | | | |
 
 
 ## Questions about readings
