@@ -43,7 +43,7 @@ We will discuss recent research papers, both from our own group and from other g
 
 ## Syllabus
 
-**Preliminary, Subject to change**
+Subject to minor changes
 
 | Date | Topic | Readings | Slides | Optional Material | Presenter |
 | --- | --- | --- | --- | --- | --- |
