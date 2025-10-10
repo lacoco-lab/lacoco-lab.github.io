@@ -39,6 +39,7 @@ We will discuss recent research papers, both from our own group and from other g
 
 * If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/) once you were selected by the assignment system or otherwise admitted by us.
 
+* **In both cases**, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSefoXLB-nR_TNplGNt_N1JfjVUhgfV_2htvSgB7sMR2HobcaA/viewform?usp=header) with your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 ## Syllabus
 
