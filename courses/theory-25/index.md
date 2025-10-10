@@ -53,9 +53,10 @@ We will discuss recent research papers, both from our own group and from other g
 | November 12, 2025 | Expressivity | Theoretical Limitations of Self-Attention in Neural Sequence Models [Hahn](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in) |  |  |  |
 | November 19, 2025 | Expressivity | The Parallelism Tradeoff: Limitations of Log-Precision Transformers [Merrill et al](https://arxiv.org/abs/2207.00729) |  |  |  |
 | November 26, 2025 | Learnability | Why are Sensitive Functions Hard for Transformers? [Hahn and Rofin](https://arxiv.org/abs/2402.09963) |  | [Bhattamishra et al](https://arxiv.org/abs/2211.12316) |  |
-| December 3, 2025 | Length Generalization | What Algorithms can Transformers Learn? A Study in Length Generalization [Zhou et al](https://arxiv.org/abs/2310.16028) |  |  |  |
-| December 10, 2025 | Length Generalization | A Formal Framework for Understanding Length Generalization in Transformers [Huang, Yang et al](https://arxiv.org/abs/2410.02140) |  | [Veitsman et al](https://arxiv.org/abs/2505.21785) |  |
-| December 17, 2025 | Inductive bias | Exposing Attention Glitches with Flip-Flop Language Modeling [Liu et al](https://arxiv.org/abs/2306.00946) |  |  |  |
+| December 3, 2025 | Inductive bias | Exposing Attention Glitches with Flip-Flop Language Modeling [Liu et al](https://arxiv.org/abs/2306.00946) |  |  |  |
+| December 10, 2025 | Length Generalization | What Algorithms can Transformers Learn? A Study in Length Generalization [Zhou et al](https://arxiv.org/abs/2310.16028) |  |  |  |
+| December 17, 2025 | Length Generalization | A Formal Framework for Understanding Length Generalization in Transformers [Huang, Yang et al](https://arxiv.org/abs/2410.02140) |  | [Veitsman et al](https://arxiv.org/abs/2505.21785) |  |
+
 | December 24, 2025 | no class |  |  |  |  |
 | December 31, 2025 | no class |  |  |  |  |
 | January 7, 2026 | CoT | Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [Feng et al](https://arxiv.org/abs/2305.15408) |  |  |  |
