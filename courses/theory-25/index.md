@@ -42,34 +42,35 @@ We will discuss recent research papers, both from our own group and from other g
 
 ## Syllabus
 
+**Preliminary, Subject to change**
+
 | Date | Topic | Readings | Slides | Optional Material | Presenter |
 | --- | --- | --- | --- | --- | --- |
 | October 15, 2025 | no class |  |  |  |  |
 | October 22, 2025 | no class |  |  |  |  |
-| October 29, 2025 |  |  |  |  |  |
-| November 5, 2025 |  |  |  |  |  |
-| November 12, 2025 |  |  |  |  |  |
-| November 19, 2025 |  |  |  |  |  |
-| November 26, 2025 |  |  |  |  |  |
-| December 3, 2025 |  |  |  |  |  |
-| December 10, 2025 |  |  |  |  |  |
-| December 17, 2025 |  |  |  |  |  |
+| October 29, 2025 | Short intro, Q&A | No readings |  |  |  |
+| November 5, 2025 |  Expressivity | Thinking Like Transformers [Weiss et al](https://arxiv.org/abs/2106.06981) |  |  |  |
+| November 12, 2025 | Expressivity | Theoretical Limitations of Self-Attention in Neural Sequence Models [Hahn](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in) |  |  |  |
+| November 19, 2025 | Expressivity | The Parallelism Tradeoff: Limitations of Log-Precision Transformers [Merrill et al](https://arxiv.org/abs/2207.00729) |  |  |  |
+| November 26, 2025 | Learnability | Why are Sensitive Functions Hard for Transformers? [Hahn and Rofin](https://arxiv.org/abs/2402.09963) |  | [Bhattamishra et al](https://arxiv.org/abs/2211.12316) |  |
+| December 3, 2025 | Length Generalization | What Algorithms can Transformers Learn? A Study in Length Generalization [Zhou et al](https://arxiv.org/abs/2310.16028) |  |  |  |
+| December 10, 2025 | Length Generalization | A Formal Framework for Understanding Length Generalization in Transformers [Huang, Yang et al](https://arxiv.org/abs/2410.02140) |  | [Veitsman et al](https://arxiv.org/abs/2505.21785) |  |
+| December 17, 2025 | Inductive bias | Exposing Attention Glitches with Flip-Flop Language Modeling [Liu et al](https://arxiv.org/abs/2306.00946) |  |  |  |
 | December 24, 2025 | no class |  |  |  |  |
 | December 31, 2025 | no class |  |  |  |  |
-| January 7, 2026 |  |  |  |  |  |
-| January 14, 2026 |  |  |  |  |  |
-| January 21, 2026 |  |  |  |  |  |
-| January 28, 2026 |  |  |  |  |  |
-| February 4, 2026 |  |  |  |  |  |
+| January 7, 2026 | CoT | Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [Feng et al](https://arxiv.org/abs/2305.15408) |  |  |  |
+| January 14, 2026 | CoT | Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers [Amiri et al](https://arxiv.org/abs/2502.02393) |  |  |  |
+| January 21, 2026 | SSMs | The Illusion of State in State-Space Models [Merrill et al](https://arxiv.org/abs/2404.08819)  |  | [Sarrof et al](https://arxiv.org/abs/2405.17394) |  |
 
 
-TBD. A few relevant papers. We will expand this.
 
 **You are very welcome to propose readings that you are interested in, as long as they are related to the topic of the seminar! Please email us such suggestions.**
 
+
+There are also many other great papers, which we don't have time to cover them in the seminar. But we encourage you to read, for example:
+
 The path to AGI:
 * https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/
-
 
 Scaling laws and emergence:
 
@@ -79,8 +80,6 @@ Scaling laws and emergence:
 
 Formal languages as a tool for understanding transformers' limitations:
 * [Survey by Strobl et al](https://arxiv.org/abs/2311.00208)
-* [Difficulty of Parity](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in)
-* [Bound by TC0: Merrill et al](https://arxiv.org/abs/2207.00729)
 * Benefit of Depth: [Merrill et al](https://arxiv.org/abs/2503.03961), [Yang et al](https://arxiv.org/abs/2506.16055)
 
 Theoretical results and  LLM performance:
@@ -91,14 +90,11 @@ Theoretical results and  LLM performance:
 Chain of Thought:
 
 * [Li et al](https://openreview.net/forum?id=3EWTEy9MTM)
-* [Feng et al](https://arxiv.org/abs/2305.15408)
 * [Merrill et al](https://arxiv.org/abs/2310.07923)
-* [Amiri et al](https://arxiv.org/abs/2502.02393)
 
 Learning and Generalization:
 
-* Length generalization: [Zhou et al](https://arxiv.org/abs/2310.16028) and follow-up, [Huang, Yang et al](https://openreview.net/forum?id=U49N5V51rU)
-* Sensitivity: [Bhattamishra et al](https://arxiv.org/abs/2211.12316) ; [Hahn and Rofin](https://arxiv.org/abs/2402.09963)
+* Sensitivity: [Bhattamishra et al](https://arxiv.org/abs/2211.12316)
 
 
 
@@ -106,10 +102,8 @@ Learning and Generalization:
 
 SSMs as a competing architecture:
 
-* Merrill et al https://arxiv.org/abs/2404.08819
 * Grazzi, Siems, et al https://arxiv.org/abs/2411.12537
 * Yang et al, https://arxiv.org/abs/2505.16381
-*  Bhattamishra et al
 
 k-hop reasoning:
 
@@ -141,6 +135,10 @@ Questions are graded on a 3-point scale (0: no question submitted, 1: superficia
 
 ### Presentations
 
+Because most papers in this seminar require more effort than usual, we will discuss only one paper per week, with two students jointly presenting it. Each team should aim for a 40–60 minute presentation, followed by 30–40 minutes of discussion. You may organize and divide the presentation between the two presenters in any way you find appropriate. However, each student will be graded individually.
+
+Some papers are relatively easier than others, but presentations on those papers will be evaluated more strictly.
+
 We expect that presentations will cover the key points from the readings, such as the main evidence for and against the key claims under consideration in the paper.
 
 We do not expect that presentations will cover all details of the papers. Rather, you should focus on big picture findings and conclusions, and are not expected to include every finding from the paper in your presentation.
@@ -156,8 +154,7 @@ Select what you consider the key points; you are not expected to cover every par
 
 Critically engage with the reading: contribute your own opinion on the key findings, and on the paper's motivation and arguments. In what ways do or don't you agree with arguments made by the authors?
 
-As you'll be presenting in teams of two, don't just present the two papers separately, but make sure to also draw connections and compare.
-Aim for 40-60 minutes of presentation, allowing 30-40 minutes of discussion. You will have sufficient time, so avoid speaking too fast for others to keep up, make sure your audience is following. You can do so by giving more examples, or simply repeating again. Making presentation is to convey information, if audience cannot follow, it's waste of time for both sides.
+You will have sufficient time, so avoid speaking too fast for others to keep up, make sure your audience is following. You can do so by giving more examples, or simply repeating again. Making presentation is to convey information, if audience cannot follow, it's waste of time for both sides.
 Generating and moderating in-class discussion is a key component of your presentation -- thinking about what will be interesting to your audience will thus be important.
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. These may be useful for getting discussion started.
@@ -175,9 +172,9 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is October TBD, 2025, 23:59.
+The report should be uploaded via CMS. The due date is April TBD, 2026, 23:59.
 
-Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas.
+<!--Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas. -->
 
 ## Contact
 
