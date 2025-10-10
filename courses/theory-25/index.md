@@ -56,7 +56,6 @@ We will discuss recent research papers, both from our own group and from other g
 | December 3, 2025 | Inductive bias | Exposing Attention Glitches with Flip-Flop Language Modeling [Liu et al](https://arxiv.org/abs/2306.00946) |  |  |  |
 | December 10, 2025 | Length Generalization | What Algorithms can Transformers Learn? A Study in Length Generalization [Zhou et al](https://arxiv.org/abs/2310.16028) |  |  |  |
 | December 17, 2025 | Length Generalization | A Formal Framework for Understanding Length Generalization in Transformers [Huang, Yang et al](https://arxiv.org/abs/2410.02140) |  | [Veitsman et al](https://arxiv.org/abs/2505.21785) |  |
-
 | December 24, 2025 | no class |  |  |  |  |
 | December 31, 2025 | no class |  |  |  |  |
 | January 7, 2026 | CoT | Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [Feng et al](https://arxiv.org/abs/2305.15408) |  |  |  |
