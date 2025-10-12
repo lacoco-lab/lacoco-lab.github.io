@@ -48,8 +48,8 @@ Subject to minor changes
 | Date | Topic | Readings | Slides | Optional Material | Presenter |
 | --- | --- | --- | --- | --- | --- |
 | October 15, 2025 | no class |  |  |  |  |
-| October 22, 2025 | no class |  |  |  |  |
-| October 29, 2025 | Short intro, Q&A | No readings |  |  |  |
+| October 22, 2025 | Short intro, Q&A | No readings |  |  |  |
+| October 29, 2025 | no class |  |  |  |  |
 | November 5, 2025 |  Expressivity | Thinking Like Transformers [Weiss et al](https://arxiv.org/abs/2106.06981) |  |  |  |
 | November 12, 2025 | Expressivity | Theoretical Limitations of Self-Attention in Neural Sequence Models [Hahn](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in) |  |  |  |
 | November 19, 2025 | Expressivity | The Parallelism Tradeoff: Limitations of Log-Precision Transformers [Merrill et al](https://arxiv.org/abs/2207.00729) |  |  |  |
