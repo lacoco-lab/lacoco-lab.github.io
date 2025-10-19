@@ -16,7 +16,7 @@ We'll ask:
 This seminar will not presuppose knowledge of any of these fields. However, a willingness to engage with technical content is important.
 
 
-We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt, Minsky, Angluin, Valiant, Hinton, Bengio, LeCun, and Pearl**. In a field obsessed with the latest preprint reading old papers might be a very unique experience — but our hope is that the takeaways will prove useful, maybe even generative. By studying where ideas came from (and how they were nearly lost), you may come away with **a deeper appreciation of today’s models — and new ways to think about the next generation of models.**
+We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt, Minsky, Angluin, Valiant**. In a field obsessed with the latest preprint reading old papers might be a very unique experience — but our hope is that the takeaways will prove useful, maybe even generative. By studying where ideas came from (and how they were nearly lost), you may come away with **a deeper appreciation of today’s models — and new ways to think about the next generation of models.**
 
 
 **Course Management System:** [CMS](https://cms.sic.saarland/milestones_2526/)
@@ -44,7 +44,6 @@ g
 
 #### **Theme 2 – Information and Early AI**
 - Shannon (1948): *A Mathematical Theory of Communication*
-- [Optional] Arthur Samuel (1959): *Some Studies in Machine Learning Using the Game of Checkers*
 
 #### **Theme 3 – Language: Structure vs. Distribution**
 - Zellig Harris (1954): *Distributional Structure*
@@ -52,7 +51,7 @@ g
 
 #### **Theme 4 – The Perceptron and the First AI Winter**
 - Rosenblatt (1958): *The Perceptron*
-- Minsky & Papert (1969): *Perceptrons* (Book, recommended reading in general, if you are interested in theory)
+- Minsky & Papert (1969): *Perceptrons* (Book, Chapter - 6)
 
 #### **Theme 5 – Symbolic Reasoning and Natural Language**
 - Minsky (1961): *Steps Toward Artificial Intelligence*
@@ -62,14 +61,9 @@ g
 - Gold (1967): *Language Identification in the Limit*
 - Angluin (1980): *Inductive Inference of Formal Languages from Positive Data*
 
-#### **Theme 7 – Learning and Generalization: Theory Meets Computation**
+#### **Theme 7 – Learning and Generalization**
 - Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I*
 - Valiant (1984): *A Theory of the Learnable*
-
-#### **Theme 8 – Birth of Deep Learning**
-- Rumelhart, Hinton, Williams (1986): *Learning Representations by Back-Propagating Errors*
-- LeCun et al. (1989): *Backpropagation Applied to Handwritten Zip Code Recognition*
-- Bengio et al. (2007): *Greedy Layer-Wise Training of Deep Networks*
 
 
 ## Tentative Schedule
@@ -77,20 +71,20 @@ g
 | Date  | Topic/Theme | Readings | Slides | Presenters |
 |-------|-------------|----------|---------|------------|
 | 15.10 | Introduction | | | |
-| 22.10 | Background [Optional] | | | |
-| 29.10 | **Theme 1** – Computation and Intelligence | Turing (1936): *On Computable Numbers*; Turing (1950): *Computing Machinery and Intelligence* | | |
-| 5.11  | **Theme 2** – Information and Early AI | Shannon (1948): *A Mathematical Theory of Communication*; [Optional] Arthur Samuel (1959): *Some Studies in Machine Learning Using the Game of Checkers* | | |
-| 12.11 | **Theme 3** – Language: Structure vs. Distribution | Zellig Harris (1954): *Distributional Structure*; Noam Chomsky (1956): *Three Models for the Description of Language* | | |
-| 19.11 | **Theme 4** – The Perceptron and the First AI Winter | Rosenblatt (1958): *The Perceptron*; Minsky & Papert (1969): *Perceptrons* (Book, recommended reading in general, if you are interested in theory) | | |
-| 26.11 | **Theme 5** – Symbolic Reasoning and Natural Language | Minsky (1961): *Steps Toward Artificial Intelligence*; Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1] | | |
+| 22.10 | No Class | | | |
+| 29.10 | **Theme 1** – Computation and Intelligence | Turing (1936): *On Computable Numbers*; Turing (1950): *Computing Machinery and Intelligence* | | Zichao Wei, Antonia Wächter|
+| 5.11  | **Theme 2** – Information Theory | Shannon (1948): *A Mathematical Theory of Communication* | | He Zhu, Shane John Paul|
+| 12.11 | **Theme 3** – Language: Structure vs. Distribution | Zellig Harris (1954): *Distributional Structure*; Noam Chomsky (1956): *Three Models for the Description of Language* | | Mohammad Saqib Siddiqui, Yu-Hua Hu|
+| 19.11 | **Theme 4** – The Perceptron and the First AI Winter | Rosenblatt (1958): *The Perceptron*; Minsky & Papert (1969): *Perceptrons* (Book, Chapter 6) | | -, -|
+| 26.11 | **Theme 5** – Symbolic Reasoning and Natural Language | Minsky (1961): *Steps Toward Artificial Intelligence*; Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1] | | Yifang Li, Ayesha Ansar|
 | 3.12  | No Class | | | |
 | 10.12 | Background for 2nd half | | | |
-| 17.12 | **Theme 6** – Formal Models of Learnability | Gold (1967): *Language Identification in the Limit* | | |
+| 17.12 | **Theme 6** – Formal Models of Learnability | Gold (1967): *Language Identification in the Limit* | | -, -|
 | 24.12 | No Class | | | |
 | 31.12 | No Class | | | |
-| 7.01  | **Theme 6** – Formal Models of Learnability (cont.) | Angluin (1980): *Inductive Inference of Formal Languages from Positive Data* | | |
-| 14.01 | **Theme 7** – Learning and Generalization: Theory Meets Computation | Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I* | | |
-| 21.01 | **Theme 7** – Learning and Generalization: Theory Meets Computation (cont.) | Valiant (1984): *A Theory of the Learnable* | | |
+| 7.01  | **Theme 6** – Formal Models of Learnability (cont.) | Angluin (1980): *Inductive Inference of Formal Languages from Positive Data* | | Martha Schubert, Alena Tsanda|
+| 14.01 | **Theme 7** – Learning and Generalization | Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I* | | -, -|
+| 21.01 | **Theme 7** – Learning and Generalization | Valiant (1984): *A Theory of the Learnable* | | -, -|
 | 28.01 | Discussion, Closing Thoughts + Final Paper Discussions | | | |
 
 
