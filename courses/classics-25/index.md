@@ -65,9 +65,10 @@ g
 - Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I*
 - Solomonoff (1964): *A Formal Theory of Inductive Inference - Part II*
 - Valiant (1984): *A Theory of the Learnable*
+- Vapnik (1998): *An overview of Statistical Learning Theory*
 
 
-## Tentative Schedule
+## Schedule
 
 | Date  | Topic/Theme | Readings | Slides | Presenters |
 |-------|-------------|----------|---------|------------|
@@ -79,13 +80,13 @@ g
 | 19.11 | **Theme 4** – The Perceptron and the First AI Winter | Rosenblatt (1958): *The Perceptron*; Minsky & Papert (1969): *Perceptrons* (Book, Chapter 6) | | Franka Beyer, Meropi Lampropoulou|
 | 26.11 | **Theme 5** – Symbolic Reasoning and Natural Language | Minsky (1961): *Steps Toward Artificial Intelligence*; Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1] | | Yifang Li, Ayesha Ansar|
 | 3.12  | No Class | | | |
-| 10.12 | Background for 2nd half | | | |
-| 17.12 | **Theme 6** – Formal Models of Learnability | Gold (1967): *Language Identification in the Limit* | | -, -|
+| 10.12 | Background for 2nd half [Optional] | | | |
+| 17.12 | **Theme 6** – Formal Models of Learnability | Gold (1967): *Language Identification in the Limit* | | Kaushik Sengupta, Bekham Fallah|
 | 24.12 | No Class | | | |
 | 31.12 | No Class | | | |
 | 7.01  | **Theme 6** – Formal Models of Learnability (cont.) | Angluin (1980): *Inductive Inference of Formal Languages from Positive Data* | | Martha Schubert, Alena Tsanda|
-| 14.01 | **Theme 7** – Learning and Generalization | Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I* ; Solomonoff (1964): *A Formal Theory of Inductive Inference - Part II* | | Maura Gitayani, -|
-| 21.01 | **Theme 7** – Learning and Generalization | Valiant (1984): *A Theory of the Learnable* | | Syed Muhammad Hamza Raza|
+| 14.01 | **Theme 7** – Learning and Generalization | Solomonoff (1964): *A Formal Theory of Inductive Inference - Part I* ; Solomonoff (1964): *A Formal Theory of Inductive Inference - Part II* | | Maura Gitayani, Mathew Titus|
+| 21.01 | **Theme 7** – Learning and Generalization | Valiant (1984): *A Theory of the Learnable* ; Vapnik (1998): *An overview of Statistical Learning Theory*| | Syed Muhammad Hamza Raza, Gaffar Saeed|
 | 28.01 | Discussion, Closing Thoughts + Final Paper Discussions | | | |
 
 
@@ -170,8 +171,6 @@ For students taking the seminar for 7 credits:
     Questions about readings: 15%
     Participation in class: 15%
     Final paper: 50%
-
-
 
 
 ## Contact
