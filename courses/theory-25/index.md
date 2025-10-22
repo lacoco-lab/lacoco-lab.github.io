@@ -50,18 +50,18 @@ Subject to minor changes
 | October 15, 2025 | no class |  |  |  |  |
 | October 22, 2025 | Short intro, Q&A | No readings |  |  |  |
 | October 29, 2025 | no class |  |  |  |  |
-| November 5, 2025 |  Expressivity | Thinking Like Transformers [Weiss et al](https://arxiv.org/abs/2106.06981) |  |  |  |
-| November 12, 2025 | Expressivity | Theoretical Limitations of Self-Attention in Neural Sequence Models [Hahn](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in) |  |  |  |
-| November 19, 2025 | Expressivity | The Parallelism Tradeoff: Limitations of Log-Precision Transformers [Merrill et al](https://arxiv.org/abs/2207.00729) |  |  |  |
-| November 26, 2025 | Learnability | Why are Sensitive Functions Hard for Transformers? [Hahn and Rofin](https://arxiv.org/abs/2402.09963) |  | [Bhattamishra et al](https://arxiv.org/abs/2211.12316) |  |
-| December 3, 2025 | Inductive bias | Exposing Attention Glitches with Flip-Flop Language Modeling [Liu et al](https://arxiv.org/abs/2306.00946) |  |  |  |
-| December 10, 2025 | Length Generalization | What Algorithms can Transformers Learn? A Study in Length Generalization [Zhou et al](https://arxiv.org/abs/2310.16028) |  |  |  |
-| December 17, 2025 | Length Generalization | A Formal Framework for Understanding Length Generalization in Transformers [Huang, Yang et al](https://arxiv.org/abs/2410.02140) |  | [Veitsman et al](https://arxiv.org/abs/2505.21785) |  |
+| November 5, 2025 |  Expressivity | Thinking Like Transformers [Weiss et al](https://arxiv.org/abs/2106.06981) |  |  | Liliia, Anish |
+| November 12, 2025 | Expressivity | Theoretical Limitations of Self-Attention in Neural Sequence Models [Hahn](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in) |  |  | Florian, Rimsha |
+| November 19, 2025 | Expressivity | The Parallelism Tradeoff: Limitations of Log-Precision Transformers [Merrill et al](https://arxiv.org/abs/2207.00729) |  |  |  Asim, Aiman |
+| November 26, 2025 | Learnability | Why are Sensitive Functions Hard for Transformers? [Hahn and Rofin](https://arxiv.org/abs/2402.09963) |  | [Bhattamishra et al](https://arxiv.org/abs/2211.12316) | Zichao, Neshmia |
+| December 3, 2025 | Inductive bias | Exposing Attention Glitches with Flip-Flop Language Modeling [Liu et al](https://arxiv.org/abs/2306.00946) |  |  | Barbare, Shane  |
+| December 10, 2025 | Length Generalization | What Algorithms can Transformers Learn? A Study in Length Generalization [Zhou et al](https://arxiv.org/abs/2310.16028) |  |  | Mubeen, Yonghua |
+| December 17, 2025 | Length Generalization | A Formal Framework for Understanding Length Generalization in Transformers [Huang, Yang et al](https://arxiv.org/abs/2410.02140) |  | [Veitsman et al](https://arxiv.org/abs/2505.21785) | Shayan, Arvind  |
 | December 24, 2025 | no class |  |  |  |  |
 | December 31, 2025 | no class |  |  |  |  |
-| January 7, 2026 | CoT | Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [Feng et al](https://arxiv.org/abs/2305.15408) |  |  |  |
-| January 14, 2026 | CoT | Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers [Amiri et al](https://arxiv.org/abs/2502.02393) |  |  |  |
-| January 21, 2026 | SSMs | The Illusion of State in State-Space Models [Merrill et al](https://arxiv.org/abs/2404.08819)  |  | [Sarrof et al](https://arxiv.org/abs/2405.17394) |  |
+| January 7, 2026 | CoT | Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [Feng et al](https://arxiv.org/abs/2305.15408) |  |  | Usama, Ateeb |
+| January 14, 2026 | CoT | Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers [Amiri et al](https://arxiv.org/abs/2502.02393) |  |  | Malik, Entang  |
+| January 21, 2026 | SSMs | The Illusion of State in State-Space Models [Merrill et al](https://arxiv.org/abs/2404.08819)  |  | [Sarrof et al](https://arxiv.org/abs/2405.17394) | Hongxu, Martha |
 
 
 
