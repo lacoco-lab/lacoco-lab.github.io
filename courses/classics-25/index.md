@@ -28,15 +28,16 @@ We'll read classic work from figures like **Turing, Shannon, Chomsky, Rosenblatt
 **Room:** Building C7 3 - Seminar Room 1.14
 
 **Registration:**
-* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/milestones_2526/). Admissions decision will be made around the end of the first week of the semester.
 
-* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing ysarrof@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/milestones_2526/) once you were selected by the assignment system or otherwise admitted by us.
+**There are are no more spots left in the seminar.**
+* ~~If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/milestones_2526/). Admissions decision will be made around the end of the first week of the semester.~~
+
+* ~~If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing ysarrof@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/milestones_2526/) once you were selected by the assignment system or otherwise admitted by us.~~
 
 
 ## Syllabus
 
 Each week covers foundational work in AI, ML, or NLP, presented by students and followed by discussion. Pairings are based on thematic coherence. This list is not binding, and depending on the interest of participants, we might substitute a paper here and there or break up the contents of a session over multiple weeks. 
-g
 
 #### **Theme 1 – Computation and Intelligence**
 - Turing (1936): *On Computable Numbers*
@@ -92,8 +93,8 @@ g
 
 ## Questions about readings
 
-Please register on the forum on CMS (link will be added here soon) for posting questions.
-Starting from Week 4, every student submits one question about the readings by Tuesday noon.
+Please register on the [forum on CMS](https://pantera.cs.uni-saarland.de/invites/E5p8m63wao) for posting questions. 
+Every student must submit one question about the readings before each scheduled presentation session. The deadline is typically Tuesday at noon before the presentation day.
 Students can also submit a few more questions, the grade will be calculated as the highest score among questions (so you can also ask some basic questions on which you want clarification).
 
 - Submit **one question per week** (by Tuesday at noon).
