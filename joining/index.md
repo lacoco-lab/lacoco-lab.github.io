@@ -10,7 +10,7 @@ Student assistants in our lab are closely involved in research and often even le
 
 We offer fully funded PhD positions, usually for 4 years. 
 Our PhD students are affiliated with the [Saarbruecken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). 
-You can directly apply to our lab by email, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).
+For 2026 intake, please directly apply to our lab by email. <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
 
 PhD applicants are generally expected to already have an MSc by the time the PhD starts. Applicants without a Masters can nonetheless apply to the Saarbruecken Graduate School of Computer Science.
 
