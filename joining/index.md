@@ -10,10 +10,13 @@ Student assistants in our lab are closely involved in research and often even le
 
 We offer fully funded PhD positions. As is typical in Europe, PhDs are expected to take 3-4 years. 
 Our PhD students are affiliated with the [Saarbruecken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). 
-For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references).
+<!--For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references).-->
 <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
 
-PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc should instead apply to the Saarbruecken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
+**Applicants who will have an MSc by the start date of the PhD:** For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references). Admitted students will directly join our lab.
+
+**Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbruecken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
+<!--PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc s-->
 
 
 ### Joining  as an Intern
