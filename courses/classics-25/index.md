@@ -173,6 +173,10 @@ For students taking the seminar for 7 credits:
     Participation in class: 15%
     Final paper: 50%
 
+    
+
+***Important: You need to be registered on LSF for the correct version of the class in order to receive credit.***
+
 
 ## Contact
 
