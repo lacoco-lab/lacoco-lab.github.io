@@ -127,6 +127,8 @@ For students taking the seminar for 7 credits:
     Questions about readings: 20%
     Final paper: 50%
 
+***Important: You need to be registered on LSF for the correct version of the class in order to receive credit.***
+
 ### Questions
 
 Please register on the forum on CMS.
