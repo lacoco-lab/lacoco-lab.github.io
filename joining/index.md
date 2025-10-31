@@ -13,11 +13,16 @@ Our PhD students are affiliated with the [Saarbruecken Graduate School of Comput
 <!--For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references).-->
 <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
 
-**Applicants who will have an MSc by the start date of the PhD:** For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references). Admitted students will directly join our lab.
+**Applicants who will have an MSc by the start date of the PhD:** For 2026 intake, please directly apply to our lab by email. Admitted students will directly join our lab.
+
+In your email, please include CV, transcripts, a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group), and contact details of 2 or 3 references.
 
 **Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbruecken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
 <!--PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc s-->
 
+### Joining as a Postdoc
+
+The application process is the same as for PhD students.
 
 ### Joining  as an Intern
 
@@ -34,7 +39,7 @@ You can take a look at our recent papers in NeurIPS, ICLR, ICML, and COLM to get
 
 We expect applicants to have excellent programming skills, and strong grades in a relevant technical field (e.g., grades close to 1,0 in the German academic system; or strong GPAs from other countries).
 
-If you’re interested in joining, please send your CV and transcripts to Michael (mhahn@lst.uni-saarland.de).
+If you’re interested in joining, please send your application to Michael (mhahn@lst.uni-saarland.de).
 
 
 
