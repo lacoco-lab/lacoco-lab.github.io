@@ -9,15 +9,18 @@ Student assistants in our lab are closely involved in research and often even le
 ### Joining  as a PhD Student
 
 We offer fully funded PhD positions. As is typical in Europe, PhDs are expected to take 3-4 years. 
-Our PhD students are affiliated with the [Saarbruecken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). 
+Our PhD students are affiliated with the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). 
 <!--For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references).-->
 <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
+
+Our lab is generously funded by a prestigious Emmy Noether grant from the German Research Foundation. We have plenty of compute resources by academic standards.
+PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.
 
 **Applicants who will have an MSc by the start date of the PhD:** For 2026 intake, please directly apply to our lab by email. Admitted students will directly join our lab.
 
 In your email, please include CV, transcripts, a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group), and contact details of 2 or 3 references.
 
-**Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbruecken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
+**Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbrücken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
 <!--PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc s-->
 
 ### Joining as a Postdoc
