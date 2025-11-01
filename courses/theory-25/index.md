@@ -131,7 +131,7 @@ For students taking the seminar for 7 credits:
 
 ### Questions
 
-Please register on the forum on CMS.
+Please register on the forum on CMS (in CMS, you will see "forum" on the top toolbar, and reply in the forum to post questions).
 
 Starting from the fourth week, every student submits one question about the readings by Tuesday noon.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). Students can also submit a few more questions, the grade will be calculated as the highest score among questions.（So you can also ask some basic questions that you want clarification)
@@ -170,7 +170,7 @@ Conversely, when attending other students' talks, reciprocate by participating a
 
 Term papers will be about a small independent project.
 
-You will investigate some question about the abilities of language models.
+You will investigate some question about the abilities of language models. It can be a theoretical work, or an empirical project verifying insights from theoretical work.
 The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found. It's recommended to include quantitative validation of what you found, so that you show it's not an illusion.
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
