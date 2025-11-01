@@ -34,6 +34,7 @@ We take interns (undergraduate or graduate) around the year. If you’re an unde
 
 ### Which topics are we interested in?
 
+As a member of our group, you'd have substantial freedom in choosing your research topic.
 We are mostly interested in understanding the abilities, limitations, and inner workings of language models. 
 You can take a look at our recent papers in NeurIPS, ICLR, ICML, and COLM to get a feel for the kind of work you might be doing with us.
 
