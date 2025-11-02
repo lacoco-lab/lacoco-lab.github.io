@@ -14,7 +14,7 @@ Our PhD students are affiliated with the [Saarbrücken Graduate School of Comput
 <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
 
 Our lab is generously funded by a prestigious Emmy Noether grant from the German Research Foundation. We have plenty of compute resources by academic standards.
-PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.
+PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time. Start dates can be negotiated based on applicants' preferences and funding availability.
 
 **Applicants who will have an MSc by the start date of the PhD:** For 2026 intake, please directly apply to our lab by email. Admitted students will directly join our lab.
 
