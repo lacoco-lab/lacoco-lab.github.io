@@ -1,15 +1,12 @@
 # ELLIS Pre-NeurIPS Session at Saarbrücken, 2025
 
-
-TODO update to this year
-
 ## Information
 
-WHEN: November 25, 2024, 14:00-17:00
+WHEN: November 26, 2025, 13:00-16:00
 
-WHERE: [Building C7.4 at Saarland University Campus](https://www.uni-saarland.de/standort/saarbruecken/lageplan/gebaeude/c74.html), Conference Room 1.17 and Foyer
+WHERE: [Building C7.4 at Saarland University Campus](https://www.uni-saarland.de/standort/saarbruecken/lageplan/gebaeude/c74.html), Conference Room 1.17
 
-This event is part of [ELLIS Pre-NeurIPS Fest 2024](https://ellis.eu/news/ellis-pre-neurips-fest-2024-celebrate-connect-collaborate).
+This event is part of *ELLIS Pre-NeurIPS Fest 2025*
 
 ## Program
 
@@ -17,33 +14,25 @@ The following posters will be presented.
 
 | Title          | Authors               |
 | ------------- | ------------------- | 
-| [Auditing Empirical Privacy Protection of Private LLM Adaptations](https://openreview.net/forum?id=vFIC8Le5UH)		| Bartłomiej Marek, Vincent Hanke, Xun Wang, Michael Backes, Adam Dziedzic, Franziska Boenisch | 					
-| [B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable](https://arxiv.org/abs/2411.00715)		| Shreyash Arya, Sukrut Rao, Moritz Böhle, Bernt Schiele | 		
-| [How Do Training Methods Influence the Utilization of Vision Models?](https://arxiv.org/abs/2410.14470) | Paul Gavrikov, Shashank Agnihotri, Margret Keuper, Janis Keuper | 
-| [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394) | Yash Sarrof, Yana Veitsman, Michael Hahn | 
-| [Finding NeMo: Localizing Neurons Responsible For Memorization in Diffusion Models](https://arxiv.org/abs/2406.02366)	| Dominik Hintersdorf, Lukas Struppek, Kristian Kersting, Adam Dziedzic, Franziska Boenisch | 				
-| [InversionView: A General-Purpose Method for Reading Information from Neural Activations](https://arxiv.org/abs/2405.17653) | Xinting Huang, Madhur Panwar, Navin Goyal, Michael Hahn | 
-| [Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models](https://arxiv.org/abs/2409.17836) | Hui-Po Wang, Mario Fritz |
-| [Learning Better Representations From Less Data For Propositional Satisfiability](https://arxiv.org/abs/2402.08365)		| Mohamed Ghanem, Frederik Schmitt, Julian Siber, Bernd Finkbeiner | 		
-| [LLM Dataset Inference: Detect Datasets, not Strings](https://arxiv.org/abs/2406.06443)		| Pratyush Maini, Hengrui Jia, Nicolas Papernot, Adam Dziedzic | 			
-| [Localizing Memorization in SSL Vision Encoders](https://arxiv.org/abs/2409.19069)		| Wenhao Wang, Adam Dziedzic, Michael Backes, Franziska Boenisch | 								
-| 	[Open LLMs are Necessary for Private Adaptations and Outperform their Closed Alternatives](https://openreview.net/pdf?id=pLpb6hGOif#:~:text=In%20summary%2C%20our%20results%20highlight,%2C%20and%20more%20cost%2Deffective.)	| Vincent Hanke, Tom Blanchard, Franziska Boenisch, Iyiola Emmanuel Olatunji, Michael Backes, Adam Dziedzic |			
-| [Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets](https://arxiv.org/abs/2408.12489) | Wolfgang Boettcher, Lukas Hoyer, Ozan Unal, Jan Eric Lenssen, Bernt Schiele  |
-| [Separations in the Representational Capabilities of Transformers and Recurrent Architectures](https://arxiv.org/abs/2406.09347) | Satwik Bhattamishra, Michael Hahn, Phil Blunsom, Varun Kanade | 
-| 	[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring](https://openreview.net/forum?id=g6v09VxgFw)		| Celia Rubio-Madrigal, Adarsh Jamadandi, Rebekka Burkholz | 					
-| [Spectral Graph Pruning Against Over-Squashing and Over-Smoothing](https://arxiv.org/abs/2404.04612)	| Adarsh Jamadandi, Celia Rubio-Madrigal and Rebekka Burkholz | 														
-| [Stabilized Proximal Point Methods for Federated Optimization](https://arxiv.org/abs/2407.07084) | Xiaowen Jiang, Anton Rodomanov, Sebastian U. Stich | 
-| 	[Training GNNs in Balance by Dynamic Rescaling](https://openreview.net/forum?id=IfZwSRpqHl&noteId=ntdwzEoHV1#)	| Nimrah Mustafa, Rebekka Burkholz | 																									
-| [Universality of AdaGrad Stepsizes for Stochastic Optimization: Inexact Oracle, Acceleration and Variance Reduction](https://arxiv.org/abs/2406.06398) | Anton Rodomanov, Xiaowen Jiang, Sebastian Stich | 
-| [Pruning neural network models for gene regulatory dynamics using data and domain knowledge](https://arxiv.org/abs/2403.04805v2) | Intekhab Hossain, Jonas Fischer, Rebekka Burkholz, John Quackenbush |
-| [Causal Discovery from Event Sequences by Local Cause-Effect Attribution](https://eda.rg.cispa.io/pubs/2024/cascade-cueppers,xu,musa,vreeken.pdf) | Joscha Cüppers, Sascha Xu, Ahmed Musa and Jilles Vreeken |
-| [NeuralClothSim: Neural Deformation Fields Meet the Thin Shell Theory](https://arxiv.org/abs/2308.12970v3) | Navami Kairanda, Marc Habermann, Christian Theobalt, Vladislav Golyanik |
-| [Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://openreview.net/forum?id=59E19c6yrN) | Sahar Abdelnabi, Amr Gomaa, Sarath Sivaprasad, Lea Schönherr, Mario Fritz | 
+| [Quantum-inspired Multi-dimensional Visual Fields with Learnable Energy Representations](https://neurips.cc/virtual/2025/loc/san-diego/poster/118695)		| Shuteng Wang, Christian Theobalt, Vladislav Golyanik | 					
+| [Attention (as Discrete-Time Markov) Chains](https://neurips.cc/virtual/2025/loc/san-diego/poster/115284)		| Yotam Erel, Olaf Dünkel, Rishabh Dabral, Vladisav Golyanik, Christian Theobalt, Amit Bermano | 		
+| [FaCT: Faithful Concept Traces for Explaining Neural Network Decisions](https://neurips.cc/virtual/2025/loc/san-diego/poster/119865) | Amin Parchami-Araghi, Sukrut Rao, Jonas Fischer, Bernt Schiele | 
+| [MIBP-Cert: Certified Training against Data Perturbations with Mixed Integer Bilinear Programs](https://neurips.cc/virtual/2025/loc/san-diego/poster/118503) | Tobias Lorenz, Marta Kwiatkowska, Mario Fritz | 
+| [Pay Attention to Small Weights](https://neurips.cc/virtual/2025/loc/san-diego/poster/117524)	| Chao Zhou, Advait Gadhikar, Tom Jacobs, Rebekka Burkholz | 				
+| [The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis](https://neurips.cc/virtual/2025/loc/san-diego/poster/119150) | Hoang Pham, The Anh Ta, Tom Jacobs, Rebekka Burkholz, Long Tran-Thanh | 
+| [BitMark for Infinity: Watermarking Bitwise Autoregressive Image Generative Models](https://neurips.cc/virtual/2025/loc/san-diego/poster/117685) | Louis Kerner, Michel Meintz, Bihe Zhao, Franziska Boenisch, Adam Dziedzic |
+| [Neural Rule Lists: Learning Discretizations, Rules, and Order in One Go](https://neurips.cc/virtual/2025/loc/san-diego/poster/116067)		| Sascha Xu, Nils Philipp Walter, Jilles Vreeken | 		
+| [Finding and Reactivating Post-Trained LLMs' Hidden Safety Mechanisms](https://neurips.cc/virtual/2025/loc/san-diego/poster/115944)		| Mingjie Li, Wai Man Si, Michael Backes, Yang Zhang, Yisen Wang | 			
+| [Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](https://neurips.cc/virtual/2025/loc/san-diego/poster/118973)		| Yukun Jiang, Mingjie Li, Michael Backes, Yang Zhang | 								
+| 	[Large Language Models as Model Organisms for Human Associative Learning](https://neurips.cc/virtual/2025/loc/san-diego/poster/116041)	| Camila Kolling, Vy Vo, Mariya Toneva |
+| 	[Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models ](https://neurips.cc/virtual/2025/loc/san-diego/poster/119924)	| Omer Moussa, Mariya Toneva |
+| 	[Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities](https://neurips.cc/virtual/2025/loc/san-diego/poster/118861)	| Mayank Jobanputra ·Yana Veitsman, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn |
 
 ## Organizing Committee
 
 - [Michael Hahn](https://mhahn.info/)
-- Xinting Huang
-- Yash Sarrof
-- Yana Veitsman
+- [Xinting Huang](https://huangxt39.github.io/)
+- [Yash Sarrof](https://yashsarrof.com/)
+- [Yana Veitsman](https://yveitsman.xyz/)
+- [Entang Wang](https://scholar.google.com/citations?user=TfPdhYsAAAAJ&hl=zh-CN)
 - Karina Walgenbach
