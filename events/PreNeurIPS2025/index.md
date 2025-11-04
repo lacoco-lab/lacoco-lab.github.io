@@ -27,6 +27,7 @@ The following posters will be presented.
 | 	[Large Language Models as Model Organisms for Human Associative Learning](https://neurips.cc/virtual/2025/loc/san-diego/poster/116041)	| Camila Kolling, Vy Vo, Mariya Toneva |
 | 	[Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models ](https://neurips.cc/virtual/2025/loc/san-diego/poster/119924)	| Omer Moussa, Mariya Toneva |
 | 	[Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities](https://neurips.cc/virtual/2025/loc/san-diego/poster/118861)	| Mayank Jobanputra ·Yana Veitsman, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn |
+|   [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/120297)   | Advik Basani, Xiao Zhang |
 
 ## Organizing Committee
 
