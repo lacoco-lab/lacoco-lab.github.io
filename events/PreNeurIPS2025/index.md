@@ -24,10 +24,11 @@ The following posters will be presented.
 | [Neural Rule Lists: Learning Discretizations, Rules, and Order in One Go](https://neurips.cc/virtual/2025/loc/san-diego/poster/116067)		| Sascha Xu, Nils Philipp Walter, Jilles Vreeken | 		
 | [Finding and Reactivating Post-Trained LLMs' Hidden Safety Mechanisms](https://neurips.cc/virtual/2025/loc/san-diego/poster/115944)		| Mingjie Li, Wai Man Si, Michael Backes, Yang Zhang, Yisen Wang | 			
 | [Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](https://neurips.cc/virtual/2025/loc/san-diego/poster/118973)		| Yukun Jiang, Mingjie Li, Michael Backes, Yang Zhang | 								
-| 	[Large Language Models as Model Organisms for Human Associative Learning](https://neurips.cc/virtual/2025/loc/san-diego/poster/116041)	| Camila Kolling, Vy Vo, Mariya Toneva |
-| 	[Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models ](https://neurips.cc/virtual/2025/loc/san-diego/poster/119924)	| Omer Moussa, Mariya Toneva |
-| 	[Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities](https://neurips.cc/virtual/2025/loc/san-diego/poster/118861)	| Mayank Jobanputra ·Yana Veitsman, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn |
-|   [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/120297)   | Advik Basani, Xiao Zhang |
+| [Large Language Models as Model Organisms for Human Associative Learning](https://neurips.cc/virtual/2025/loc/san-diego/poster/116041)	| Camila Kolling, Vy Vo, Mariya Toneva |
+| [Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models ](https://neurips.cc/virtual/2025/loc/san-diego/poster/119924)	| Omer Moussa, Mariya Toneva |
+| [Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities](https://neurips.cc/virtual/2025/loc/san-diego/poster/118861)	| Mayank Jobanputra ·Yana Veitsman, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn |
+| [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/120297)   | Advik Basani, Xiao Zhang |
+| [Sign-In to the Lottery: Reparameterizing Sparse Training](https://neurips.cc/virtual/2025/loc/san-diego/poster/116511) | Advait Gadhikar, Tom Jacobs, Chao Zhou, Rebekka Burkholz |
 
 ## Organizing Committee
 
