@@ -55,7 +55,6 @@ Each week covers foundational work in AI, ML, or NLP, presented by students and 
 - Minsky & Papert (1969): *Perceptrons* (Book, Chapter - 6)
 
 #### **Theme 5 – Symbolic Reasoning and Natural Language**
-- Minsky (1961): *Steps Toward Artificial Intelligence*
 - Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1]
 
 #### **Theme 6 – Formal Models of Learnability**
@@ -79,7 +78,7 @@ Each week covers foundational work in AI, ML, or NLP, presented by students and 
 | 5.11  | **Theme 2** – Information Theory | Shannon (1948): *A Mathematical Theory of Communication* | | He Zhu, Shane John Paul|
 | 12.11 | **Theme 3** – Language: Structure vs. Distribution | Zellig Harris (1954): *Distributional Structure*; Noam Chomsky (1956): *Three Models for the Description of Language* | | Mohammad Saqib Siddiqui, Yu-Hua Hu|
 | 19.11 | **Theme 4** – The Perceptron and the First AI Winter | Rosenblatt (1958): *The Perceptron*; Minsky & Papert (1969): *Perceptrons* (Book, Chapter 6) | | Franka Beyer, Meropi Lampropoulou|
-| 26.11 | **Theme 5** – Symbolic Reasoning and Natural Language | Minsky (1961): *Steps Toward Artificial Intelligence*; Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1] | | Yifang Li, Ayesha Ansar|
+| 26.11 | **Theme 5** – Symbolic Reasoning and Natural Language | Winograd (1972): *Understanding Natural Language (SHRDLU)* [Only Section 1] | | Yifang Li |
 | 3.12  | No Class | | | |
 | 10.12 | Background for 2nd half [Optional] | | | |
 | 17.12 | **Theme 6** – Formal Models of Learnability | Gold (1967): *Language Identification in the Limit* | | Kaushik Sengupta, Bekham Fallah|

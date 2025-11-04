@@ -26,9 +26,10 @@ The following posters will be presented.
 | [Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](https://neurips.cc/virtual/2025/loc/san-diego/poster/118973)		| Yukun Jiang, Mingjie Li, Michael Backes, Yang Zhang | 								
 | [Large Language Models as Model Organisms for Human Associative Learning](https://neurips.cc/virtual/2025/loc/san-diego/poster/116041)	| Camila Kolling, Vy Vo, Mariya Toneva |
 | [Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models ](https://neurips.cc/virtual/2025/loc/san-diego/poster/119924)	| Omer Moussa, Mariya Toneva |
-| [Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities](https://neurips.cc/virtual/2025/loc/san-diego/poster/118861)	| Mayank Jobanputra ·Yana Veitsman, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn |
+| [Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities](https://neurips.cc/virtual/2025/loc/san-diego/poster/118861)	| Mayank Jobanputra, Yana Veitsman, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn |
 | [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/120297)   | Advik Basani, Xiao Zhang |
 | [Sign-In to the Lottery: Reparameterizing Sparse Training](https://neurips.cc/virtual/2025/loc/san-diego/poster/116511) | Advait Gadhikar, Tom Jacobs, Chao Zhou, Rebekka Burkholz |
+| [Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/115071) | Georgios Tzannetos, Parameswaran Kamalaruban, Adish Singla |
 
 ## Organizing Committee
 
