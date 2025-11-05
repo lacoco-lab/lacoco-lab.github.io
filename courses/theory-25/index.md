@@ -61,7 +61,7 @@ Subject to minor changes
 | December 31, 2025 | no class |  |  |  |  |
 | January 7, 2026 | CoT | Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [Feng et al](https://arxiv.org/abs/2305.15408) |  |  | Usama, Ateeb |
 | January 14, 2026 | CoT | Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers [Amiri et al](https://arxiv.org/abs/2502.02393) |  |  | Malik, Entang  |
-| January 21, 2026 | SSMs | The Illusion of State in State-Space Models [Merrill et al](https://arxiv.org/abs/2404.08819)  |  | [Sarrof et al](https://arxiv.org/abs/2405.17394) | Hongxu, Martha |
+| January 21, 2026 | SSMs | The Illusion of State in State-Space Models [Merrill et al](https://arxiv.org/abs/2404.08819)  |  | [Sarrof et al](https://arxiv.org/abs/2405.17394) | Hongxu, Pragya |
 
 
 
