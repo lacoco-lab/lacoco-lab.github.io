@@ -1,5 +1,6 @@
 # Joining our lab
 
+
 ### Joining as a Student / Research Assistant (Hiwi)
 
 We hire students from relevant programs at UdS (e.g., LST, CS) as student assistants.
@@ -14,14 +15,18 @@ Our PhD students are affiliated with the [Saarbrücken Graduate School of Comput
 <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
 
 Our lab is generously funded by a prestigious Emmy Noether grant from the German Research Foundation. We have plenty of compute resources by academic standards.
-PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time. Start dates can be negotiated based on applicants' preferences and funding availability.
+<!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
+<!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
-**Applicants who will have an MSc by the start date of the PhD:** For 2026 intake, please directly apply to our lab by email. Admitted students will directly join our lab.
-
-In your email, please include CV, transcripts, a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group), and contact details of 2 or 3 references.
+**Applicants who will have an MSc by the start date of the PhD:** Please directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
+In your email to Michael (mhahn@lst.uni-saarland.de), please include CV, transcripts, a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group), and contact details of 2 or 3 references. Please quote reference number W2740.
+For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
+You can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf).
 
 **Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbrücken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
 <!--PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc s-->
+
+
 
 ### Joining as a Postdoc
 
