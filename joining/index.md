@@ -19,7 +19,7 @@ Our lab is generously funded by a prestigious Emmy Noether grant from the German
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
 **Applicants who will have an MSc by the start date of the PhD:** Please directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
-In your email to Michael (mhahn@lst.uni-saarland.de), please include CV, transcripts, a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group), and contact details of 2 or 3 references. Please quote reference number W2740.
+In your email to Michael (mhahn@lst.uni-saarland.de), please include CV, transcripts, a statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group), and contact details of 2 or 3 references. Please quote reference number W2740.
 For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
 You can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf).
 
