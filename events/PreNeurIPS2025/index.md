@@ -31,6 +31,8 @@ The following posters have been confirmed so far. If you want to present your wo
 | [Sign-In to the Lottery: Reparameterizing Sparse Training](https://neurips.cc/virtual/2025/loc/san-diego/poster/116511) | Advait Gadhikar, Tom Jacobs, Chao Zhou, Rebekka Burkholz |
 | [Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/115071) | Georgios Tzannetos, Parameswaran Kamalaruban, Adish Singla |
 | [Fixed Aggregation Features Can Rival GNNs (WiML'2025)](https://openreview.net/forum?id=OHgWEMce80) | Celia Rubio-Madrigal, Rebekka Burkholz |
+
+
 ## Organizing Committee
 
 - [Michael Hahn](https://mhahn.info/)
