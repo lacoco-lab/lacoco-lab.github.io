@@ -10,7 +10,7 @@ This event is part of *ELLIS Pre-NeurIPS Fest 2025*
 
 ## Program
 
-The following posters will be presented.
+The following posters have been confirmed so far. If you want to present your work, but haven’t confirmed your participation so far, please let the organizers know at your earliest convenience.
 
 | Title          | Authors               |
 | ------------- | ------------------- | 
