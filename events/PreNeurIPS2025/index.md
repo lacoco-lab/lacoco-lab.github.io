@@ -13,6 +13,9 @@ This event is part of *ELLIS Pre-NeurIPS Fest 2025*
 The following posters have been confirmed so far. If you want to present your work, but haven’t confirmed your participation so far, please let the organizers know at your earliest convenience.
 
 ### Main Conference Presentations 
+
+Important note to presenters: If your poster is larger than A0, please confirm space availability with the organizers asap.
+
 | Title          | Authors               |
 | ------------- | ------------------- | 
 | [Quantum-inspired Multi-dimensional Visual Fields with Learnable Energy Representations](https://neurips.cc/virtual/2025/loc/san-diego/poster/118695)		| Shuteng Wang, Christian Theobalt, Vladislav Golyanik | 					
