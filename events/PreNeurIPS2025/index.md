@@ -41,6 +41,9 @@ Important note to presenters: If your poster is larger than A0, please confirm s
 
 
 ### Workshop Presentations 
+
+Important note to presenters: We're expecting workshop posters to not exceed the size specified for the San Diego Workshops at the [conference website](https://neurips.cc/Conferences/2025/PosterInstructions). 
+
 | Title          | Authors               | Workshop   |
 | ------------- | ------------------- | --------------- | 
 | [Fixed Aggregation Features Can Rival GNNs](https://openreview.net/forum?id=OHgWEMce80) | Celia Rubio-Madrigal, Rebekka Burkholz | [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2025/home) |
