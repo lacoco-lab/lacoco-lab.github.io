@@ -12,6 +12,7 @@ This event is part of *ELLIS Pre-NeurIPS Fest 2025*
 
 The following posters have been confirmed so far. If you want to present your work, but haven’t confirmed your participation so far, please let the organizers know at your earliest convenience.
 
+### Main Conference Presentations 
 | Title          | Authors               |
 | ------------- | ------------------- | 
 | [Quantum-inspired Multi-dimensional Visual Fields with Learnable Energy Representations](https://neurips.cc/virtual/2025/loc/san-diego/poster/118695)		| Shuteng Wang, Christian Theobalt, Vladislav Golyanik | 					
@@ -30,7 +31,20 @@ The following posters have been confirmed so far. If you want to present your wo
 | [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/120297)   | Advik Basani, Xiao Zhang |
 | [Sign-In to the Lottery: Reparameterizing Sparse Training](https://neurips.cc/virtual/2025/loc/san-diego/poster/116511) | Advait Gadhikar, Tom Jacobs, Chao Zhou, Rebekka Burkholz |
 | [Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/115071) | Georgios Tzannetos, Parameswaran Kamalaruban, Adish Singla |
-| [Fixed Aggregation Features Can Rival GNNs (WiML'2025)](https://openreview.net/forum?id=OHgWEMce80) | Celia Rubio-Madrigal, Rebekka Burkholz |
+|[Faster Generic Identification in Tree-Shaped Structural Causal Models](https://neurips.cc/virtual/2025/loc/san-diego/poster/119620) | Yasmine Briefs, Markus Bläser |
+|[Post Hoc Regression Refinement via Pairwise Rankings](https://neurips.cc/virtual/2025/loc/san-diego/poster/119268) | Kevin Tirta Wijaya, Michael Sun, Minghao Guo, Hans-peter Seidel, Wojciech Matusik, Vahid Babaei | 
+|[How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?](https://neurips.cc/virtual/2025/loc/san-diego/poster/117114) | Tuan Anh Tran, Duy Minh Ho Nguyen, Hoai-Chau Tran, Michael Barz, Khoa D Doan, Roger Wattenhofer, Vien Anh Ngo, Mathias Niepert, Daniel Sonntag, Paul Swoboda |
+|[MaxSup: Overcoming Representation Collapse in Label Smoothing](https://neurips.cc/virtual/2025/loc/san-diego/oral/116897) | Yuxuan Zhou, Heng Li, Zhi-Qi Cheng, Xudong Yan, Yifei Dong, Mario Fritz, Margret Keuper |
+
+
+### Workshop Presentations 
+| Title          | Authors               | Workshop   |
+| ------------- | ------------------- | --------------- | 
+| [Fixed Aggregation Features Can Rival GNNs](https://openreview.net/forum?id=OHgWEMce80) | Celia Rubio-Madrigal, Rebekka Burkholz | [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2025/home) |
+| AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping | Md. Abdul Kadir et al | [Generative AI in Finance](https://sites.google.com/view/neurips-25-gen-ai-in-finance/call-for-papers) |
+| On Riemannian Gradient Descent Algorithm using gradient averaging | Saugata Purkayashta, Sukannya Purkayashta | [Optimization in Machine Learning](https://opt-ml.org) |
+
+
 ## Organizing Committee
 
 - [Michael Hahn](https://mhahn.info/)
