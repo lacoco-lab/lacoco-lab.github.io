@@ -5,6 +5,7 @@
 
 We hire students from relevant programs at UdS (e.g., LST, CS) as student assistants.
 Student assistants in our lab are closely involved in research and often even lead their own projects and have published strong papers (e.g., at [ACL 2024](https://arxiv.org/abs/2402.09963), [NeurIPS 2024](https://openreview.net/forum?id=eV5YIrJPdy), [COLM 2025](https://arxiv.org/abs/2504.00132), [NeurIPS 2025](https://arxiv.org/abs/2505.21785)).
+Please note that we expect applicants to have excellent programming skills, and strong grades in a relevant technical field (e.g., grades close to 1,0 in the German academic system; or strong GPAs from other countries).
 
 
 ### Joining  as a PhD Student
@@ -52,7 +53,6 @@ You can take a look at our recent papers in NeurIPS, ICLR, ICML, and COLM to get
 
 ### Contact
 
-We expect applicants to have excellent programming skills, and strong grades in a relevant technical field (e.g., grades close to 1,0 in the German academic system; or strong GPAs from other countries).
 
 If you’re interested in joining, please send your application to Michael (mhahn@lst.uni-saarland.de).
 
