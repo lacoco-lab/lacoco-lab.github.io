@@ -30,7 +30,8 @@ Please quote reference number W2740.
 For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
 For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf).
 
-**Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbrücken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase.
+**Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbrücken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase. If you're interested in working with me, please send me an email to confirm in advance.
+
 <!--PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc s-->
 
 
