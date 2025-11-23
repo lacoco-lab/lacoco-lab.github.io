@@ -14,7 +14,8 @@ The following posters have been confirmed so far. If you want to present your wo
 
 ### Main Conference Presentations 
 
-Important note to presenters: If your poster is larger than A0, please confirm space availability with the organizers asap.
+Important note to presenters: Poster boards have width 118.5 x height 146 cm. **If your poster is larger than A0, please confirm space availability with the organizers asap.**
+ 
 
 | Title          | Authors               |
 | ------------- | ------------------- | 
@@ -42,7 +43,7 @@ Important note to presenters: If your poster is larger than A0, please confirm s
 
 ### Workshop Presentations 
 
-Important note to presenters: We're expecting workshop posters to not exceed the size specified for the San Diego Workshops at the [conference website](https://neurips.cc/Conferences/2025/PosterInstructions). 
+Important note to presenters: **We're expecting workshop posters to not exceed the size specified for the San Diego Workshops at the [conference website](https://neurips.cc/Conferences/2025/PosterInstructions) (24W x 36H inches).**
 
 | Title          | Authors               | Workshop   |
 | ------------- | ------------------- | --------------- | 
