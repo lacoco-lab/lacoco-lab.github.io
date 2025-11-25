@@ -19,7 +19,7 @@ Our lab is generously funded by a prestigious Emmy Noether grant from the German
 <!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
-**Direct application (only for applicants who will have an MSc by the start date of the PhD):** Please directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
+**Direct application (only for applicants who will have an MSc by the start date of the PhD):** You can directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
 In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * your CV
 * your transcripts
@@ -31,7 +31,7 @@ For your reference, you can find the legally binding call for the position [here
 
 
 
-**Application via central portals:** You can also apply to the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) or the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/), and name Michael Hahn as a preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. 
+**Application via central portals:** You can apply to the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) or the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) and name Michael Hahn as a preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. 
 
 <!--If you're interested in working with us, please send Michael an email to confirm in advance.-->
 
