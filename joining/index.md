@@ -3,7 +3,7 @@
 
 ### Joining as a Student / Research Assistant (Hiwi)
 
-We hire students from relevant programs at UdS (e.g., LST, CS) as student assistants.
+We hire students from relevant programs at UdS (e.g., LST, CS) as student assistants (Hiwis).
 Student assistants in our lab are closely involved in research and often even lead their own projects and have published strong papers (e.g., at [ACL 2024](https://arxiv.org/abs/2402.09963), [NeurIPS 2024](https://openreview.net/forum?id=eV5YIrJPdy), [COLM 2025](https://arxiv.org/abs/2504.00132), [NeurIPS 2025](https://arxiv.org/abs/2505.21785)).
 Please note that we expect applicants to have excellent programming skills, and strong grades in a relevant technical field (e.g., grades close to 1,0 in the German academic system; or strong GPAs from other countries).
 
@@ -19,7 +19,7 @@ Our lab is generously funded by a prestigious Emmy Noether grant from the German
 <!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
-**Applicants who will have an MSc by the start date of the PhD:** Please directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
+**Direct application (only for applicants who will have an MSc by the start date of the PhD):** Please directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
 In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * your CV
 * your transcripts
@@ -29,7 +29,11 @@ In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
 For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf) (reference number W2740).
 
-**Aplicants without an MSc:** Applicants who only have an undergraduate degree should instead apply to the Saarbrücken Graduate School of Computer Science, in which case the PhD includes an initial preparatory phase. If you're interested in working with me, please send me an email to confirm in advance.
+
+
+**Application via central portals:** You can also apply to the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) or the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/), and name Michael Hahn as a preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. 
+
+<!--If you're interested in working with us, please send Michael an email to confirm in advance.-->
 
 <!--PhD applicants are generally expected to already have an MSc by the time the PhD starts; in this case they can directly join our lab. Applicants without an MSc s-->
 
@@ -37,7 +41,7 @@ For your reference, you can find the legally binding call for the position [here
 
 ### Joining as a Postdoc
 
-The application process is the same as for PhD students.
+The application process is the same as for PhD students (Direct application to our lab via email).
 
 ### Joining  as an Intern
 
@@ -55,6 +59,9 @@ You can take a look at our recent papers in NeurIPS, ICLR, ICML, and COLM to get
 
 
 If you’re interested in joining, please send your application to Michael (mhahn@lst.uni-saarland.de).
+
+
+
 
 
 
