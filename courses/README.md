@@ -1,19 +1,16 @@
 # Courses
 
-## Upcoming
+## Current
 
 * Winter 2025/26 Seminar [Theoretical Abilities and Limitations of Language Models](../courses/theory-25/) (Xinting Huang).
 * Winter 2025/26 Seminar [Milestones in Machine Learning](../courses/classics-25/) (Yash Sarrof)
 * Winter 2025/26 Lecture [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss2526/) (Michael Hahn).
 
-## Current
+## Past
 * Summer 2025 Seminar [Interpreting and Analyzing Neural Language Models](../courses/interpreting-2025/) (Xinting Huang).
 * Summer 2025 Proseminar [Large Language Models](../courses/proseminar25/) (Michael Hahn). 
 * Summer 2025 Seminar [Neural Networks in Brains and Computers](../courses/brain-2025/) (Michael Hahn). 
 * Summer 2025 Software project [Linguistic Interpretibility for Neural Models of Language](../courses/ling-interp-langmod/) (Kate McCurdy).
-
-## Past
-
 * Winter 2024/25 Seminar [Processing Morphology](../courses/morphology-2025/) (Kate McCurdy). 
 * Winter 2024/25 Seminar [Augmenting Language Models with Tools and Knowledge](../courses/knowledge-2024/) (Xinting Huang). 
 * Winter 2024/25 Lecture [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss2425/) (Michael Hahn).     
