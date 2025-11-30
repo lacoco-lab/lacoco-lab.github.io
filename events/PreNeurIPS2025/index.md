@@ -6,7 +6,7 @@ WHEN: November 26, 2025, 13:00-16:00
 
 WHERE: [Building C7.4 at Saarland University Campus](https://www.uni-saarland.de/standort/saarbruecken/lageplan/gebaeude/c74.html), Conference Room 1.17
 
-This event is part of *ELLIS Pre-NeurIPS Fest 2025*
+This event is part of *ELLIS Pre-NeurIPS Fest 2025*, associated with [our ELLIS unit](https://www.ellis-unit-sam.de/).
 
 ## Program
 
