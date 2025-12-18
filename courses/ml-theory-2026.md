@@ -13,7 +13,7 @@ Prerequisites:
 * Probability theory
 * Strong motivation to work through mathematical content
 
-To get an idea if your prerequisites are sufficient, you can check the notes linked under "Material" and see how accessible they look to you.
+To get an idea if your prerequisites are sufficient, you can check the early chapters in the notes linked under "Material" and see how accessible they look to you.
 
 ## Logistics
 
