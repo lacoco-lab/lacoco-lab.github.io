@@ -30,8 +30,10 @@ In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group)
 * contact details of 2 or 3 references.
 
+Please include the reference number W2740 in your email subject when applying.
+
 For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
-For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf). Please include the reference number W2740 in your email subject when applying.
+For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf). 
 
 
 
