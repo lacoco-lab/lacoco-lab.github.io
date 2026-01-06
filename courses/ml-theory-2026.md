@@ -2,16 +2,25 @@
 
 This lecture treats modern theory of machine learning (e.g., generalization bounds), with a special view to Language Models.
 Content at a glance (tentative):
-* Concentration Inequalities
-* Generalization Bounds via Uniform Convergence
-* Rademacher Complexity, Covering Numbers, VC Dimension
-* Learning theory for LLMs/Transformers
+* Foundations
+  *   Probability theory background
+  *   Asymptotics, Empirical Risk Minimization
+* Classical and Modern Methods
+  *   Concentration Inequalities
+  *   Generalization Bounds via Uniform Convergence
+  *   Rademacher Complexity, Covering Numbers
+  *   VC Dimension
+  *   PAC-Bayes
+* Applications to LLM/Transformers
+  *   Learning results for LLMs/Transformers via Covering Numbers
+  *   Hardness of learning for Transformers via Sensitivity
+  *   Length generalization and limit transformers
 
 Prerequisites:
-* Understanding of machine learning
+* Machine learning
 * Calculus and linear algebra
 * Probability theory
-* Strong motivation to work through mathematical content
+* Motivation to work through mathematical content
 
 To get an idea if your prerequisites are sufficient, you can check the early chapters in the notes linked under "Material" and see how accessible they look to you.
 
