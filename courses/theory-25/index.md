@@ -167,11 +167,10 @@ No need to upload your slides to CMS (unlike previous seminars we offered)
 
 ### Final Papers (for the 7CP version)
 
-**Note: We will discuss this in the first meeting. Requirements may be changed based on popular demand.**
-
 Term papers will be about a small independent project.
 
-You will investigate some question about the abilities of language models. It can be a theoretical work, or an empirical project verifying insights from theoretical work.
+You will investigate some question about the abilities of language models. It can be a theoretical work, or an empirical project verifying insights from theoretical work or providing inputs to theoretical work. For example, one may do experiments to show the expressivity or generalization performance of some novel architectures (link [1](https://arxiv.org/abs/2002.09402), [2](https://arxiv.org/abs/2402.13572v2), [3](https://arxiv.org/abs/2405.17394), [4](https://arxiv.org/abs/2409.15647), do not repeat previous work, try to experiment with new architectures or new tasks).
+
 The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found. It's recommended to include quantitative validation of what you found, so that you show it's not an illusion.
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
