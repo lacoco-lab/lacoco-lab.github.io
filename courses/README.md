@@ -1,5 +1,10 @@
 # Courses
 
+## Upcoming
+
+* Summer 2026 Lecture [Theory of Machine Learning for Language Models](../courses/ml-theory-2026/) (Michael Hahn and Yash Sarrof).
+* Summer 2025 Seminar [Neural Networks in Brains and Computers](../courses/brain-2026/) (Michael Hahn).
+ 
 ## Current
 
 * Winter 2025/26 Seminar [Theoretical Abilities and Limitations of Language Models](../courses/theory-25/) (Xinting Huang).
