@@ -1,4 +1,4 @@
-# Theory of Machine Learning for NLP
+# Theory of Machine Learning for Language Models
 
 This lecture treats modern theory of machine learning (e.g., generalization bounds), with a special view to Language Models.
 Content at a glance (tentative):
@@ -32,7 +32,7 @@ When: TBD
 
 Where: TBD
 
-Lecturers: TBD
+Lecturers: Michael Hahn and Yash Sarrof
 
 Credit Points: 6 CP
 
