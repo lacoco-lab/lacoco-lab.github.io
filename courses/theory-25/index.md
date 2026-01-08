@@ -175,7 +175,7 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is April TBD, 2026, 23:59.
+The report should be uploaded via CMS. The due date is April 6, 2026, 23:59 (i.e., the day before the start of summer semester classes).
 
 <!--Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas. -->
 
