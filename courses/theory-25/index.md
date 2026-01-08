@@ -169,7 +169,7 @@ No need to upload your slides to CMS (unlike previous seminars we offered)
 
 Term papers will be about a small independent project.
 
-You will investigate some question about the abilities of language models. It can be a theoretical work, or an empirical project verifying insights from theoretical work or providing inputs to theoretical work. For example, one may do experiments to show the expressivity or generalization performance of some novel architectures (link [1](https://arxiv.org/abs/2002.09402), [2](https://arxiv.org/abs/2402.13572v2), [3](https://arxiv.org/abs/2405.17394), [4](https://arxiv.org/abs/2409.15647), do not repeat previous work, try to experiment with new architectures or new tasks).
+You will investigate some question about the abilities of language models. It can be a theoretical work, or an empirical project verifying insights from theoretical work or providing inputs to theoretical work. For example, one may do experiments to show the expressivity or generalization performance of some novel architectures (link [1](https://arxiv.org/abs/2002.09402), [2](https://arxiv.org/abs/2402.13572v2), [3](https://arxiv.org/abs/2405.17394), [4](https://arxiv.org/abs/2409.15647), [5](https://arxiv.org/abs/2508.10875), do not repeat previous work, try to experiment with new architectures or new tasks).
 
 The report is expected to contain a brief literature review, motivation of your study, a description of what you did, and you found. It's recommended to include quantitative validation of what you found, so that you show it's not an illusion.
 
