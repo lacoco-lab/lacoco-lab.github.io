@@ -1,6 +1,7 @@
 # Theory of Machine Learning for Language Models
 
-This lecture treats modern theory of machine learning (e.g., generalization bounds), with a special view to Language Models.
+This lecture treats modern theory of machine learning (e.g., generalization bounds). We will introduce techniques that are useful across many model families and data domains; we will especially illustrate the methods with applications to the understanding the learning of Language Models/LLMs.
+
 Content at a glance (tentative):
 * Foundations
   *   Probability theory background
