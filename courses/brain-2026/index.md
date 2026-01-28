@@ -126,7 +126,7 @@ For students taking the seminar for 7 credits:
 
 Additionally, up to 10% bonus credits can be provided on the basis of engagement in in-class discussion.
 
-Note: Study programs may differ in which version(s) of a seminar course you can take. If in doubt, check with your study program coordinator.
+***Note: Study programs may differ in which version(s) of a seminar course you can take. As a general rule, CS students take the 7 CP versions; LST students can take either version. If in doubt, check with your study program coordinator.***
 
 ### Questions
 
