@@ -1,7 +1,5 @@
 # Neural Networks in Brains and Computers
 
-NOTE: This is taken from last year's iteration. We'll update it.
-
 <!-----DESCRIPTION----->
 **Course Description:** We will look into the intersection of machine learning and neuroscience.
 
@@ -55,7 +53,7 @@ While you are expected to make an effort to understand the paper you're assigned
 **Time:** Tue 12:15–13:45
 
 <!-----ROOM----->
-**Room:** Building C7.3, Seminarraum  1.12
+**Room:** Building C7.3, Seminarraum  1.14
 
 
 ## Format and requirements
@@ -79,7 +77,7 @@ The course roughly has three parts: we will look into
 * Reinforcement Learning and Behavior (2 sessions)
 
 
-  **Note: The syllabus is currently copied from last year's course. We might change some aspects.**
+  **Note: The syllabus is currently copied from last year's course. We might change some aspects. In particular, the dates will be updated.**
 
 
 | Date          | Topic               | Readings  | Slides  | Optional Material | Presenter  |
