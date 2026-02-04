@@ -1,6 +1,6 @@
 # Interpreting and Analyzing Neural Language Models
 
-THIS IS TAKEN FROM LAST YEAR, WE WILL UPDATE
+### THIS IS TAKEN FROM LAST YEAR, WE WILL UPDATE
 
 <!-----DESCRIPTION----->
 **Course Description:**
@@ -14,25 +14,25 @@ Many of our readings will be quite technical. You will need a good background in
 <!-----REGISTRATION----->
 
 **Registration:**
-* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/probing_25/). You may either be directly admitted or waitlisted.
+* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/xxx/). You may either be directly admitted or waitlisted.
 
-* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/probing_25/) once you were selected by the assignment system or otherwise admitted by us.
+* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/xxx/) once you were selected by the assignment system or otherwise admitted by us.
 
-* **In both cases**, <del>please email xhuang@lst.uni-saarland.de </del>  please fill in this [form](https://forms.gle/iDZF8QSBKE7Gmchx9) with your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+* **In both cases**,  please fill in this [form] with your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
 
 
 <!----CMS------------>
 
-**Course Management System:** [CMS](https://cms.sic.saarland/probing_25/)
+**Course Management System:** [CMS](https://cms.sic.saarland/xxx/)
 
 <!-----INSTRUCTORS----->
 **Instructors:** [Xinting Huang](https://lacoco-lab.github.io/home/authors/xhuang/)
 
 <!-----TIME----->
-**Time:** Monday, 14:15-15:45
+**Time:** TBD
 
 <!-----ROOM----->
-**Room:** Building C7.3 Room 1.12
+**Room:** TBD
 
 
 ## Format and requirements
@@ -50,28 +50,28 @@ Some optional material is for the Topic, rather than being specific to the paper
 | ------------- | ------------------- | ------- | ------- | --------------------- | ---------- |
 |  2025-04-14    | no class               |  |  |                |          | 
 |  2025-04-21    | no class | | | | |
-| 2025-04-28    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified code for GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      |  Xinting | 
-| 2025-05-05    | Understanding Transformers        |   [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html) Required Sec: see below    |       |        |  Nursulu    |
-|  |         |   [RASP](https://arxiv.org/abs/2106.06981) Section 1, 2, 3 |       |        |   Jibran   |
-| 2025-05-12    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |   Ebad  |
-|               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |   Sara |
-| 2025-05-19   |   Projecting to vocabulary space                 | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)  + breifly mention [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |    [Future Lens](https://arxiv.org/abs/2311.04897) [Backward Lens](https://arxiv.org/abs/2402.12865) |   Shreyansh  |
-|               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |    [MLP are key-value memories](https://arxiv.org/abs/2012.14913)    |   Zhenyu  |
-|  2025-05-26 |  Activation Patching, Path Patching  | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html) Sec. 1, 2, 3 + [ROME](https://arxiv.org/abs/2202.05262) Sec. 1, 2    |       | [Optimal ablation](https://neurips.cc/virtual/2024/poster/93600)  [DAS](https://arxiv.org/abs/2303.02536)      |        Saugata   |
-|               |                         | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)      [ACDC](https://arxiv.org/abs/2304.14997)           |           Sofia        |
-|  2025-06-02  |  Monosementicity    | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Required Sec: see below | | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) Concurrent or earlier works [link](https://arxiv.org/abs/2309.08600)  [link](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) | Shane |
-|               |          |  [Transcoders](https://arxiv.org/abs/2406.11944) | | [SAE on randomly initialized models](https://arxiv.org/abs/2501.17727) | Xinting |
+| 2025-04-28    | Introduction to Transformers and (L)LMs               |   |  [slides](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/alignment-2024/session2.pdf) |        [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [Simplified code for GPT-2](https://github.com/lacoco-lab/lacoco-lab.github.io/blob/main/courses/probing-2024/modeling_gpt2_simplified.py)      |   | 
+| 2025-05-05    | Understanding Transformers        |   [A mathematical framework](https://transformer-circuits.pub/2021/framework/index.html) Required Sec: see below    |       |        |      |
+|  |         |   [RASP](https://arxiv.org/abs/2106.06981) Section 1, 2, 3 |       |        |      |
+| 2025-05-12    | Probing               | [Othello-GPT](https://arxiv.org/abs/2210.13382)       |       |   [Bert recovers NLP pipeline](https://arxiv.org/abs/1905.05950)      |     |
+|               |                     |  [Control tasks](https://arxiv.org/abs/1909.03368)      |       |  [Probing entities' property and relation](https://arxiv.org/abs/2106.00737)   |    |
+| 2025-05-19   |   Projecting to vocabulary space                 | [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)  + breifly mention [Tuned Lens](https://arxiv.org/abs/2303.08112)  |      |    [Future Lens](https://arxiv.org/abs/2311.04897) [Backward Lens](https://arxiv.org/abs/2402.12865) |     |
+|               |                     |  [Interpret MLP via vocabulary space](https://arxiv.org/abs/2203.14680)     |       |    [MLP are key-value memories](https://arxiv.org/abs/2012.14913)    |     |
+|  2025-05-26 |  Activation Patching, Path Patching  | [Interchange intervention](https://proceedings.neurips.cc/paper/2021/hash/4f5c422f4d49a5a807eda27434231040-Abstract.html) Sec. 1, 2, 3 + [ROME](https://arxiv.org/abs/2202.05262) Sec. 1, 2    |       | [Optimal ablation](https://neurips.cc/virtual/2024/poster/93600)  [DAS](https://arxiv.org/abs/2303.02536)      |           |
+|               |                         | [IOI](https://arxiv.org/abs/2211.00593)        |         |   [Path Patching](https://arxiv.org/abs/2304.05969)   [Greater-than](https://arxiv.org/abs/2305.00586)      [ACDC](https://arxiv.org/abs/2304.14997)           |                   |
+|  2025-06-02  |  Monosementicity    | [Towards Monosementicity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Required Sec: see below | | [Scaling monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) Concurrent or earlier works [link](https://arxiv.org/abs/2309.08600)  [link](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition) |  |
+|               |          |  [Transcoders](https://arxiv.org/abs/2406.11944) | | [SAE on randomly initialized models](https://arxiv.org/abs/2501.17727) |  |
 | 2025-06-09 | no class | | | | |
-|   2025-06-16  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |  Ivo  |
-|               |                     |   [AtP*](https://arxiv.org/abs/2403.00745)   |       |   [Diffmask](https://arxiv.org/abs/2004.14992)   [EAP](https://arxiv.org/abs/2310.10348)     |  Pragya   |
-|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | | Xinting |
-|                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | | Prathamesh |
-| 2025-06-30 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)| Rabin |
-|            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | | Małgorzata |
-| 2025-07-07 | Case study II | [Fine-Tuning Enhances Mechanisms](https://arxiv.org/abs/2402.14811) | | | Manon |
-|           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | | Xinting |
-| 2025-07-14 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | | Finn |
-|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | | Xinting |
+|   2025-06-16  |  Attribution          |  [ContextCite](https://arxiv.org/abs/2409.00729)    |       |    [Integrated Gradients](https://arxiv.org/abs/1703.01365)  [Information flow routes](https://arxiv.org/abs/2403.00824)   |    |
+|               |                     |   [AtP*](https://arxiv.org/abs/2403.00745)   |       |   [Diffmask](https://arxiv.org/abs/2004.14992)   [EAP](https://arxiv.org/abs/2310.10348)     |     |
+|     2025-06-23          | Miscellaneous | [CCS](https://arxiv.org/abs/2212.03827)  | | |  |
+|                |                 | [Edge pruning](https://arxiv.org/abs/2406.16778) | | |  |
+| 2025-06-30 | Case study I | [Function Vectors](https://arxiv.org/abs/2310.15213) | | [Task Vectors](https://arxiv.org/abs/2310.15916) [Induction Circuit](https://arxiv.org/abs/2410.04468)|  |
+|            |              | [Knowledge Awareness](https://arxiv.org/abs/2411.14257) | | |  |
+| 2025-07-07 | Case study II | [Fine-Tuning Enhances Mechanisms](https://arxiv.org/abs/2402.14811) | | |  |
+|           |               | [Refusal Direction](https://arxiv.org/abs/2406.11717) | | |  |
+| 2025-07-14 | Case study III | [Belief State Geometry](https://arxiv.org/abs/2405.15943) | | |  |
+|          |                 | [Onion Representations](https://arxiv.org/abs/2408.10920) | | |  |
 
 As some papers are very long and require more time to understand and present, I specify some required sections to reduce the workload (Only these are required to be read/presented, but feel free to also read/present other parts).
 
