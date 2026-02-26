@@ -31,15 +31,13 @@ To get an idea if your prerequisites are sufficient, you can check the early cha
 
 This lecture is offered in Summer Semester 2026.
 
-Data [as per LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=164084&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung):
+**Data:** [(See LSF for authoritative information)](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=164084&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung):
 
-When: Monday 14:15-15:45; Thursday 12:15-13:45
-
-Where: Building B3.2, HS 0.03
+* When: Monday 14:15-15:45; Thursday 12:15-13:45
+* Where: Building B3.2, HS 0.03
 
 Lecturers: Michael Hahn and Yash Sarrof
 
-Credit Points: 6 CP
 
 ## Material
 
@@ -57,5 +55,6 @@ The syllabus will evolve over the course of the semester. We'll adjust selection
 ## Grading
 
 TBD
+
 
 ## Other
