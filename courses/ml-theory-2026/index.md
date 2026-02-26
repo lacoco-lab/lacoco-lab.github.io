@@ -1,5 +1,7 @@
 # Theory of Machine Learning for Language Models
 
+## Content
+
 This lecture treats modern theory of machine learning (e.g., generalization bounds). We will introduce techniques that are useful across many model families and data domains; we will especially illustrate the methods with applications to the understanding the learning of Language Models/LLMs.
 
 Content at a glance (tentative):
@@ -29,9 +31,11 @@ To get an idea if your prerequisites are sufficient, you can check the early cha
 
 This lecture is offered in Summer Semester 2026.
 
-When: TBD
+Data [as per LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=164084&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung):
 
-Where: TBD
+When: Monday 14:15-15:45; Thursday 12:15-13:45
+
+Where: Building B3.2, HS 0.03
 
 Lecturers: Michael Hahn and Yash Sarrof
 
@@ -51,5 +55,7 @@ TBD
 The syllabus will evolve over the course of the semester. We'll adjust selection of topics based on what works best.
 
 ## Grading
+
+TBD
 
 ## Other
