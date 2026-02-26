@@ -35,8 +35,7 @@ This lecture is offered in Summer Semester 2026.
 
 * When: Monday 14:15-15:45; Thursday 12:15-13:45
 * Where: Building B3.2, HS 0.03
-
-Lecturers: Michael Hahn and Yash Sarrof
+* Lecturers: Michael Hahn and Yash Sarrof
 
 
 ## Material
