@@ -39,7 +39,7 @@ While you are expected to make an effort to understand the paper you're assigned
 
 * If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing mhahn@lst.uni-saarland.de. Only register in Course Management System (CMS) once you were selected by the assignment system or otherwise admitted by us.
 
-* **In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted.
+* **In both cases**, please email mhahn@lst.uni-saarland.de your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted. Include "[Brain-Seminar]" in the subject of any email you send me about this class.
 
 
 <!----CMS------------>
