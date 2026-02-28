@@ -37,6 +37,9 @@ This lecture is offered in Summer Semester 2026.
 * Where: Building B3.2, HS 0.03
 * Lecturers: Michael Hahn and Yash Sarrof
 
+Please register
+* [on CMS](https://cms.sic.saarland/ml_theory_lm_ss26/) to participate in the class
+* [on LSF](https://www.lsf.uni-saarland.de) to be eligible for receiving credit
 
 ## Material
 
