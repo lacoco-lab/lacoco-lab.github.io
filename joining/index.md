@@ -30,7 +30,7 @@ In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group)
 * contact details of 2 or 3 references.
 
-We do not currently have an open call, but you can always inquire and apply on an ad-hoc basis.
+<!--We do not currently have an open call, but you can always inquire and apply on an ad-hoc basis.-->
 <!--Please include the reference number W2740 in your email subject when applying.-->
 
 <!--For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
