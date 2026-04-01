@@ -20,9 +20,9 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
 
-**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you apply via these portals, send me a note via email so I don't miss your application.
+**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you apply via these portals, send Michael a note via email so I don't miss your application.
 
-*The next deadlines are **end of April 2026** for the Saarbrücken Graduate School, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via these portals, please send me a note via email.*
+*The next deadlines are **end of April 2026** for the Saarbrücken Graduate School, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via these portals, please send Michael a note via email.*
 
 **Direct application (only for applicants who will have an MSc by the start date of the PhD):**  You can directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
 In your email to Michael (mhahn@lst.uni-saarland.de), please include:
