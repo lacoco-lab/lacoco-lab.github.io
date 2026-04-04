@@ -31,6 +31,8 @@ In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group)
 * contact details of 2 or 3 references.
 
+*Note: Please apply via the central portals when possible. You can consider direct application when the deadlines are far away or there is a specific call from our lab.*
+
 <!--We do not currently have an open call, but you can always inquire and apply on an ad-hoc basis.-->
 <!--Please include the reference number W2740 in your email subject when applying.-->
 
