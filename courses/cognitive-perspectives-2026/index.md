@@ -15,7 +15,7 @@ In addition, there will be an introductory lecture + coordination session **3-5 
 - Language models and formal vs. functional linguistic competence (Mahowald et al., 2024, AlKhamissi et al. 2025)
 - Next-word prediction and cognition (Wilcox et al., 2025; McCoy et al., 2024)
 - Meta-learning as cognition (Binz et al., 2024 + commentary)
-- Jagged capabilities (Street et al., 2026 + TBD)
+- Jagged cognitive capabilities (Street et al., 2026 + TBD)
 
 ## Syllabus
 
