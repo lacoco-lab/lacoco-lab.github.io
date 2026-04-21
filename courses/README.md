@@ -1,17 +1,15 @@
 # Courses
 
-## Upcoming
+## Current
 
 * Summer 2026 Lecture [Theory of Machine Learning for Language Models](../courses/ml-theory-2026/) (Michael Hahn and Yash Sarrof).
 * Summer 2025 Seminar [Neural Networks in Brains and Computers](../courses/brain-2026/) (Michael Hahn).
  
-## Current
+## Past
 
 * Winter 2025/26 Seminar [Theoretical Abilities and Limitations of Language Models](../courses/theory-25/) (Xinting Huang).
 * Winter 2025/26 Seminar [Milestones in Machine Learning](../courses/classics-25/) (Yash Sarrof)
 * Winter 2025/26 Lecture [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss2526/) (Michael Hahn).
-
-## Past
 * Summer 2025 Seminar [Interpreting and Analyzing Neural Language Models](../courses/interpreting-2025/) (Xinting Huang).
 * Summer 2025 Proseminar [Large Language Models](../courses/proseminar25/) (Michael Hahn). 
 * Summer 2025 Seminar [Neural Networks in Brains and Computers](../courses/brain-2025/) (Michael Hahn). 
