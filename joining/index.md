@@ -25,7 +25,7 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *
 *The next deadlines are **end of April 2026** for the Saarbrücken Graduate School, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via these portals, please send Michael a note via email.*
 
 **Open calls (only for applicants who will have an MSc by the start date of the PhD):**
-You can apply to this call for a joint PhD position with Alexander Koller's group [here](https://www.coli.uni-saarland.de/groups/AK/jobs/). The deadline is **May 11 2026**.
+You can apply to this call for a joint PhD position in our group and Alexander Koller's group [here](https://www.coli.uni-saarland.de/groups/AK/jobs/). The deadline is **May 11 2026**.
 
 **Direct application (only for applicants who will have an MSc by the start date of the PhD):**  You can directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
 In your email to Michael (mhahn@lst.uni-saarland.de), please include:
