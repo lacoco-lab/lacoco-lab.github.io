@@ -188,7 +188,9 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have at most 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is October 31, 2025, 23:59.
+If you use AI tools in your project in any form, you need to explicitly declare and document this in an appendix.
+
+The report should be uploaded via CMS. The due date is October 31, 2026, 23:59.
 
 Everyone is expected to report on their project idea in the project ideas session, and to participate in discussion to give feedback to other students' ideas. Students may prepare a short slide deck on their idea. This will not be graded; the project ideas session is intended to help improve and finetune project ideas.
 
