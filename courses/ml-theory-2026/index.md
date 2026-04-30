@@ -12,12 +12,11 @@ Content at a glance (tentative):
   *   Concentration Inequalities
   *   Generalization Bounds via Uniform Convergence
   *   Rademacher Complexity, Covering Numbers
-  *   VC Dimension
-  *   PAC-Bayes
+  *   Compression / PAC-Bayes
 * Applications to LLM/Transformers
-  *   Learning results for LLMs/Transformers via Covering Numbers
-  *   Hardness of learning for Transformers via Sensitivity
-  *   Length generalization and limit transformers
+  *   Learning results for LLMs/Transformers via Covering Numbers ([Edelman et al, ICML 2022](https://arxiv.org/abs/2110.10090))
+  *   Non-Vacuous generalization bounds for large models ([Lotfi et al, ICML 2024](https://arxiv.org/abs/2312.17173))
+  *   Length generalization and limit transformers ([Huang et al, ICLR 2025](https://arxiv.org/abs/2410.02140))
 
 Prerequisites:
 * Machine learning
