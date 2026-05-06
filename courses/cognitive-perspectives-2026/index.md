@@ -4,9 +4,9 @@
 
 **Instructors:** [Kate McCurdy](https://kmccurdy.github.io/). For any questions, please contact me by email: [kmccurdy@lst.uni-saarland.de](mailto:kmccurdy@lst.uni-saarland.de)
 
-**Time (block seminar):** 1-4 pm Wednesday, Friday, Monday, Wednesday; August 5-12, 2026.
+**Time (block seminar):** 1-4 pm Wednesday, Friday, Monday, Wednesday; August 5-12, 2026. Specific dates may be adjusted based on availability.
 
-In addition, there will be an introductory lecture + coordination session on either **Monday May 11** or **Tuesday May 12**, time TBD, in the Aquarium, 3rd floor in C7 4.
+In addition, there will be an introductory lecture + coordination session on **Tuesday May 12, 14h** in the Aquarium, 3rd floor in C7 4.
 
 **Room:** TBD, likely Aquarium, 3rd floor in C7 4
 
