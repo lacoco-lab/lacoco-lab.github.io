@@ -19,7 +19,9 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *
 <!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
-*The next deadlines are **end of April 2026** for the Saarbrücken Graduate School, **May 11** for an open call for a co-advised position, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*
+*The next deadlines are **May 11** for an open call for a co-advised position, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*
+
+<!-- **end of April 2026** for the Saarbrücken Graduate School, -->
 
 **Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you apply via these portals, send Michael a note via email so we don't miss your application.
 
