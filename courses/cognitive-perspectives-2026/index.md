@@ -24,9 +24,9 @@ In addition, there will be an introductory lecture + coordination session on **T
 
 There is no final project in this seminar. Grades will be evaluated as follows:
 
-60% presentation
-20% reading summary 1
-20% reading summary 2
+- 60% presentation
+- 20% reading summary 1
+- 20% reading summary 2
 
 ### Reading summaries
 
