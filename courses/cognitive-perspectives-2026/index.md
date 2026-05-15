@@ -10,6 +10,8 @@ In addition, there will be an introductory lecture + coordination session on **T
 
 **Room:** TBD, likely Aquarium, 3rd floor in C7 4
 
+**Registration deadline**: **Wednesday July 10**
+
 ## Syllabus
 
 **Note: The syllabus is subject to change. We will discuss this in the introduction meeting.**
