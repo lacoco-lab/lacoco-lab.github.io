@@ -14,7 +14,7 @@ In addition, there will be an introductory lecture + coordination session on **T
 
 **Note: The syllabus is subject to change. We will discuss this in the introduction meeting.**
   
-| Date              | Topic                                             | Readings                                              | Presenter/s |
+| Date              | Topic                                             | Readings                                              | Presenters |
 | ----------------- | ------------------------------------------------- | ----------------------------------------------------- | --------- |       
 | Mon, Aug 10, 2026  | Next-word prediction, language, and cognition   | [Wilcox et al. (2025)](https://doi.org/10.1016/j.jml.2025.104650); [McCoy et al. (2024)](https://doi.org/10.1073/pnas.2322420121); [Ying et al., 2025](http://arxiv.org/abs/2502.20502) |           |
 | Weds, Aug 12, 2026 | Cognitive risks of LM use     | [Chandra et al. (2026)](https://arxiv.org/abs/2602.19141); [Baumann et al. (2026)](http://arxiv.org/abs/2604.21853) |           |
