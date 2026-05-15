@@ -20,7 +20,19 @@ In addition, there will be an introductory lecture + coordination session on **T
 | Weds, Aug 12, 2026 | Cognitive risks of LM use     | [Chandra et al. (2026)](https://arxiv.org/abs/2602.19141); [Baumann et al. (2026)](http://arxiv.org/abs/2604.21853) |           |
 | Fri, Aug 14, 2026 | Do LMs represent cognitive and/or cultural intelligence?        | [Farrell et al. (2025)](https://www.science.org/doi/full/10.1126/science.adt9819); [Lupyan and Agüera y Arcas (2026)](http://arxiv.org/abs/2601.11432) |           |
 
-### Presentations
+## Evaluation
+
+There is no final project in this seminar. Grades will be evaluated as follows:
+
+60% presentation
+20% reading summary 1
+20% reading summary 2
+
+### Reading summaries
+
+
+
+### Presentation guidance
 
 Given time limitations, presentations will be strictly kept to 30 minutes each, followed by a break and then a general discussion covering all of the papers. The presentation should focus on high-level points from the readings, such as the main argument and evidence for and against key claims under consideration.
 
