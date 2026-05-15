@@ -17,7 +17,7 @@ In addition, there will be an introductory lecture + coordination session on **T
 | Date              | Topic                                             | Readings                                              | Presenter |
 | ----------------- | ------------------------------------------------- | ----------------------------------------------------- | --------- |       
 | Mon, Aug 10, 2026  | Next-word prediction, language, and cognition   | [Wilcox et al. (2025)](https://doi.org/10.1016/j.jml.2025.104650); [McCoy et al. (2024)](https://doi.org/10.1073/pnas.2322420121); [Ying et al., 2025](http://arxiv.org/abs/2502.20502) |           |
-| Weds, Aug 12, 2026 | Cognitive risks of LM use     | [Baumann et al. (2026)](http://arxiv.org/abs/2604.21853); [Chandra et al. (2026)](https://arxiv.org/abs/2602.19141) |           |
+| Weds, Aug 12, 2026 | Cognitive risks of LM use     | [Chandra et al. (2026)](https://arxiv.org/abs/2602.19141); [Baumann et al. (2026)](http://arxiv.org/abs/2604.21853) |           |
 | Fri, Aug 14, 2026 | Do LMs represent cognitive and/or cultural intelligence?        | [Farrell et al. (2025)](https://www.science.org/doi/full/10.1126/science.adt9819); [Lupyan and Agüera y Arcas (2026)](http://arxiv.org/abs/2601.11432) |           |
 
 ### Presentations
