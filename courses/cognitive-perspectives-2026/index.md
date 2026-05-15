@@ -30,22 +30,18 @@ There is no final project in this seminar. Grades will be evaluated as follows:
 
 ### Reading summaries
 
+- Only prepare on days you don’t present
+- Format:
+  - One bullet point (1-2 sentences) summarizing each assigned paper
+  - One paragraph (length up to you, but absolute max 1 page - half a page would be standard) giving an overall synthesis / take-away from the day’s readings; I may randomly call on people to read aloud their synthesis paragraph in class
+  - One question for discussion
+- Upload to CMS before each seminar session
 
 
 ### Presentation guidance
 
-Given time limitations, presentations will be strictly kept to 30 minutes each, followed by a break and then a general discussion covering all of the papers. The presentation should focus on high-level points from the readings, such as the main argument and evidence for and against key claims under consideration.
-
-Further guidance -- evaluation criteria for presentations and reading summaries:
-
-We expect that presentations will cover the key points from the readings, such as the main evidence for and against the key claims under consideration in the paper.
-
-We do not expect that presentations will cover all details of the papers. Rather, you should focus on big picture findings and conclusions, and are not expected to include every finding from the paper in your presentation. For instance, instead of a table of numbers, highlight key results. When there are multiple similar results in the paper, synthesize them. If the papers have many studies, you might select a representative subset to explain the paper’s conclusions. On the other hand, if the assigned papers primarily discuss/review other work (as is the case in some weeks), draw on material from the work cited to provide richer content and even details where useful.
-
-Make sure to motivate the papers’ research question(s). Give background on key concepts, and convey to the audience your understanding of why certain research decisions were made.
-
-Select what you consider the key points; you are not expected to cover every part of the paper exhaustively. Include details only to the extent that you believe them to be important.
-
-If you present two papers, do not just present them separately. Rather, draw connections, and compare and contrast where appropriate.
-
-Critically engage with the reading: contribute your own opinion on the key findings, and on the paper’s motivation and arguments. In what ways do or don’t you agree with arguments made by the authors?
+- Clearly identify the main argument and evidence for and against key claims 
+- Give specific examples of the task (e.g. stimuli from behavioral experiment, inputs and outputs to computational experiment) 
+- Motivate the argument: why does this matter?
+- Contextualize with relevant background material as needed for core concepts
+- Give your own critical perspective: how could the study be improved? In what ways do or don’t you agree with arguments made by the authors?
