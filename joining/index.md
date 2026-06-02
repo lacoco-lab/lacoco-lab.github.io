@@ -19,11 +19,11 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *
 <!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
-*The next deadline is **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*
+*The next deadline is **June 18** for direct application via email, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*
 
 <!-- **end of April 2026** for the Saarbrücken Graduate School, -->
 
-**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you apply via these portals, send Michael a note via email so we don't miss your application.
+**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you plan to apply via these portals, send Michael a note via email, so we don't miss your application.
 
 
 
@@ -37,13 +37,13 @@ In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group)
 * contact details of 2 or 3 references.
 
-*Note: Please apply via the central portals or to specific open calls when possible. You can consider direct application when the deadlines are far away.*
+<!--*Note: Please apply via the central portals or to specific open calls when possible. You can consider direct application when the deadlines are far away.*-->
 
 <!--We do not currently have an open call, but you can always inquire and apply on an ad-hoc basis.-->
 <!--Please include the reference number W2740 in your email subject when applying.-->
 
-<!--For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
-For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf). -->
+For the current round of recruitment, applications received by **18 June 2026** will receive full consideration.
+<!--For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf). -->
 
 
 
