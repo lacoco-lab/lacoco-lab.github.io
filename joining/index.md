@@ -31,7 +31,7 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *
 You can apply to a call for a joint PhD position in our group and Alexander Koller's group [here](https://www.coli.uni-saarland.de/groups/AK/jobs/). The deadline is **May 11 2026**. You're welcome to apply to this position and the central portals in parallel.-->
 
 
-**Direct application (only for applicants who will have an MSc by the start date of the PhD):**  We have an open position via [ELIZA](https://eliza.school/). You can directly apply to our lab by email. Admitted students will directly join our lab. The position is intended to begin at the earliest possible date (start-date is negotiable in both directions, i.e., earlier start as soon as August 2026 or a later start are possible).
+**Direct application (only for applicants who will have an MSc by the start date of the PhD):**  We have an open position via [ELIZA](https://eliza.school/) (learn more about [ELIZA PhD positions](https://eliza.school/opportunities/eliza-phd-program-fully-funded-positions/)). You can directly apply to our lab by email. Admitted students will directly join our lab. The position is intended to begin at the earliest possible date (start-date is negotiable in both directions, i.e., earlier start as soon as August 2026 or a later start are possible). 
 In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * a cover letter that specifies what qualifies you for the position
 * an academic CV
