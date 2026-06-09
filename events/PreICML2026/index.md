@@ -16,7 +16,7 @@ TBD
 
 ### Main Conference Presentations 
 
-Important note to presenters: Poster boards have width 118.5 x height 146 cm. **If your poster is larger than A0, please confirm space availability with the organizers asap.**
+<!--Important note to presenters: Poster boards have width 118.5 x height 146 cm. **If your poster is larger than A0, please confirm space availability with the organizers asap.**-->
  
 TBD
 
