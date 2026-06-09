@@ -31,6 +31,6 @@ TBD
 
 - [Michael Hahn](https://mhahn.info/)
 - [Yash Sarrof](https://yashsarrof.com/)
+- [Sasha Bakalova](https://cupalex.github.io/)
 - [Entang Wang](https://scholar.google.com/citations?user=TfPdhYsAAAAJ&hl=zh-CN)
 - Sophie Pähler
-- TBC
