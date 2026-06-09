@@ -132,7 +132,9 @@ For students taking the seminar for 7 credits:
 Please register on the forum on CMS.
 
 Starting from the fourth week, every student submits one question about the readings by *Monday* noon.
+Your question can be about one of the two readings, or about them as a whole.
 Questions are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question).
+
 
 ### Presentations
 

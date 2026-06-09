@@ -19,31 +19,54 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *
 <!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
-*The next deadlines are **May 11** for an open call for a co-advised position, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*
+*The next deadline is **June 18** for direct application, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*
 
 <!-- **end of April 2026** for the Saarbrücken Graduate School, -->
 
-**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you apply via these portals, send Michael a note via email so we don't miss your application.
+**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you plan to apply via these portals, send Michael a note via email, so we don't miss your application.
 
 
 
-**Open calls (only for applicants who will have an MSc by the start date of the PhD):**
-You can apply to a call for a joint PhD position in our group and Alexander Koller's group [here](https://www.coli.uni-saarland.de/groups/AK/jobs/). The deadline is **May 11 2026**. You're welcome to apply to this position and the central portals in parallel.
+<!--**Open calls (only for applicants who will have an MSc by the start date of the PhD):**
+You can apply to a call for a joint PhD position in our group and Alexander Koller's group [here](https://www.coli.uni-saarland.de/groups/AK/jobs/). The deadline is **May 11 2026**. You're welcome to apply to this position and the central portals in parallel.-->
 
-**Direct application (only for applicants who will have an MSc by the start date of the PhD):**  You can directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
+
+**Direct application (only for applicants who will have an MSc by the start date of the PhD):**  We have an open position via [ELIZA](https://eliza.school/) (learn more about [ELIZA PhD positions](https://eliza.school/opportunities/eliza-phd-program-fully-funded-positions/)). You can directly apply to our lab by email. Admitted students will directly join our lab. The position is intended to begin at the earliest possible date (start-date is negotiable in both directions, i.e., earlier start as soon as August 2026 or a later start are possible). 
+In your email to Michael (mhahn@lst.uni-saarland.de), please include:
+* a cover letter that specifies what qualifies you for the position
+* an academic CV
+* a list of academic publications
+* your MSc thesis (or a current draft, or a comparable piece of scientific writing)
+* copies of academic degree certificates
+*  names of two potential references.
+*  a statement (up to 2 pages) in your application which outlines your motivation for applying to this position (please specifically refer to one or more recent publications from our group).
+
+Please quote reference number **W2867** in your email. Applications received by **18 June 2026** will receive full consideration.
+
+You find the legally binding version of this call [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2867.pdf).
+
+<!--*Note: Please apply via the central portals or to specific open calls when possible. You can consider direct application when the deadlines are far away.*-->
+
+<!--We do not currently have an open call, but you can always inquire and apply on an ad-hoc basis.-->
+<!--Please include the reference number W2740 in your email subject when applying.-->
+
+
+
+<!--**Direct application (only for applicants who will have an MSc by the start date of the PhD):**  You can directly apply to our lab by email. Admitted students will directly join our lab. Start dates are flexible and can be negotiated.
 In your email to Michael (mhahn@lst.uni-saarland.de), please include:
 * your CV
 * your transcripts
 * a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group)
 * contact details of 2 or 3 references.
 
-*Note: Please apply via the central portals or to specific open calls when possible. You can consider direct application when the deadlines are far away.*
+For the current round of recruitment, applications received by **18 June 2026** will receive full consideration.-->
+
+<!--*Note: Please apply via the central portals or to specific open calls when possible. You can consider direct application when the deadlines are far away.*-->
 
 <!--We do not currently have an open call, but you can always inquire and apply on an ad-hoc basis.-->
 <!--Please include the reference number W2740 in your email subject when applying.-->
 
-<!--For the current round of recruitment, applications received by **20 December 2025** will receive full consideration.
-For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf). -->
+<!--For your reference, you can find the legally binding call for the position [here](https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2740.pdf). -->
 
 
 
@@ -55,7 +78,12 @@ For your reference, you can find the legally binding call for the position [here
 
 ### Joining as a Postdoc
 
-The application process is the same as for PhD students (Direct application to our lab via email).
+You can directly apply to our lab by email. Start dates are flexible and can be negotiated.
+In your email to Michael (mhahn@lst.uni-saarland.de), please include:
+* your CV
+* your transcripts
+* a brief statement explaining your motivation to apply to this position (please specifically refer to one or more recent publications from our group)
+* contact details of 2 or 3 references.
 
 ### Joining  as an Intern
 
