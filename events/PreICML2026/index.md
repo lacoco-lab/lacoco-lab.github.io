@@ -10,9 +10,7 @@ This event is part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Colla
 
 ## Program
 
-TO DO
-
-### Main Conference Presentation
+### Main Conference Presentations
 
 | Title | Authors | Presenter(s) |
 | --- | --- | --- |
