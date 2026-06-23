@@ -28,6 +28,7 @@ This event is part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Colla
 | [Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks](https://icml.cc/virtual/2026/poster/61251) | Paulius Sasnauskas, Yiğit Yalın, Goran Radanović | Yiğit Yalın |
 | [Certified Circuits: Stability Guarantees for Mechanistic Circuits](https://arxiv.org/abs/2602.22968) | Alaa Anani, Tobias Lorenz, Bernt Schiele, Mario Fritz, Jonas Fischer | Alaa Anani & Tobias Lorenz |
 | Fast Reconstruction of Mixture of Bernoulli Distributions | Sanyam Agarwal, Pranjal Dutta, Markus Bläser | Sanyam Agarwal |
+| [Discovering Interpretable Algorithms by Decompiling Transformers to RASP](https://icml.cc/virtual/2026/poster/64112) | Xinting Huang, Aleksandra Bakalova, Satwik Bhattamishra, William Merrill, Michael Hahn | Michael Hahn | 
 
 ### Workshop Presentations
 
