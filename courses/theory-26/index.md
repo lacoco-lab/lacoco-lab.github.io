@@ -1,5 +1,7 @@
 # Theoretical Abilities and Limitations of Language Models
 
+_COPIED FROM LAST YEAR! WILL BE UPDATED!_
+
 **Course Description:**
 LLM have amazing capabilities, but also hallucinate and make reasoning mistakes. Can we understand these abilities and limitations theoretically, as way to figure out ways of overcoming them?
 The incredible scale of current LLMs makes this a daunting prospect. However, recent research has developed mathematical understanding sheeding light on questions such as:
@@ -163,11 +165,11 @@ The report should be uploaded via CMS. The due date is April 6, 2026, 23:59 (i.e
 
 <!--Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas. -->
 
-## Contact
+### Contact
 
 Please contact Yash (ysarrof@lst.uni-saarland.de) or Michael (mhahn@lst.uni-saarland.de) for any questions.
 
-## Accommodations
+### Accommodations
 
 If you need any accommodations due to a disability or chronic illness, please either contact Michael at mhahn@lst.uni-saarland.de or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/administration/diversity.html) of the university.
 
