@@ -39,7 +39,7 @@ We will discuss recent research papers, both from our own group and from other g
 **Registration:**
 * If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/). Admissions decision will be made around the end of the first week of the semester.
 
-* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. If you want to take the seminar but were not selected by the assignment system, please apply for the waiting list by emailing xhuang@lst.uni-saarland.de. Only register in [Course Management System (CMS)](https://cms.sic.saarland/) once you were selected by the assignment system or otherwise admitted by us.
+* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. Only register in [Course Management System (CMS)](https://cms.sic.saarland/) once you were selected by the assignment system or otherwise admitted by us.
 
 <!-- * **In both cases**, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSefoXLB-nR_TNplGNt_N1JfjVUhgfV_2htvSgB7sMR2HobcaA/viewform?usp=header) with your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted. -->
 
@@ -47,9 +47,9 @@ We will discuss recent research papers, both from our own group and from other g
 
 To be added soon. 
 
-| Date | Topic | Readings | Slides | Optional Material | Presenter |
+<!-- | Date | Topic | Readings | Slides | Optional Material | Presenter |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | -->
 
 
 **You are very welcome to propose readings that you are interested in, as long as they are related to the topic of the seminar! Please email us such suggestions.**
