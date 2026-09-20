@@ -1,5 +1,6 @@
 # Joining our lab
 
+**General note (please read before reaching out):** We receive a great number of inquiries, and do not have capacity to respond to all. These days, many of them read like written by AI. You're more likely to get our attention if you write your email yourself!
 
 ### Joining as a Student / Research Assistant (Hiwi)
 
