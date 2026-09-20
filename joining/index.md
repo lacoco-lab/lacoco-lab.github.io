@@ -1,6 +1,6 @@
 # Joining our lab
 
-**General note (please read before reaching out):** We receive a great number of inquiries, and do not have capacity to respond to all. These days, many of them read like written by AI. You're more likely to get our attention if you write your email yourself!
+**General note (please read before reaching out):** We receive a great number of inquiries, and do not have capacity to respond to all. These days, many of them read like written by AI. If you prompt an LLM to write an effective email, it's likely to read exactly like that of everyone else who did the same. You're much more likely to get our attention if you write your email yourself!
 
 ### Joining as a Student / Research Assistant (Hiwi)
 
