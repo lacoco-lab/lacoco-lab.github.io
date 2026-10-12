@@ -28,13 +28,13 @@ This seminar will not presuppose knowledge of any of these fields. However, a wi
 We will discuss recent research papers, both from our own group and from other groups. A lot of this content is highly technical, and it is absolutely fine if you do not understand everything in the paper you'll present. Our focus will be on discussing high-level take-aways for understanding the (in)abilities of current AI systems, and prospects for future developments.
 
 
-**Course Management System:** [CMS](https://cms.sic.saarland/theory_2526/)
+**Course Management System:** [CMS](https://cms.sic.saarland/theory_2627/)
 
 **Instructors:** Yash Sarrof and Michael Hahn
 
-**Time:** TBD
+**Time:** See LSF for definitive info.
 
-**Room:** TBD
+**Room:** See LSF for definitive info.
 
 **Registration:**
 * If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2526/). Admissions decision will be made around the end of the first week of the semester.
