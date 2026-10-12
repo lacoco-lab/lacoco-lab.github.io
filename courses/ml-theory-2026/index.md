@@ -49,13 +49,10 @@ We'll also take a view towards Transformers/Language Models, based on further re
 
 ## Syllabus
 
-TBD
+See [here](https://docs.google.com/document/d/1B-RHH5xiyzYSiLBBNAT2YhCjJIIWbStDskbz6PxLSHw/edit?usp=sharing) (evolving during the semester).
 
 The syllabus will evolve over the course of the semester. We'll adjust selection of topics based on what works best.
 
 ## Grading
 
-TBD
-
-
-## Other
+See CMS.
