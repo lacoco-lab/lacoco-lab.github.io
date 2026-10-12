@@ -39,19 +39,47 @@ We will discuss recent research papers, both from our own group and from other g
 <div role="region" aria-label="Syllabus readings" tabindex="0" style="overflow-x: auto;">
 <table aria-labelledby="syllabus" style="display: table; width: 100%; min-width: 720px; table-layout: fixed;">
   <colgroup>
-    <col style="width: 6%;">
-    <col style="width: 47%;">
-    <col style="width: 32%;">
+    <col style="width: 14%;">
+    <col style="width: 41%;">
+    <col style="width: 30%;">
     <col style="width: 15%;">
   </colgroup>
   <thead>
     <tr style="background: #f6f8fa;">
-      <th scope="col">#</th>
-      <th scope="col" style="text-align: left;">Core reading</th>
+      <th scope="col" style="text-align: left;">Date</th>
+      <th scope="col" style="text-align: left;">Session / core reading</th>
       <th scope="col" style="text-align: left;">Optional material</th>
       <th scope="col" style="text-align: left;">Presenters</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-10-16">16 Oct 2026</time></th>
+      <td style="vertical-align: top;">
+        <strong>Course introduction</strong><br>
+        <small>Logistics, course structure, and expectations.</small>
+      </td>
+      <td style="vertical-align: top;">—</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-10-23">23 Oct 2026</time></th>
+      <td style="vertical-align: top;">
+        <strong>No class</strong>
+      </td>
+      <td style="vertical-align: top;">—</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-10-30">30 Oct 2026</time></th>
+      <td style="vertical-align: top;">
+        <strong>Tutorial</strong><br>
+        <small>For presenters of papers on expressivity and length generalization.</small>
+      </td>
+      <td style="vertical-align: top;">—</td>
+      <td></td>
+    </tr>
+  </tbody>
   <tbody>
     <tr>
       <th colspan="4" scope="rowgroup" style="text-align: left; background: #eaf1f8; color: #243b53;">
@@ -60,7 +88,7 @@ We will discuss recent research papers, both from our own group and from other g
       </th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">1</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-06">6 Nov 2026</time></th>
       <td style="vertical-align: top;">
         <a href="https://aclanthology.org/2020.tacl-1.11/">Theoretical Limitations of Self-Attention in Neural Sequence Models</a><br>
         <small>Hahn · TACL 2020</small>
@@ -72,12 +100,15 @@ We will discuss recent research papers, both from our own group and from other g
       <td></td>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">2</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-13">13 Nov 2026</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=CDmerQ37Zs">The Expressive Power of Transformers with Chain of Thought</a><br>
         <small>Merrill &amp; Sabharwal · ICLR 2024</small>
       </td>
-      <td style="vertical-align: top;">—</td>
+      <td style="vertical-align: top;">
+        <a href="https://jmlr.org/papers/volume22/20-302/20-302.pdf">Attention is Turing-Complete</a><br>
+        <small>Pérez, Barceló &amp; Marinkovic · JMLR 2021</small>
+      </td>
       <td></td>
     </tr>
   </tbody>
@@ -89,7 +120,7 @@ We will discuss recent research papers, both from our own group and from other g
       </th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">3</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-20">20 Nov 2026</time></th>
       <td style="vertical-align: top;">
         <strong>RASP:</strong> <a href="https://proceedings.mlr.press/v139/weiss21a.html">Thinking Like Transformers</a><br>
         <small>Weiss, Goldberg &amp; Yahav · ICML 2021</small><br><br>
@@ -103,7 +134,7 @@ We will discuss recent research papers, both from our own group and from other g
       <td></td>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">4</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-27">27 Nov 2026</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=U49N5V51rU">A Formal Framework for Understanding Length Generalization in Transformers</a><br>
         <small>Huang et al. · ICLR 2025</small>
@@ -117,22 +148,36 @@ We will discuss recent research papers, both from our own group and from other g
   </tbody>
   <tbody>
     <tr>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-04">4 Dec 2026</time></th>
+      <td style="vertical-align: top;">
+        <strong>Tutorial</strong><br>
+        <small>For rest of the readings</small>
+      </td>
+      <td style="vertical-align: top;">—</td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <th colspan="4" scope="rowgroup" style="text-align: left; background: #eaf1f8; color: #243b53;">
         Fine-Grained Theoretical Insights<br>
         <small style="font-weight: normal;">Can we get deeper/ more predictive insights into architecture performance?  </small>
       </th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">5</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-11">11 Dec 2026</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=29LwAgLFpj">Characterizing the Expressivity of Fixed-Precision Transformer Language Models</a><br>
         <small>Li &amp; Cotterell · NeurIPS 2025</small>
       </td>
-      <td style="vertical-align: top;">—</td>
+      <td style="vertical-align: top;">
+        <a href="https://arxiv.org/abs/2210.02671">A Logic for Expressing Log-Precision Transformers</a><br>
+        <small>Merrill &amp; Sabharwal · NeurIPS 2023</small>
+      </td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">6</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-18">18 Dec 2026</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=jPduiyxyfw">Knee-Deep in C-RASP: A Transformer Depth Hierarchy</a><br>
         <small>Yang, Cadilhac &amp; Chiang · NeurIPS 2025</small>
@@ -144,12 +189,15 @@ We will discuss recent research papers, both from our own group and from other g
       <td></td>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">7</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-08">8 Jan 2027</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=fAvNUFbBfM">Algebraic Decomposition Theory for Transformer Length Generalization</a><br>
         <small>Yang et al. · COLM 2026</small>
       </td>
-      <td style="vertical-align: top;">—</td>
+      <td style="vertical-align: top;">
+        <a href="https://openreview.net/forum?id=De4FYqjFueZ">Transformers Learn Shortcuts to Automata</a><br>
+        <small>Liu et al. · ICLR 2023</small>
+      </td>
       <td></td>
     </tr>
   </tbody>
@@ -161,34 +209,26 @@ We will discuss recent research papers, both from our own group and from other g
       </th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">8</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-15">15 Jan 2027</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=UvTo3tVBk2">Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues</a><br>
         <small>Grazzi et al. · ICLR 2025</small>
       </td>
       <td style="vertical-align: top;">
-        <a href="https://openreview.net/forum?id=QZgo9JZpLq">The Illusion of State in State-Space Models</a><br>
-        <small>Merrill, Petty &amp; Sabharwal · ICML 2024</small>
+        <a href="https://openreview.net/pdf?id=eV5YIrJPdy">The Expressive Capacity of State Space Models: A
+Formal Language Perspective</a><br>
+        <small>Sarrof, Veitsman &amp; Hahn · NeurIPS 2024</small>
       </td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">9</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-22">22 Jan 2027</time></th>
       <td style="vertical-align: top;">
         <a href="https://arxiv.org/abs/2604.03444">Olmo Hybrid: From Theory to Practice and Back</a><br>
-        <small>Merrill et al. · COLM 2026</small><br>
-        <small><em>May span two classes: theory, then architecture and experiments.</em></small>
+        <small>Merrill et al. · COLM 2026</small>
       </td>
-      <td style="vertical-align: top;">—</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row" style="vertical-align: top;">10</th>
-      <td style="vertical-align: top;">
-        <a href="https://openreview.net/forum?id=C9JMOzKD9k">Strassen Attention, Split VC Dimension and Compositionality in Transformers</a><br>
-        <small>Kozachinskiy et al. · NeurIPS 2025</small>
-      </td>
-      <td style="vertical-align: top;">—</td>
+      <td style="vertical-align: top;"><a href="https://openreview.net/forum?id=QZgo9JZpLq">The Illusion of State in State-Space Models</a><br>
+        <small>Merrill, Petty &amp; Sabharwal · ICML 2024</small></td>
       <td></td>
     </tr>
   </tbody>
@@ -200,7 +240,7 @@ We will discuss recent research papers, both from our own group and from other g
       </th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: top;">11</th>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-29">29 Jan 2027</time></th>
       <td style="vertical-align: top;">
         <a href="https://openreview.net/forum?id=Yxz92UuPLQ">Transformers are Inherently Succinct</a><br>
         <small>Bergsträßer, Cotterell &amp; Lin · ICLR 2026</small>
