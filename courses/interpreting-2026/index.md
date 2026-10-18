@@ -12,7 +12,7 @@ Many of our readings will be quite technical. You will need a good background in
 <!-----REGISTRATION----->
 
 **Registration:**
-* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/probing_2627/). Admissions decision will be made around the end of the first week of the semester.
+* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/probing_2627/). Admissions decision will be made around Oct 21.
 
 * If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. Only register in [Course Management System (CMS)](https://cms.sic.saarland/probing_2627/) once you were selected by the assignment system or otherwise admitted by us.
 
