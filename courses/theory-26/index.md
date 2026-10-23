@@ -97,7 +97,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://aclanthology.org/2022.tacl-1.46/">Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity</a><br>
         <small>Hao, Angluin &amp; Frank · TACL 2022</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Samuel BK</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-13">13 Nov 2026</time></th>
@@ -109,7 +109,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://jmlr.org/papers/volume22/20-302/20-302.pdf">Attention is Turing-Complete</a><br>
         <small>Pérez, Barceló &amp; Marinkovic · JMLR 2021</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Aftab Khan</td>
     </tr>
   </tbody>
   <tbody>
@@ -131,7 +131,7 @@ We will discuss recent research papers, both from our own group and from other g
         <strong>D-RASP:</strong> <a href="https://openreview.net/forum?id=QnWjcTk14G">Discovering Interpretable Algorithms by Decompiling Transformers to RASP</a><br>
         <small>Huang et al. · ICML 2026</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Deng Zhepei</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-27">27 Nov 2026</time></th>
@@ -143,7 +143,7 @@ We will discuss recent research papers, both from our own group and from other g
         <strong>C-RASP:</strong> <a href="https://openreview.net/forum?id=FmhPg4UJ9K">Counting Like Transformers: Compiling Temporal Counting Logic Into Softmax Transformers</a><br>
         <small>Yang &amp; Chiang · COLM 2024</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Nazanin Zarei Rad</td>
     </tr>
   </tbody>
   <tbody>
@@ -174,7 +174,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://arxiv.org/abs/2210.02671">A Logic for Expressing Log-Precision Transformers</a><br>
         <small>Merrill &amp; Sabharwal · NeurIPS 2023</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Meropi Maria Lampropoulou</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-18">18 Dec 2026</time></th>
@@ -186,7 +186,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://openreview.net/forum?id=HBOZmG9MR9">Disentangling the Expressivity of RoPE</a><br>
         <small>Jerad et al. · COLM 2026</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Zhanyu Chen</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-08">8 Jan 2027</time></th>
@@ -198,7 +198,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://openreview.net/forum?id=De4FYqjFueZ">Transformers Learn Shortcuts to Automata</a><br>
         <small>Liu et al. · ICLR 2023</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Gaspard Tomas</td>
     </tr>
   </tbody>
   <tbody>
@@ -219,7 +219,7 @@ We will discuss recent research papers, both from our own group and from other g
 Formal Language Perspective</a><br>
         <small>Sarrof, Veitsman &amp; Hahn · NeurIPS 2024</small>
       </td>
-      <td></td>
+      <td style="vertical-align: top;">Phineas Degener</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-22">22 Jan 2027</time></th>
@@ -229,7 +229,7 @@ Formal Language Perspective</a><br>
       </td>
       <td style="vertical-align: top;"><a href="https://openreview.net/forum?id=QZgo9JZpLq">The Illusion of State in State-Space Models</a><br>
         <small>Merrill, Petty &amp; Sabharwal · ICML 2024</small></td>
-      <td></td>
+      <td style="vertical-align: top;">Ali Alfwari</td>
     </tr>
   </tbody>
   <tbody>
@@ -246,7 +246,7 @@ Formal Language Perspective</a><br>
         <small>Bergsträßer, Cotterell &amp; Lin · ICLR 2026</small>
       </td>
       <td style="vertical-align: top;">—</td>
-      <td></td>
+      <td style="vertical-align: top;">Maike Kalms</td>
     </tr>
   </tbody>
 </table>
@@ -315,7 +315,7 @@ The report is expected to contain a brief literature review, motivation of your 
 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
-The report should be uploaded via CMS. The due date is 23:59 on March 15, 2026. 
+The report should be uploaded via CMS. The due date is 23:59 on March 15, 2027.
 
 <!--Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas. -->
 
