@@ -147,7 +147,7 @@ The report should have 8 pages of main report, plus unlimited appendix, in the N
 
 ***You are required to write the report entirely on your own. You may use LLMs to help with the coding. But you are responsible for correctness of the code and experiments. In the report, you should describe which part of the project is done with the help of LLMs in a separate section called "LLMs Usage", which doesn't count towards the page limit.***
 
-The report should be uploaded via CMS. The due date is TBD (usually around the beginning of next semester).
+The report should be uploaded via CMS. The due date is March 15, 2026.
 
 ## Contact
 
