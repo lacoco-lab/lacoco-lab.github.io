@@ -27,7 +27,7 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program*, *Hei
 <!--*The next deadline is **June 18** for direct application, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*-->
 
 
-*Note: The preferred path of application is via the central portals. You can consider direct application when the deadlines are far away. When applying via central portals, please send Michael a note via email.*
+*Note: The preferred path of application is via the central portals. You can consider direct application when the deadlines are far away.*
 
 <!-- **end of April 2026** for the Saarbrücken Graduate School, -->
 
