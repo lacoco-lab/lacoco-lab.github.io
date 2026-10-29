@@ -1,6 +1,8 @@
 # Joining our lab
 
-**General note (please read before reaching out):** We receive a great number of inquiries, and do not have capacity to respond to all. These days, many of them read like written by AI. If you prompt an LLM to write an effective email, it's likely to read exactly like that of everyone else who did the same. You're much more likely to get our attention if you write your email yourself!
+### Please read before reaching out
+
+**tl;dr: Do not use AI when reaching out to us!** We receive a great number of inquiries, and do not have capacity to respond to all. These days, many of them read like written by AI. If you prompt an LLM to write an effective email, it's likely to read exactly like that of everyone else who did the same. You're much more likely to get our attention if you write your email yourself!
 
 ### Joining as a Student / Research Assistant (Hiwi)
 
@@ -16,14 +18,16 @@ Our PhD students are affiliated with the [Saarbrücken Graduate School of Comput
 <!--For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references).-->
 <!--, or via [ELLIS](https://ellis.eu/) and [ELIZA](https://eliza.school/).-->
 
-Our lab is generously funded by prestigious awards (*Emmy Noether Program* and *Heinz Maier Leibnitz Preis*) from the German Research Foundation. We have plenty of compute resources by academic standards.
+Our lab is generously funded by prestigious awards (*Emmy Noether Program*, *Heinz Maier Leibnitz Preis*, *ERC Starting Grant*) from the German Research Foundation and the European Research Council. 
+
+<!--We have plenty of compute resources by academic standards.-->
 <!--PhD salaries start at approximately EUR 3.4K per month (before taxes) and increase over time.-->
 <!--Start dates can be negotiated based on applicants' preferences and funding availability.-->
 
 <!--*The next deadline is **June 18** for direct application, and **end of June 2026** for IMPRS-TRUST. If you're planning to apply via central portals, please send Michael a note via email.*-->
 
 
-*If you're planning to apply via central portals, please send Michael a note via email.*
+*Note: The preferred path of application is via the central portals. You can consider direct application when the deadlines are far away. When applying via central portals, please send Michael a note via email.*
 
 <!-- **end of April 2026** for the Saarbrücken Graduate School, -->
 
