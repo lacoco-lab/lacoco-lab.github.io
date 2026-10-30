@@ -8,8 +8,6 @@ The incredible scale of current LLMs makes this a daunting prospect. However, re
 
 * Which kinds of problems is a transformer likely to generalize on well?
 
-* What are differences between transformers and other architectures (e.g. state-space models)?
-
 * What possible future architectures -- if any -- could replace transformers as the backbone of LLMs?
 
 Research on these questions draws on fields such as computational complexity, formal language theory, and statistical learning theory.
@@ -25,14 +23,15 @@ We will discuss recent research papers, both from our own group and from other g
 
 **Time:** 12:15 - 13:45 (every Friday)
 
-**Room:** Building C7 3 - Seminarraum 1.14
+**Room:** C7.3 / C7.1, 1.14 (the building signage says C7.1).
 
 **Registration:**
-* If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2627/). Admissions decision will be made by the 20th October.
 
-* If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. Only register in [Course Management System (CMS)](https://cms.sic.saarland/) once you were selected by the assignment system or otherwise admitted by us.
+*There are no more spots left in the seminar.*
+* ~~If you are an **LST / CoLi** student, and want to take this class, you should directly register in the [Course Management System (CMS)](https://cms.sic.saarland/theory_2627/). Admissions decision will be made by the 20th October.~~
 
-<!-- * **In both cases**, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSefoXLB-nR_TNplGNt_N1JfjVUhgfV_2htvSgB7sMR2HobcaA/viewform?usp=header) with your top-3 preferences among the items in the syllabus, and a brief explanation why you want to take this course and feel prepared for it. If you want, you are welcome to additionally mention any other topic that you would like to present. If you suggest something interesting, that may boost your chances of being admitted. -->
+* ~~If you are a **Computer Science** student, you should initially register via the Computer Science department seminar registration system. Only register in [Course Management System (CMS)](https://cms.sic.saarland/) once you were selected by the assignment system or otherwise admitted by us.~~
+
 
 ## Syllabus
 
@@ -148,26 +147,27 @@ We will discuss recent research papers, both from our own group and from other g
   </tbody>
   <tbody>
     <tr>
+      <th colspan="4" scope="rowgroup" style="text-align: left; background: #eaf1f8; color: #243b53;">
+        More Fine-Grained Insights<br>
+        <small style="font-weight: normal;">How do depth, precision affect model capabilities, and do theoretical results give deeper insights into what exactly models are capable of, are they capable of hiding their reasoning, are they capable of arbitrary state tracking ? </small>
+      </th>
+    </tr>
+    <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-04">4 Dec 2026</time></th>
       <td style="vertical-align: top;">
-        <strong>Tutorial</strong><br>
-        <small>For rest of the readings</small>
+        <strong>Safety:</strong> <a href="https://arxiv.org/abs/2609.37312">Hidden Reasoning Must Leak, but Need Not Be Readable: Fundamental Opportunities and Limits for Chain-of-Thought Monitoring</a><br>
+        <small>Mohammadkhani et al. · arXiv 2026</small>
       </td>
-      <td style="vertical-align: top;">—</td>
-      <td></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="4" scope="rowgroup" style="text-align: left; background: #eaf1f8; color: #243b53;">
-        Fine-Grained Theoretical Insights<br>
-        <small style="font-weight: normal;">Can we get deeper/ more predictive insights into architecture performance?  </small>
-      </th>
+      <td style="vertical-align: top;">
+        <a href="https://openreview.net/pdf?id=NikbrdtYvG">Let's Think Dot by Dot: Hidden Computation in Transformer Language Models</a><br>
+        <small>Pfau, Merrill &amp; Bowman · COLM 2024</small>
+      </td>
+      <td style="vertical-align: top;">Paulina Hussein</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-11">11 Dec 2026</time></th>
       <td style="vertical-align: top;">
-        <a href="https://openreview.net/forum?id=29LwAgLFpj">Characterizing the Expressivity of Fixed-Precision Transformer Language Models</a><br>
+        <strong>Precision:</strong> <a href="https://openreview.net/forum?id=29LwAgLFpj">Characterizing the Expressivity of Fixed-Precision Transformer Language Models</a><br>
         <small>Li &amp; Cotterell · NeurIPS 2025</small>
       </td>
       <td style="vertical-align: top;">
@@ -179,7 +179,7 @@ We will discuss recent research papers, both from our own group and from other g
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-18">18 Dec 2026</time></th>
       <td style="vertical-align: top;">
-        <a href="https://openreview.net/forum?id=jPduiyxyfw">Knee-Deep in C-RASP: A Transformer Depth Hierarchy</a><br>
+        <strong>Depth:</strong> <a href="https://openreview.net/forum?id=jPduiyxyfw">Knee-Deep in C-RASP: A Transformer Depth Hierarchy</a><br>
         <small>Yang, Cadilhac &amp; Chiang · NeurIPS 2025</small>
       </td>
       <td style="vertical-align: top;">
@@ -191,7 +191,7 @@ We will discuss recent research papers, both from our own group and from other g
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-01-08">8 Jan 2027</time></th>
       <td style="vertical-align: top;">
-        <a href="https://openreview.net/forum?id=fAvNUFbBfM">Algebraic Decomposition Theory for Transformer Length Generalization</a><br>
+        <strong>State tracking:</strong> <a href="https://openreview.net/forum?id=fAvNUFbBfM">Algebraic Decomposition Theory for Transformer Length Generalization</a><br>
         <small>Yang et al. · COLM 2026</small>
       </td>
       <td style="vertical-align: top;">
@@ -235,8 +235,8 @@ Formal Language Perspective</a><br>
   <tbody>
     <tr>
       <th colspan="4" scope="rowgroup" style="text-align: left; background: #eaf1f8; color: #243b53;">
-        Why Are Transformers Still So Good?<br>
-        <small style="font-weight: normal;">An alternate and very new way to think about architectures that very clearly establishes why Transformers are so much better than any alternate architecture that has been used in language modeling, thus far.</small>
+        What explains the success of Transformers best?<br>
+        <small style="font-weight: normal;">Which theoretical perspectives best explain Transformer capabilities, limitations, and empirical performance?</small>
       </th>
     </tr>
     <tr>
@@ -248,6 +248,15 @@ Formal Language Perspective</a><br>
       <td style="vertical-align: top;">—</td>
       <td style="vertical-align: top;">Maike Kalms</td>
     </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2027-02-05">5 Feb 2027</time></th>
+      <td style="vertical-align: top;">
+        <a href="https://arxiv.org/html/2610.32104v1">Putting Transformer Theories to the Test</a><br>
+        <small>Altabaa, Schnabel &amp; Tomlinson · arXiv 2026</small>
+      </td>
+      <td style="vertical-align: top;">—</td>
+      <td style="vertical-align: top;">Seyedali Farokh</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -255,7 +264,7 @@ Formal Language Perspective</a><br>
 
 ## Attendance
 
-Active participation is expected in every seminar session. You may miss up to two sessions without providing justification. For each additional session missed beyond that, you must submit a short (~500 words) writeup summarizing your thoughts on the paper(s) discussed in the session you missed.
+Active participation is expected in every seminar session. You may miss up to four sessions without providing justification. For each additional session missed beyond that, you must submit a short (~500 words) writeup summarizing your thoughts on the paper(s) discussed in the session you missed.
 
 ## Evaluation
 
@@ -287,7 +296,7 @@ Questions are graded on a 3-point scale (0: no question submitted, 1: superficia
 
 ### Presentations
 
-Depending on the difficulty of the reading, we might take 2 weeks to discuss a single paper, or at times do 2 papers in a single week. Feel free to present in any format you like, including a white board presentation if you want. If you want a suggestion, here's a recommended (albeit new) format.
+Feel free to present in any format you like, including a white board presentation if you want. If you want a suggestion, here's a recommended format.
 
 1. **Short overview**: Every presentation should start with, a **15 minute presentation** giving high level details, and the overall idea of the paper. You should also then leave about **15 minutes for Q&A**. You are encouraged to combine the Q&A with your presentation, but are not required to do so. In this version of the presentation, you should focus on **big picture findings** and conclusions, and you are not expected to include every finding from the paper.
 For instance, instead of a table of numbers, highlight key results.
@@ -316,8 +325,6 @@ The report is expected to contain a brief literature review, motivation of your 
 The report should have 8 pages of main report, plus unlimited appendix, in the NeurIPS style format. The main report should be self-contained, but you can use the appendix to report prompts, further analyses, or other material.
 
 The report should be uploaded via CMS. The due date is 23:59 on March 15, 2027.
-
-<!--Everyone is expected to report on their project idea in the TBD, session, and to participate in discussion to give feedback to other students' ideas. Feel free to come up with any ideas that might be interesting. Students may prepare a short slide deck on their idea. This will not be graded; the session is intended to help improve and finetune project ideas. -->
 
 ### Contact
 
