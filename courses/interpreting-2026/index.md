@@ -122,7 +122,7 @@ Generating and moderating in-class discussion is a key component of your present
 
 Discussion should happen not just after the presentation, but you should engage the audience and create ample opportunity for discussion during your presentation.
 
-Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. You are not expected to answer each question, feel free to cluster similar questions and discuss them during your presentation. These may be useful for getting discussion started.
+Before the presentation, take a look at the questions that have been posted in the forum and refer to these as needed. You are not expected to answer each question, but you should try to answer most of them. Feel free to cluster similar questions and interleave them with your presentation. These may be useful for getting discussion started.
 Conversely, when attending other students' talks, reciprocate by participating actively in the discussion.
 
 
