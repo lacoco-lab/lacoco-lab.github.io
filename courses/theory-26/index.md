@@ -96,7 +96,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://aclanthology.org/2022.tacl-1.46/">Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity</a><br>
         <small>Hao, Angluin &amp; Frank · TACL 2022</small>
       </td>
-      <td style="vertical-align: top;">Samuel BK</td>
+      <td style="vertical-align: top;"> Yash </td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-11-13">13 Nov 2026</time></th>
@@ -108,7 +108,7 @@ We will discuss recent research papers, both from our own group and from other g
         <a href="https://jmlr.org/papers/volume22/20-302/20-302.pdf">Attention is Turing-Complete</a><br>
         <small>Pérez, Barceló &amp; Marinkovic · JMLR 2021</small>
       </td>
-      <td style="vertical-align: top;">Aftab Khan</td>
+      <td style="vertical-align: top;">Paulina Hussein</td>
     </tr>
   </tbody>
   <tbody>
@@ -149,20 +149,8 @@ We will discuss recent research papers, both from our own group and from other g
     <tr>
       <th colspan="4" scope="rowgroup" style="text-align: left; background: #eaf1f8; color: #243b53;">
         More Fine-Grained Insights<br>
-        <small style="font-weight: normal;">How do depth, precision affect model capabilities, and do theoretical results give deeper insights into what exactly models are capable of, are they capable of hiding their reasoning, are they capable of arbitrary state tracking ? </small>
+        <small style="font-weight: normal;">How do depth, precision affect model capabilities, and do theoretical results give deeper insights into what exactly models are capable of, are they capable of arbitrary state tracking ? </small>
       </th>
-    </tr>
-    <tr>
-      <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-04">4 Dec 2026</time></th>
-      <td style="vertical-align: top;">
-        <strong>Safety:</strong> <a href="https://arxiv.org/abs/2609.37312">Hidden Reasoning Must Leak, but Need Not Be Readable: Fundamental Opportunities and Limits for Chain-of-Thought Monitoring</a><br>
-        <small>Mohammadkhani et al. · arXiv 2026</small>
-      </td>
-      <td style="vertical-align: top;">
-        <a href="https://openreview.net/pdf?id=NikbrdtYvG">Let's Think Dot by Dot: Hidden Computation in Transformer Language Models</a><br>
-        <small>Pfau, Merrill &amp; Bowman · COLM 2024</small>
-      </td>
-      <td style="vertical-align: top;">Paulina Hussein</td>
     </tr>
     <tr>
       <th scope="row" style="vertical-align: top; text-align: left;"><time datetime="2026-12-11">11 Dec 2026</time></th>
@@ -264,7 +252,7 @@ Formal Language Perspective</a><br>
 
 ## Attendance
 
-Active participation is expected in every seminar session. You may miss up to four sessions without providing justification. For each additional session missed beyond that, you must submit a short (~500 words) writeup summarizing your thoughts on the paper(s) discussed in the session you missed.
+Active participation is expected in every seminar session. You may miss up to three sessions without providing justification. For each additional session missed beyond that, you must submit a short (~500 words) writeup summarizing your thoughts on the paper(s) discussed in the session you missed.
 
 ## Evaluation
 
