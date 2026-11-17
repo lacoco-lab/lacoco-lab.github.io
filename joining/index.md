@@ -13,6 +13,8 @@ Please note that we expect applicants to have excellent programming skills, and 
 
 ### Joining  as a PhD Student
 
+**Next deadline: December 15 2026 via [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/).**
+
 We offer fully funded PhD positions. As is typical in Europe, PhDs are expected to take 3-4 years. 
 Our PhD students are affiliated with the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). 
 <!--For 2026 intake, please directly apply to our lab by email (please include CV, transcript, contact details of 2-3 references).-->
