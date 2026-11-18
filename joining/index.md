@@ -33,7 +33,7 @@ Our lab is generously funded by prestigious awards (*Emmy Noether Program*, *Hei
 
 <!-- **end of April 2026** for the Saarbrücken Graduate School, -->
 
-**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase. Students with an MSc can directly join our lab. If you plan to apply via these portals, send Michael a note via email, so we don't miss your application.
+**Application via central portals:** You can apply to the [International Max Planck Research School on Trustworthy Computing (IMPRS-TRUST)](https://www.imprs-trust.mpg.de/) (see website for deadlines) or the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) (see website for deadlines) and name Michael Hahn as your preferred supervisor. These options are open to students with or without an MSc. For students without an MSc, the PhD includes an initial preparatory phase (fully funded by our lab). Students with an MSc can directly join our lab. If you plan to apply via these portals, send Michael a note via email, so we don't miss your application.
 
 
 
